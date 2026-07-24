@@ -1,0 +1,5531 @@
+[
+  {
+    "id": "panpan-65",
+    "brand": "panpan",
+    "code": "65",
+    "name": "65",
+    "hex": "#FAF4C8",
+    "rgb": [
+      250,
+      244,
+      200
+    ],
+    "lab": [
+      95.66,
+      -4.93,
+      21.97
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-2",
+    "brand": "panpan",
+    "code": "2",
+    "name": "2",
+    "hex": "#FFFFD5",
+    "rgb": [
+      255,
+      255,
+      213
+    ],
+    "lab": [
+      99.06,
+      -6.76,
+      20.13
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-28",
+    "brand": "panpan",
+    "code": "28",
+    "name": "28",
+    "hex": "#FEFF8B",
+    "rgb": [
+      254,
+      255,
+      139
+    ],
+    "lab": [
+      97.82,
+      -15.97,
+      54.97
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-3",
+    "brand": "panpan",
+    "code": "3",
+    "name": "3",
+    "hex": "#FBED56",
+    "rgb": [
+      251,
+      237,
+      86
+    ],
+    "lab": [
+      92.47,
+      -12.26,
+      71.82
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-74",
+    "brand": "panpan",
+    "code": "74",
+    "name": "74",
+    "hex": "#F4D738",
+    "rgb": [
+      244,
+      215,
+      56
+    ],
+    "lab": [
+      86.07,
+      -5.56,
+      75.99
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-29",
+    "brand": "panpan",
+    "code": "29",
+    "name": "29",
+    "hex": "#FEAC4C",
+    "rgb": [
+      254,
+      172,
+      76
+    ],
+    "lab": [
+      76.74,
+      21.74,
+      59.68
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-4",
+    "brand": "panpan",
+    "code": "4",
+    "name": "4",
+    "hex": "#FE8B4C",
+    "rgb": [
+      254,
+      139,
+      76
+    ],
+    "lab": [
+      69.51,
+      38.8,
+      51.92
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-88",
+    "brand": "panpan",
+    "code": "88",
+    "name": "88",
+    "hex": "#FFDA45",
+    "rgb": [
+      255,
+      218,
+      69
+    ],
+    "lab": [
+      87.89,
+      -1.95,
+      73.7
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-90",
+    "brand": "panpan",
+    "code": "90",
+    "name": "90",
+    "hex": "#FF995B",
+    "rgb": [
+      255,
+      153,
+      91
+    ],
+    "lab": [
+      72.76,
+      32.85,
+      48.22
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-89",
+    "brand": "panpan",
+    "code": "89",
+    "name": "89",
+    "hex": "#F77C31",
+    "rgb": [
+      247,
+      124,
+      49
+    ],
+    "lab": [
+      65.29,
+      42.52,
+      59.59
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-100",
+    "brand": "panpan",
+    "code": "100",
+    "name": "100",
+    "hex": "#FFDD99",
+    "rgb": [
+      255,
+      221,
+      153
+    ],
+    "lab": [
+      89.52,
+      2.74,
+      37.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-99",
+    "brand": "panpan",
+    "code": "99",
+    "name": "99",
+    "hex": "#FE9F72",
+    "rgb": [
+      254,
+      159,
+      114
+    ],
+    "lab": [
+      74.25,
+      30.95,
+      38.17
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-131",
+    "brand": "panpan",
+    "code": "131",
+    "name": "131",
+    "hex": "#FFC365",
+    "rgb": [
+      255,
+      195,
+      101
+    ],
+    "lab": [
+      82.5,
+      11.61,
+      54.64
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-138",
+    "brand": "panpan",
+    "code": "138",
+    "name": "138",
+    "hex": "#FD543D",
+    "rgb": [
+      253,
+      84,
+      61
+    ],
+    "lab": [
+      59.5,
+      62.91,
+      48.58
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-150",
+    "brand": "panpan",
+    "code": "150",
+    "name": "150",
+    "hex": "#FFF365",
+    "rgb": [
+      255,
+      243,
+      101
+    ],
+    "lab": [
+      94.44,
+      -12.69,
+      67.98
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-216",
+    "brand": "panpan",
+    "code": "216",
+    "name": "216",
+    "hex": "#FFFF9F",
+    "rgb": [
+      255,
+      255,
+      159
+    ],
+    "lab": [
+      98.15,
+      -13.6,
+      45.87
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-213",
+    "brand": "panpan",
+    "code": "213",
+    "name": "213",
+    "hex": "#FFE36E",
+    "rgb": [
+      255,
+      227,
+      110
+    ],
+    "lab": [
+      90.47,
+      -4.14,
+      59.64
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-223",
+    "brand": "panpan",
+    "code": "223",
+    "name": "223",
+    "hex": "#FEBE7D",
+    "rgb": [
+      254,
+      190,
+      125
+    ],
+    "lab": [
+      81.5,
+      15.67,
+      41.62
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-218",
+    "brand": "panpan",
+    "code": "218",
+    "name": "218",
+    "hex": "#FD7C72",
+    "rgb": [
+      253,
+      124,
+      114
+    ],
+    "lab": [
+      66.91,
+      48.26,
+      28.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-242",
+    "brand": "panpan",
+    "code": "242",
+    "name": "242",
+    "hex": "#FFD568",
+    "rgb": [
+      255,
+      213,
+      104
+    ],
+    "lab": [
+      86.92,
+      2.53,
+      58.31
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-276",
+    "brand": "panpan",
+    "code": "276",
+    "name": "276",
+    "hex": "#FFE395",
+    "rgb": [
+      255,
+      227,
+      149
+    ],
+    "lab": [
+      90.95,
+      -0.73,
+      41.57
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-270",
+    "brand": "panpan",
+    "code": "270",
+    "name": "270",
+    "hex": "#F4F57D",
+    "rgb": [
+      244,
+      245,
+      125
+    ],
+    "lab": [
+      94.32,
+      -16.24,
+      57.07
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-274",
+    "brand": "panpan",
+    "code": "274",
+    "name": "274",
+    "hex": "#E6C9B7",
+    "rgb": [
+      230,
+      201,
+      183
+    ],
+    "lab": [
+      82.92,
+      7.4,
+      12.74
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-288",
+    "brand": "panpan",
+    "code": "288",
+    "name": "288",
+    "hex": "#F7F8A2",
+    "rgb": [
+      247,
+      248,
+      162
+    ],
+    "lab": [
+      95.8,
+      -12.87,
+      41.26
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-289",
+    "brand": "panpan",
+    "code": "289",
+    "name": "289",
+    "hex": "#FFD67D",
+    "rgb": [
+      255,
+      214,
+      125
+    ],
+    "lab": [
+      87.41,
+      3.64,
+      48.96
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-290",
+    "brand": "panpan",
+    "code": "290",
+    "name": "290",
+    "hex": "#FFC830",
+    "rgb": [
+      255,
+      200,
+      48
+    ],
+    "lab": [
+      83.33,
+      6.49,
+      76.37
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-48",
+    "brand": "panpan",
+    "code": "48",
+    "name": "48",
+    "hex": "#E6EE31",
+    "rgb": [
+      230,
+      238,
+      49
+    ],
+    "lab": [
+      90.87,
+      -22.94,
+      81.8
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-33",
+    "brand": "panpan",
+    "code": "33",
+    "name": "33",
+    "hex": "#63F347",
+    "rgb": [
+      99,
+      243,
+      71
+    ],
+    "lab": [
+      85.61,
+      -68.55,
+      67.68
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-26",
+    "brand": "panpan",
+    "code": "26",
+    "name": "26",
+    "hex": "#9EF780",
+    "rgb": [
+      158,
+      247,
+      128
+    ],
+    "lab": [
+      89.56,
+      -48,
+      48.66
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-66",
+    "brand": "panpan",
+    "code": "66",
+    "name": "66",
+    "hex": "#5DE035",
+    "rgb": [
+      93,
+      224,
+      53
+    ],
+    "lab": [
+      79.55,
+      -64.72,
+      67.6
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-39",
+    "brand": "panpan",
+    "code": "39",
+    "name": "39",
+    "hex": "#35E352",
+    "rgb": [
+      53,
+      227,
+      82
+    ],
+    "lab": [
+      79.78,
+      -70.71,
+      56.94
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-11",
+    "brand": "panpan",
+    "code": "11",
+    "name": "11",
+    "hex": "#65E2A6",
+    "rgb": [
+      101,
+      226,
+      166
+    ],
+    "lab": [
+      81.79,
+      -48.56,
+      19.02
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-44",
+    "brand": "panpan",
+    "code": "44",
+    "name": "44",
+    "hex": "#3DAF80",
+    "rgb": [
+      61,
+      175,
+      128
+    ],
+    "lab": [
+      64.33,
+      -43.26,
+      14.88
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-10",
+    "brand": "panpan",
+    "code": "10",
+    "name": "10",
+    "hex": "#1C9C4F",
+    "rgb": [
+      28,
+      156,
+      79
+    ],
+    "lab": [
+      56.67,
+      -50.58,
+      30.99
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-79",
+    "brand": "panpan",
+    "code": "79",
+    "name": "79",
+    "hex": "#27523A",
+    "rgb": [
+      39,
+      82,
+      58
+    ],
+    "lab": [
+      31.28,
+      -21.35,
+      9.58
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-96",
+    "brand": "panpan",
+    "code": "96",
+    "name": "96",
+    "hex": "#95D3C2",
+    "rgb": [
+      149,
+      211,
+      194
+    ],
+    "lab": [
+      80.11,
+      -23.34,
+      2.09
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-97",
+    "brand": "panpan",
+    "code": "97",
+    "name": "97",
+    "hex": "#5D722A",
+    "rgb": [
+      93,
+      114,
+      42
+    ],
+    "lab": [
+      44.98,
+      -19.56,
+      36.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-106",
+    "brand": "panpan",
+    "code": "106",
+    "name": "106",
+    "hex": "#166F41",
+    "rgb": [
+      22,
+      111,
+      65
+    ],
+    "lab": [
+      41.09,
+      -36.8,
+      18.56
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-128",
+    "brand": "panpan",
+    "code": "128",
+    "name": "128",
+    "hex": "#CAEB7B",
+    "rgb": [
+      202,
+      235,
+      123
+    ],
+    "lab": [
+      88.64,
+      -27.81,
+      50.46
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-129",
+    "brand": "panpan",
+    "code": "129",
+    "name": "129",
+    "hex": "#ADE946",
+    "rgb": [
+      173,
+      233,
+      70
+    ],
+    "lab": [
+      85.81,
+      -42.1,
+      69.25
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-130",
+    "brand": "panpan",
+    "code": "130",
+    "name": "130",
+    "hex": "#2E5132",
+    "rgb": [
+      46,
+      81,
+      50
+    ],
+    "lab": [
+      31.1,
+      -20.24,
+      14.37
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-141",
+    "brand": "panpan",
+    "code": "141",
+    "name": "141",
+    "hex": "#C5ED9C",
+    "rgb": [
+      197,
+      237,
+      156
+    ],
+    "lab": [
+      89.32,
+      -26.69,
+      35.11
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-142",
+    "brand": "panpan",
+    "code": "142",
+    "name": "142",
+    "hex": "#9BB13A",
+    "rgb": [
+      155,
+      177,
+      58
+    ],
+    "lab": [
+      68.55,
+      -23.98,
+      55.85
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-147",
+    "brand": "panpan",
+    "code": "147",
+    "name": "147",
+    "hex": "#E6EE49",
+    "rgb": [
+      230,
+      238,
+      73
+    ],
+    "lab": [
+      90.99,
+      -21.97,
+      74.59
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-191",
+    "brand": "panpan",
+    "code": "191",
+    "name": "191",
+    "hex": "#24B88C",
+    "rgb": [
+      36,
+      184,
+      140
+    ],
+    "lab": [
+      66.94,
+      -47.72,
+      11.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-192",
+    "brand": "panpan",
+    "code": "192",
+    "name": "192",
+    "hex": "#C2F0CC",
+    "rgb": [
+      194,
+      240,
+      204
+    ],
+    "lab": [
+      90.85,
+      -21.61,
+      12.59
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-207",
+    "brand": "panpan",
+    "code": "207",
+    "name": "207",
+    "hex": "#156A6B",
+    "rgb": [
+      21,
+      106,
+      107
+    ],
+    "lab": [
+      40.46,
+      -23.17,
+      -7.55
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-206",
+    "brand": "panpan",
+    "code": "206",
+    "name": "206",
+    "hex": "#0B3C43",
+    "rgb": [
+      11,
+      60,
+      67
+    ],
+    "lab": [
+      22.68,
+      -12.92,
+      -8.9
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-205",
+    "brand": "panpan",
+    "code": "205",
+    "name": "205",
+    "hex": "#303A21",
+    "rgb": [
+      48,
+      58,
+      33
+    ],
+    "lab": [
+      22.88,
+      -9.44,
+      14.2
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-222",
+    "brand": "panpan",
+    "code": "222",
+    "name": "222",
+    "hex": "#EEFCA5",
+    "rgb": [
+      238,
+      252,
+      165
+    ],
+    "lab": [
+      96.21,
+      -17.83,
+      40.19
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-240",
+    "brand": "panpan",
+    "code": "240",
+    "name": "240",
+    "hex": "#4E846D",
+    "rgb": [
+      78,
+      132,
+      109
+    ],
+    "lab": [
+      50.95,
+      -23.56,
+      6.84
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-248",
+    "brand": "panpan",
+    "code": "248",
+    "name": "248",
+    "hex": "#8D7A35",
+    "rgb": [
+      141,
+      122,
+      53
+    ],
+    "lab": [
+      51.66,
+      -1.4,
+      39.63
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-262",
+    "brand": "panpan",
+    "code": "262",
+    "name": "262",
+    "hex": "#CCE1AF",
+    "rgb": [
+      204,
+      225,
+      175
+    ],
+    "lab": [
+      86.89,
+      -15.62,
+      22.2
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-269",
+    "brand": "panpan",
+    "code": "269",
+    "name": "269",
+    "hex": "#9EE5B9",
+    "rgb": [
+      158,
+      229,
+      185
+    ],
+    "lab": [
+      85.41,
+      -31.13,
+      14.5
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-268",
+    "brand": "panpan",
+    "code": "268",
+    "name": "268",
+    "hex": "#C5E254",
+    "rgb": [
+      197,
+      226,
+      84
+    ],
+    "lab": [
+      85.46,
+      -28.83,
+      64.01
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-285",
+    "brand": "panpan",
+    "code": "285",
+    "name": "285",
+    "hex": "#E2FCB1",
+    "rgb": [
+      226,
+      252,
+      177
+    ],
+    "lab": [
+      95.57,
+      -20.68,
+      33.21
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-286",
+    "brand": "panpan",
+    "code": "286",
+    "name": "286",
+    "hex": "#B0E792",
+    "rgb": [
+      176,
+      231,
+      146
+    ],
+    "lab": [
+      86.23,
+      -32.6,
+      35.85
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-287",
+    "brand": "panpan",
+    "code": "287",
+    "name": "287",
+    "hex": "#9CAB5A",
+    "rgb": [
+      156,
+      171,
+      90
+    ],
+    "lab": [
+      67.23,
+      -17.85,
+      39.71
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-64",
+    "brand": "panpan",
+    "code": "64",
+    "name": "64",
+    "hex": "#E8FFE7",
+    "rgb": [
+      232,
+      255,
+      231
+    ],
+    "lab": [
+      97.81,
+      -11.77,
+      8.93
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-30",
+    "brand": "panpan",
+    "code": "30",
+    "name": "30",
+    "hex": "#A9F9FC",
+    "rgb": [
+      169,
+      249,
+      252
+    ],
+    "lab": [
+      93.11,
+      -23.53,
+      -9.21
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-63",
+    "brand": "panpan",
+    "code": "63",
+    "name": "63",
+    "hex": "#A0E2FB",
+    "rgb": [
+      160,
+      226,
+      251
+    ],
+    "lab": [
+      86.42,
+      -14.7,
+      -18.74
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-77",
+    "brand": "panpan",
+    "code": "77",
+    "name": "77",
+    "hex": "#41CCFF",
+    "rgb": [
+      65,
+      204,
+      255
+    ],
+    "lab": [
+      77,
+      -20.56,
+      -35.57
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-34",
+    "brand": "panpan",
+    "code": "34",
+    "name": "34",
+    "hex": "#01ACEB",
+    "rgb": [
+      1,
+      172,
+      235
+    ],
+    "lab": [
+      66.14,
+      -14.55,
+      -41.71
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-25",
+    "brand": "panpan",
+    "code": "25",
+    "name": "25",
+    "hex": "#50AAF0",
+    "rgb": [
+      80,
+      170,
+      240
+    ],
+    "lab": [
+      67.08,
+      -5.26,
+      -42.87
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-9",
+    "brand": "panpan",
+    "code": "9",
+    "name": "9",
+    "hex": "#3677D2",
+    "rgb": [
+      54,
+      119,
+      210
+    ],
+    "lab": [
+      50.25,
+      10.57,
+      -52.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-52",
+    "brand": "panpan",
+    "code": "52",
+    "name": "52",
+    "hex": "#0F54C0",
+    "rgb": [
+      15,
+      84,
+      192
+    ],
+    "lab": [
+      38.28,
+      22.84,
+      -61.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-42",
+    "brand": "panpan",
+    "code": "42",
+    "name": "42",
+    "hex": "#324BCA",
+    "rgb": [
+      50,
+      75,
+      202
+    ],
+    "lab": [
+      37.79,
+      35.22,
+      -68.47
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-121",
+    "brand": "panpan",
+    "code": "121",
+    "name": "121",
+    "hex": "#3EBCE2",
+    "rgb": [
+      62,
+      188,
+      226
+    ],
+    "lab": [
+      71.2,
+      -22,
+      -28.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-122",
+    "brand": "panpan",
+    "code": "122",
+    "name": "122",
+    "hex": "#28DDDE",
+    "rgb": [
+      40,
+      221,
+      222
+    ],
+    "lab": [
+      80.42,
+      -41.2,
+      -12.77
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-120",
+    "brand": "panpan",
+    "code": "120",
+    "name": "120",
+    "hex": "#1C334D",
+    "rgb": [
+      28,
+      51,
+      77
+    ],
+    "lab": [
+      20.64,
+      0.14,
+      -18.71
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-140",
+    "brand": "panpan",
+    "code": "140",
+    "name": "140",
+    "hex": "#CDE8FF",
+    "rgb": [
+      205,
+      232,
+      255
+    ],
+    "lab": [
+      90.74,
+      -4.12,
+      -14.08
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-139",
+    "brand": "panpan",
+    "code": "139",
+    "name": "139",
+    "hex": "#D5FDFF",
+    "rgb": [
+      213,
+      253,
+      255
+    ],
+    "lab": [
+      96.66,
+      -12.33,
+      -5.23
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-143",
+    "brand": "panpan",
+    "code": "143",
+    "name": "143",
+    "hex": "#22C4C6",
+    "rgb": [
+      34,
+      196,
+      198
+    ],
+    "lab": [
+      72.16,
+      -37.35,
+      -12.22
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-149",
+    "brand": "panpan",
+    "code": "149",
+    "name": "149",
+    "hex": "#1557A8",
+    "rgb": [
+      21,
+      87,
+      168
+    ],
+    "lab": [
+      37.48,
+      11.51,
+      -49.04
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-163",
+    "brand": "panpan",
+    "code": "163",
+    "name": "163",
+    "hex": "#04D1F6",
+    "rgb": [
+      4,
+      209,
+      246
+    ],
+    "lab": [
+      77.45,
+      -29.72,
+      -30.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-196",
+    "brand": "panpan",
+    "code": "196",
+    "name": "196",
+    "hex": "#1D3344",
+    "rgb": [
+      29,
+      51,
+      68
+    ],
+    "lab": [
+      20.23,
+      -2.96,
+      -13.27
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-202",
+    "brand": "panpan",
+    "code": "202",
+    "name": "202",
+    "hex": "#1887A2",
+    "rgb": [
+      24,
+      135,
+      162
+    ],
+    "lab": [
+      51.98,
+      -19.51,
+      -22.66
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-197",
+    "brand": "panpan",
+    "code": "197",
+    "name": "197",
+    "hex": "#176DAF",
+    "rgb": [
+      23,
+      109,
+      175
+    ],
+    "lab": [
+      44.54,
+      0.31,
+      -41.88
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-212",
+    "brand": "panpan",
+    "code": "212",
+    "name": "212",
+    "hex": "#BEDDFF",
+    "rgb": [
+      190,
+      221,
+      255
+    ],
+    "lab": [
+      86.94,
+      -2.87,
+      -19.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-239",
+    "brand": "panpan",
+    "code": "239",
+    "name": "239",
+    "hex": "#67B4BE",
+    "rgb": [
+      103,
+      180,
+      190
+    ],
+    "lab": [
+      68.93,
+      -21.13,
+      -12.5
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-263",
+    "brand": "panpan",
+    "code": "263",
+    "name": "263",
+    "hex": "#C8E2FF",
+    "rgb": [
+      200,
+      226,
+      255
+    ],
+    "lab": [
+      88.87,
+      -2.52,
+      -16.92
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-267",
+    "brand": "panpan",
+    "code": "267",
+    "name": "267",
+    "hex": "#7CC4FF",
+    "rgb": [
+      124,
+      196,
+      255
+    ],
+    "lab": [
+      76.67,
+      -6.59,
+      -35.92
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-271",
+    "brand": "panpan",
+    "code": "271",
+    "name": "271",
+    "hex": "#A9E5E5",
+    "rgb": [
+      169,
+      229,
+      229
+    ],
+    "lab": [
+      87.06,
+      -18.86,
+      -6.15
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-265",
+    "brand": "panpan",
+    "code": "265",
+    "name": "265",
+    "hex": "#3CAED8",
+    "rgb": [
+      60,
+      174,
+      216
+    ],
+    "lab": [
+      66.66,
+      -18.2,
+      -30.41
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-279",
+    "brand": "panpan",
+    "code": "279",
+    "name": "279",
+    "hex": "#D3DFFA",
+    "rgb": [
+      211,
+      223,
+      250
+    ],
+    "lab": [
+      88.7,
+      1.33,
+      -14.48
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-280",
+    "brand": "panpan",
+    "code": "280",
+    "name": "280",
+    "hex": "#BBCFED",
+    "rgb": [
+      187,
+      207,
+      237
+    ],
+    "lab": [
+      82.54,
+      -0.43,
+      -17.01
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-281",
+    "brand": "panpan",
+    "code": "281",
+    "name": "281",
+    "hex": "#34488E",
+    "rgb": [
+      52,
+      72,
+      142
+    ],
+    "lab": [
+      32.52,
+      15.46,
+      -41.29
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-46",
+    "brand": "panpan",
+    "code": "46",
+    "name": "46",
+    "hex": "#AEB4F2",
+    "rgb": [
+      174,
+      180,
+      242
+    ],
+    "lab": [
+      74.86,
+      11.46,
+      -31.49
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-36",
+    "brand": "panpan",
+    "code": "36",
+    "name": "36",
+    "hex": "#858EDD",
+    "rgb": [
+      133,
+      142,
+      221
+    ],
+    "lab": [
+      61.27,
+      16.21,
+      -41.34
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-8",
+    "brand": "panpan",
+    "code": "8",
+    "name": "8",
+    "hex": "#2F54AF",
+    "rgb": [
+      47,
+      84,
+      175
+    ],
+    "lab": [
+      37.91,
+      18.99,
+      -52.46
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-75",
+    "brand": "panpan",
+    "code": "75",
+    "name": "75",
+    "hex": "#182A84",
+    "rgb": [
+      24,
+      42,
+      132
+    ],
+    "lab": [
+      22,
+      28.04,
+      -52.23
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-32",
+    "brand": "panpan",
+    "code": "32",
+    "name": "32",
+    "hex": "#B843C5",
+    "rgb": [
+      184,
+      67,
+      197
+    ],
+    "lab": [
+      49.78,
+      63.75,
+      -45.53
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-27",
+    "brand": "panpan",
+    "code": "27",
+    "name": "27",
+    "hex": "#AC7BDE",
+    "rgb": [
+      172,
+      123,
+      222
+    ],
+    "lab": [
+      60.08,
+      38.07,
+      -43.53
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-7",
+    "brand": "panpan",
+    "code": "7",
+    "name": "7",
+    "hex": "#8854B3",
+    "rgb": [
+      136,
+      84,
+      179
+    ],
+    "lab": [
+      45.4,
+      39.8,
+      -42.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-94",
+    "brand": "panpan",
+    "code": "94",
+    "name": "94",
+    "hex": "#E2D3FF",
+    "rgb": [
+      226,
+      211,
+      255
+    ],
+    "lab": [
+      86.99,
+      13.37,
+      -19.57
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-93",
+    "brand": "panpan",
+    "code": "93",
+    "name": "93",
+    "hex": "#D5B9F8",
+    "rgb": [
+      213,
+      185,
+      248
+    ],
+    "lab": [
+      79.4,
+      21.8,
+      -27.48
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-92",
+    "brand": "panpan",
+    "code": "92",
+    "name": "92",
+    "hex": "#361851",
+    "rgb": [
+      54,
+      24,
+      81
+    ],
+    "lab": [
+      15.65,
+      27.22,
+      -29.19
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-105",
+    "brand": "panpan",
+    "code": "105",
+    "name": "105",
+    "hex": "#B9BAE1",
+    "rgb": [
+      185,
+      186,
+      225
+    ],
+    "lab": [
+      76.6,
+      7.58,
+      -19.56
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-104",
+    "brand": "panpan",
+    "code": "104",
+    "name": "104",
+    "hex": "#DE9AD4",
+    "rgb": [
+      222,
+      154,
+      212
+    ],
+    "lab": [
+      71.82,
+      34.45,
+      -19.39
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-103",
+    "brand": "panpan",
+    "code": "103",
+    "name": "103",
+    "hex": "#B90095",
+    "rgb": [
+      185,
+      0,
+      149
+    ],
+    "lab": [
+      41.98,
+      72.29,
+      -29.45
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-102",
+    "brand": "panpan",
+    "code": "102",
+    "name": "102",
+    "hex": "#8B279B",
+    "rgb": [
+      139,
+      39,
+      155
+    ],
+    "lab": [
+      36.57,
+      56.71,
+      -42.18
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-101",
+    "brand": "panpan",
+    "code": "101",
+    "name": "101",
+    "hex": "#2F1F90",
+    "rgb": [
+      47,
+      31,
+      144
+    ],
+    "lab": [
+      22.29,
+      41.43,
+      -59.19
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-118",
+    "brand": "panpan",
+    "code": "118",
+    "name": "118",
+    "hex": "#E3E1EE",
+    "rgb": [
+      227,
+      225,
+      238
+    ],
+    "lab": [
+      90.02,
+      3.05,
+      -6.08
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-119",
+    "brand": "panpan",
+    "code": "119",
+    "name": "119",
+    "hex": "#C4D4F6",
+    "rgb": [
+      196,
+      212,
+      246
+    ],
+    "lab": [
+      84.73,
+      1.64,
+      -18.44
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-124",
+    "brand": "panpan",
+    "code": "124",
+    "name": "124",
+    "hex": "#A45EC7",
+    "rgb": [
+      164,
+      94,
+      199
+    ],
+    "lab": [
+      51.86,
+      46.48,
+      -43.55
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-153",
+    "brand": "panpan",
+    "code": "153",
+    "name": "153",
+    "hex": "#D8C3D7",
+    "rgb": [
+      216,
+      195,
+      215
+    ],
+    "lab": [
+      81.04,
+      10.89,
+      -7.27
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-161",
+    "brand": "panpan",
+    "code": "161",
+    "name": "161",
+    "hex": "#9C32B2",
+    "rgb": [
+      156,
+      50,
+      178
+    ],
+    "lab": [
+      42.1,
+      60.63,
+      -46.94
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-162",
+    "brand": "panpan",
+    "code": "162",
+    "name": "162",
+    "hex": "#9A009B",
+    "rgb": [
+      154,
+      0,
+      155
+    ],
+    "lab": [
+      36.44,
+      67.56,
+      -42.25
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-198",
+    "brand": "panpan",
+    "code": "198",
+    "name": "198",
+    "hex": "#333A95",
+    "rgb": [
+      51,
+      58,
+      149
+    ],
+    "lab": [
+      29.16,
+      27.2,
+      -51.01
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-217",
+    "brand": "panpan",
+    "code": "217",
+    "name": "217",
+    "hex": "#EBDAFC",
+    "rgb": [
+      235,
+      218,
+      252
+    ],
+    "lab": [
+      89.31,
+      11.96,
+      -14.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-244",
+    "brand": "panpan",
+    "code": "244",
+    "name": "244",
+    "hex": "#7786E5",
+    "rgb": [
+      119,
+      134,
+      229
+    ],
+    "lab": [
+      58.63,
+      19.78,
+      -50.02
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-249",
+    "brand": "panpan",
+    "code": "249",
+    "name": "249",
+    "hex": "#494FC7",
+    "rgb": [
+      73,
+      79,
+      199
+    ],
+    "lab": [
+      39.8,
+      34.69,
+      -63.4
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-273",
+    "brand": "panpan",
+    "code": "273",
+    "name": "273",
+    "hex": "#DFC2F8",
+    "rgb": [
+      223,
+      194,
+      248
+    ],
+    "lab": [
+      82.41,
+      20.08,
+      -22.82
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-18",
+    "brand": "panpan",
+    "code": "18",
+    "name": "18",
+    "hex": "#FDD3CC",
+    "rgb": [
+      253,
+      211,
+      204
+    ],
+    "lab": [
+      87.89,
+      13.63,
+      8.97
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-38",
+    "brand": "panpan",
+    "code": "38",
+    "name": "38",
+    "hex": "#FEC0DF",
+    "rgb": [
+      254,
+      192,
+      223
+    ],
+    "lab": [
+      84.02,
+      26.87,
+      -6.76
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-62",
+    "brand": "panpan",
+    "code": "62",
+    "name": "62",
+    "hex": "#FFB7E7",
+    "rgb": [
+      255,
+      183,
+      231
+    ],
+    "lab": [
+      82.32,
+      33.24,
+      -13.55
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-6",
+    "brand": "panpan",
+    "code": "6",
+    "name": "6",
+    "hex": "#E8649E",
+    "rgb": [
+      232,
+      100,
+      158
+    ],
+    "lab": [
+      60.55,
+      56.84,
+      -5.76
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-40",
+    "brand": "panpan",
+    "code": "40",
+    "name": "40",
+    "hex": "#F551A2",
+    "rgb": [
+      245,
+      81,
+      162
+    ],
+    "lab": [
+      59.81,
+      68.97,
+      -8.96
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-20",
+    "brand": "panpan",
+    "code": "20",
+    "name": "20",
+    "hex": "#F13D74",
+    "rgb": [
+      241,
+      61,
+      116
+    ],
+    "lab": [
+      55.39,
+      70.41,
+      11.6
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-41",
+    "brand": "panpan",
+    "code": "41",
+    "name": "41",
+    "hex": "#C63478",
+    "rgb": [
+      198,
+      52,
+      120
+    ],
+    "lab": [
+      46.74,
+      61.9,
+      -4.27
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-84",
+    "brand": "panpan",
+    "code": "84",
+    "name": "84",
+    "hex": "#FFDBE9",
+    "rgb": [
+      255,
+      219,
+      233
+    ],
+    "lab": [
+      90.69,
+      14.71,
+      -2.21
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-98",
+    "brand": "panpan",
+    "code": "98",
+    "name": "98",
+    "hex": "#E970CC",
+    "rgb": [
+      233,
+      112,
+      204
+    ],
+    "lab": [
+      64.38,
+      57.95,
+      -26.18
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-83",
+    "brand": "panpan",
+    "code": "83",
+    "name": "83",
+    "hex": "#D33793",
+    "rgb": [
+      211,
+      55,
+      147
+    ],
+    "lab": [
+      50.32,
+      67.3,
+      -14.98
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-125",
+    "brand": "panpan",
+    "code": "125",
+    "name": "125",
+    "hex": "#FCDDD2",
+    "rgb": [
+      252,
+      221,
+      210
+    ],
+    "lab": [
+      90.35,
+      8.98,
+      9.33
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-126",
+    "brand": "panpan",
+    "code": "126",
+    "name": "126",
+    "hex": "#F78FC3",
+    "rgb": [
+      247,
+      143,
+      195
+    ],
+    "lab": [
+      71.8,
+      45.72,
+      -9.74
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-127",
+    "brand": "panpan",
+    "code": "127",
+    "name": "127",
+    "hex": "#B5006D",
+    "rgb": [
+      181,
+      0,
+      109
+    ],
+    "lab": [
+      39.46,
+      67.08,
+      -8.64
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-137",
+    "brand": "panpan",
+    "code": "137",
+    "name": "137",
+    "hex": "#FFD1BA",
+    "rgb": [
+      255,
+      209,
+      186
+    ],
+    "lab": [
+      87.2,
+      12.88,
+      17.5
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-135",
+    "brand": "panpan",
+    "code": "135",
+    "name": "135",
+    "hex": "#F8C7C9",
+    "rgb": [
+      248,
+      199,
+      201
+    ],
+    "lab": [
+      84.5,
+      17.67,
+      5.62
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-221",
+    "brand": "panpan",
+    "code": "221",
+    "name": "221",
+    "hex": "#FFF3EB",
+    "rgb": [
+      255,
+      243,
+      235
+    ],
+    "lab": [
+      96.56,
+      2.68,
+      5.29
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-220",
+    "brand": "panpan",
+    "code": "220",
+    "name": "220",
+    "hex": "#FFE2EA",
+    "rgb": [
+      255,
+      226,
+      234
+    ],
+    "lab": [
+      92.4,
+      11.24,
+      -0.24
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-210",
+    "brand": "panpan",
+    "code": "210",
+    "name": "210",
+    "hex": "#FFC7DB",
+    "rgb": [
+      255,
+      199,
+      219
+    ],
+    "lab": [
+      85.62,
+      22.9,
+      -2.25
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-215",
+    "brand": "panpan",
+    "code": "215",
+    "name": "215",
+    "hex": "#FEBAD5",
+    "rgb": [
+      254,
+      186,
+      213
+    ],
+    "lab": [
+      82.38,
+      28.45,
+      -3.82
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-241",
+    "brand": "panpan",
+    "code": "241",
+    "name": "241",
+    "hex": "#D8C7D1",
+    "rgb": [
+      216,
+      199,
+      209
+    ],
+    "lab": [
+      81.87,
+      7.68,
+      -2.83
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-253",
+    "brand": "panpan",
+    "code": "253",
+    "name": "253",
+    "hex": "#BD9DA1",
+    "rgb": [
+      189,
+      157,
+      161
+    ],
+    "lab": [
+      67.66,
+      12.47,
+      2.35
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-252",
+    "brand": "panpan",
+    "code": "252",
+    "name": "252",
+    "hex": "#B785A1",
+    "rgb": [
+      183,
+      133,
+      161
+    ],
+    "lab": [
+      61.15,
+      23.61,
+      -7.28
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-250",
+    "brand": "panpan",
+    "code": "250",
+    "name": "250",
+    "hex": "#937A8D",
+    "rgb": [
+      147,
+      122,
+      141
+    ],
+    "lab": [
+      54.08,
+      13.1,
+      -6.66
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-282",
+    "brand": "panpan",
+    "code": "282",
+    "name": "282",
+    "hex": "#E1BCE8",
+    "rgb": [
+      225,
+      188,
+      232
+    ],
+    "lab": [
+      80.63,
+      20.83,
+      -16.93
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-35",
+    "brand": "panpan",
+    "code": "35",
+    "name": "35",
+    "hex": "#FD957B",
+    "rgb": [
+      253,
+      149,
+      123
+    ],
+    "lab": [
+      72.1,
+      36.48,
+      30.58
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-31",
+    "brand": "panpan",
+    "code": "31",
+    "name": "31",
+    "hex": "#FC3D46",
+    "rgb": [
+      252,
+      61,
+      70
+    ],
+    "lab": [
+      56.57,
+      70.82,
+      40.46
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-53",
+    "brand": "panpan",
+    "code": "53",
+    "name": "53",
+    "hex": "#F74941",
+    "rgb": [
+      247,
+      73,
+      65
+    ],
+    "lab": [
+      57,
+      65.25,
+      43.47
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-54",
+    "brand": "panpan",
+    "code": "54",
+    "name": "54",
+    "hex": "#FC283C",
+    "rgb": [
+      252,
+      40,
+      60
+    ],
+    "lab": [
+      54.6,
+      75.69,
+      43.85
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-5",
+    "brand": "panpan",
+    "code": "5",
+    "name": "5",
+    "hex": "#E7002F",
+    "rgb": [
+      231,
+      0,
+      47
+    ],
+    "lab": [
+      48.51,
+      75.03,
+      43.4
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-16",
+    "brand": "panpan",
+    "code": "16",
+    "name": "16",
+    "hex": "#943630",
+    "rgb": [
+      148,
+      54,
+      48
+    ],
+    "lab": [
+      36.27,
+      39.17,
+      24.64
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-47",
+    "brand": "panpan",
+    "code": "47",
+    "name": "47",
+    "hex": "#971937",
+    "rgb": [
+      151,
+      25,
+      55
+    ],
+    "lab": [
+      33.03,
+      51.45,
+      16.2
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-81",
+    "brand": "panpan",
+    "code": "81",
+    "name": "81",
+    "hex": "#BC0028",
+    "rgb": [
+      188,
+      0,
+      40
+    ],
+    "lab": [
+      39.32,
+      64.4,
+      35.05
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-82",
+    "brand": "panpan",
+    "code": "82",
+    "name": "82",
+    "hex": "#E2677A",
+    "rgb": [
+      226,
+      103,
+      122
+    ],
+    "lab": [
+      59.23,
+      49.58,
+      13.1
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-116",
+    "brand": "panpan",
+    "code": "116",
+    "name": "116",
+    "hex": "#8A4526",
+    "rgb": [
+      138,
+      69,
+      38
+    ],
+    "lab": [
+      37.48,
+      26.82,
+      31.52
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-117",
+    "brand": "panpan",
+    "code": "117",
+    "name": "117",
+    "hex": "#5A2121",
+    "rgb": [
+      90,
+      33,
+      33
+    ],
+    "lab": [
+      21.48,
+      26.25,
+      13.44
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-136",
+    "brand": "panpan",
+    "code": "136",
+    "name": "136",
+    "hex": "#FD4E6A",
+    "rgb": [
+      253,
+      78,
+      106
+    ],
+    "lab": [
+      59.32,
+      67.43,
+      23.23
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-148",
+    "brand": "panpan",
+    "code": "148",
+    "name": "148",
+    "hex": "#F35744",
+    "rgb": [
+      243,
+      87,
+      68
+    ],
+    "lab": [
+      58.32,
+      58.75,
+      43.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-154",
+    "brand": "panpan",
+    "code": "154",
+    "name": "154",
+    "hex": "#FFA9AD",
+    "rgb": [
+      255,
+      169,
+      173
+    ],
+    "lab": [
+      77.67,
+      32.13,
+      11.03
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-204",
+    "brand": "panpan",
+    "code": "204",
+    "name": "204",
+    "hex": "#D30022",
+    "rgb": [
+      211,
+      0,
+      34
+    ],
+    "lab": [
+      44.19,
+      69.88,
+      44.88
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-211",
+    "brand": "panpan",
+    "code": "211",
+    "name": "211",
+    "hex": "#FEC2A6",
+    "rgb": [
+      254,
+      194,
+      166
+    ],
+    "lab": [
+      83.13,
+      17.81,
+      22.4
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-245",
+    "brand": "panpan",
+    "code": "245",
+    "name": "245",
+    "hex": "#E69C79",
+    "rgb": [
+      230,
+      156,
+      121
+    ],
+    "lab": [
+      70.86,
+      23.71,
+      29.51
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-246",
+    "brand": "panpan",
+    "code": "246",
+    "name": "246",
+    "hex": "#D37C46",
+    "rgb": [
+      211,
+      124,
+      70
+    ],
+    "lab": [
+      60.52,
+      29.15,
+      43.29
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-243",
+    "brand": "panpan",
+    "code": "243",
+    "name": "243",
+    "hex": "#C1444A",
+    "rgb": [
+      193,
+      68,
+      74
+    ],
+    "lab": [
+      46.93,
+      50.36,
+      23.95
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-275",
+    "brand": "panpan",
+    "code": "275",
+    "name": "275",
+    "hex": "#CD9391",
+    "rgb": [
+      205,
+      147,
+      145
+    ],
+    "lab": [
+      66.44,
+      21.6,
+      9.77
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-266",
+    "brand": "panpan",
+    "code": "266",
+    "name": "266",
+    "hex": "#F7B4C6",
+    "rgb": [
+      247,
+      180,
+      198
+    ],
+    "lab": [
+      79.9,
+      26.88,
+      0.55
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-272",
+    "brand": "panpan",
+    "code": "272",
+    "name": "272",
+    "hex": "#FDC0D0",
+    "rgb": [
+      253,
+      192,
+      208
+    ],
+    "lab": [
+      83.52,
+      24.18,
+      0.52
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-264",
+    "brand": "panpan",
+    "code": "264",
+    "name": "264",
+    "hex": "#F67E66",
+    "rgb": [
+      246,
+      126,
+      102
+    ],
+    "lab": [
+      66.12,
+      43.84,
+      34.11
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-283",
+    "brand": "panpan",
+    "code": "283",
+    "name": "283",
+    "hex": "#E698AA",
+    "rgb": [
+      230,
+      152,
+      170
+    ],
+    "lab": [
+      71,
+      31.62,
+      2.73
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-284",
+    "brand": "panpan",
+    "code": "284",
+    "name": "284",
+    "hex": "#E54B4F",
+    "rgb": [
+      229,
+      75,
+      79
+    ],
+    "lab": [
+      54.3,
+      59.56,
+      31.63
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-76",
+    "brand": "panpan",
+    "code": "76",
+    "name": "76",
+    "hex": "#FFE2CE",
+    "rgb": [
+      255,
+      226,
+      206
+    ],
+    "lab": [
+      91.73,
+      6.88,
+      13.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-49",
+    "brand": "panpan",
+    "code": "49",
+    "name": "49",
+    "hex": "#FFC4AA",
+    "rgb": [
+      255,
+      196,
+      170
+    ],
+    "lab": [
+      83.78,
+      17.62,
+      21.19
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-80",
+    "brand": "panpan",
+    "code": "80",
+    "name": "80",
+    "hex": "#F4C3A5",
+    "rgb": [
+      244,
+      195,
+      165
+    ],
+    "lab": [
+      82.37,
+      13.36,
+      21.73
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-19",
+    "brand": "panpan",
+    "code": "19",
+    "name": "19",
+    "hex": "#E1B383",
+    "rgb": [
+      225,
+      179,
+      131
+    ],
+    "lab": [
+      76,
+      10.46,
+      30.84
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-43",
+    "brand": "panpan",
+    "code": "43",
+    "name": "43",
+    "hex": "#EDB045",
+    "rgb": [
+      237,
+      176,
+      69
+    ],
+    "lab": [
+      75.75,
+      12.2,
+      61.08
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-50",
+    "brand": "panpan",
+    "code": "50",
+    "name": "50",
+    "hex": "#E99C17",
+    "rgb": [
+      233,
+      156,
+      23
+    ],
+    "lab": [
+      70.29,
+      19.62,
+      71.21
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-17",
+    "brand": "panpan",
+    "code": "17",
+    "name": "17",
+    "hex": "#9D5B3E",
+    "rgb": [
+      157,
+      91,
+      62
+    ],
+    "lab": [
+      45.63,
+      24.19,
+      28.19
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-12",
+    "brand": "panpan",
+    "code": "12",
+    "name": "12",
+    "hex": "#753832",
+    "rgb": [
+      117,
+      56,
+      50
+    ],
+    "lab": [
+      31.44,
+      26.12,
+      16.18
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-91",
+    "brand": "panpan",
+    "code": "91",
+    "name": "91",
+    "hex": "#E6B483",
+    "rgb": [
+      230,
+      180,
+      131
+    ],
+    "lab": [
+      76.74,
+      11.92,
+      31.91
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-87",
+    "brand": "panpan",
+    "code": "87",
+    "name": "87",
+    "hex": "#D98C39",
+    "rgb": [
+      217,
+      140,
+      57
+    ],
+    "lab": [
+      64.81,
+      22.39,
+      54.34
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-112",
+    "brand": "panpan",
+    "code": "112",
+    "name": "112",
+    "hex": "#E0C593",
+    "rgb": [
+      224,
+      197,
+      147
+    ],
+    "lab": [
+      80.68,
+      2.39,
+      28.61
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-113",
+    "brand": "panpan",
+    "code": "113",
+    "name": "113",
+    "hex": "#FFC890",
+    "rgb": [
+      255,
+      200,
+      144
+    ],
+    "lab": [
+      84.27,
+      12.64,
+      35.46
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-115",
+    "brand": "panpan",
+    "code": "115",
+    "name": "115",
+    "hex": "#B7714A",
+    "rgb": [
+      183,
+      113,
+      74
+    ],
+    "lab": [
+      54.42,
+      23.8,
+      33.05
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-114",
+    "brand": "panpan",
+    "code": "114",
+    "name": "114",
+    "hex": "#8D614C",
+    "rgb": [
+      141,
+      97,
+      76
+    ],
+    "lab": [
+      45.27,
+      15.19,
+      19.14
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-133",
+    "brand": "panpan",
+    "code": "133",
+    "name": "133",
+    "hex": "#FCF9E0",
+    "rgb": [
+      252,
+      249,
+      224
+    ],
+    "lab": [
+      97.56,
+      -3.15,
+      12.36
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-134",
+    "brand": "panpan",
+    "code": "134",
+    "name": "134",
+    "hex": "#F2D9BA",
+    "rgb": [
+      242,
+      217,
+      186
+    ],
+    "lab": [
+      87.99,
+      3.92,
+      18.44
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-144",
+    "brand": "panpan",
+    "code": "144",
+    "name": "144",
+    "hex": "#78524B",
+    "rgb": [
+      120,
+      82,
+      75
+    ],
+    "lab": [
+      38.79,
+      14.91,
+      10.5
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-203",
+    "brand": "panpan",
+    "code": "203",
+    "name": "203",
+    "hex": "#FFE4CC",
+    "rgb": [
+      255,
+      228,
+      204
+    ],
+    "lab": [
+      92.18,
+      5.56,
+      15.09
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-208",
+    "brand": "panpan",
+    "code": "208",
+    "name": "208",
+    "hex": "#E07935",
+    "rgb": [
+      224,
+      121,
+      53
+    ],
+    "lab": [
+      61.47,
+      35.16,
+      53.05
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-199",
+    "brand": "panpan",
+    "code": "199",
+    "name": "199",
+    "hex": "#A94023",
+    "rgb": [
+      169,
+      64,
+      35
+    ],
+    "lab": [
+      41.57,
+      41.61,
+      39.02
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-247",
+    "brand": "panpan",
+    "code": "247",
+    "name": "247",
+    "hex": "#B88558",
+    "rgb": [
+      184,
+      133,
+      88
+    ],
+    "lab": [
+      59.59,
+      14.3,
+      31.86
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-15",
+    "brand": "panpan",
+    "code": "15",
+    "name": "15",
+    "hex": "#FDFBFF",
+    "rgb": [
+      253,
+      251,
+      255
+    ],
+    "lab": [
+      98.87,
+      1.36,
+      -1.68
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-1",
+    "brand": "panpan",
+    "code": "1",
+    "name": "1",
+    "hex": "#FEFFFF",
+    "rgb": [
+      254,
+      255,
+      255
+    ],
+    "lab": [
+      99.93,
+      -0.33,
+      -0.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-13",
+    "brand": "panpan",
+    "code": "13",
+    "name": "13",
+    "hex": "#B6B1BA",
+    "rgb": [
+      182,
+      177,
+      186
+    ],
+    "lab": [
+      72.85,
+      3.45,
+      -3.95
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-78",
+    "brand": "panpan",
+    "code": "78",
+    "name": "78",
+    "hex": "#89858C",
+    "rgb": [
+      137,
+      133,
+      140
+    ],
+    "lab": [
+      56.07,
+      2.87,
+      -3.22
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-45",
+    "brand": "panpan",
+    "code": "45",
+    "name": "45",
+    "hex": "#48464E",
+    "rgb": [
+      72,
+      70,
+      78
+    ],
+    "lab": [
+      30.18,
+      2.64,
+      -4.48
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-51",
+    "brand": "panpan",
+    "code": "51",
+    "name": "51",
+    "hex": "#2F2B2F",
+    "rgb": [
+      47,
+      43,
+      47
+    ],
+    "lab": [
+      18.09,
+      2.74,
+      -1.93
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-14",
+    "brand": "panpan",
+    "code": "14",
+    "name": "14",
+    "hex": "#000000",
+    "rgb": [
+      0,
+      0,
+      0
+    ],
+    "lab": [
+      0,
+      0,
+      0
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-85",
+    "brand": "panpan",
+    "code": "85",
+    "name": "85",
+    "hex": "#E7D6DB",
+    "rgb": [
+      231,
+      214,
+      219
+    ],
+    "lab": [
+      87.09,
+      6.7,
+      -0.34
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-95",
+    "brand": "panpan",
+    "code": "95",
+    "name": "95",
+    "hex": "#EDEDED",
+    "rgb": [
+      237,
+      237,
+      237
+    ],
+    "lab": [
+      93.75,
+      0,
+      0
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-86",
+    "brand": "panpan",
+    "code": "86",
+    "name": "86",
+    "hex": "#EEE9EA",
+    "rgb": [
+      238,
+      233,
+      234
+    ],
+    "lab": [
+      92.75,
+      1.85,
+      0.11
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-123",
+    "brand": "panpan",
+    "code": "123",
+    "name": "123",
+    "hex": "#CECDD5",
+    "rgb": [
+      206,
+      205,
+      213
+    ],
+    "lab": [
+      82.69,
+      1.82,
+      -3.84
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-132",
+    "brand": "panpan",
+    "code": "132",
+    "name": "132",
+    "hex": "#FFF5ED",
+    "rgb": [
+      255,
+      245,
+      237
+    ],
+    "lab": [
+      97.1,
+      2,
+      5.04
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-145",
+    "brand": "panpan",
+    "code": "145",
+    "name": "145",
+    "hex": "#F5ECD2",
+    "rgb": [
+      245,
+      236,
+      210
+    ],
+    "lab": [
+      93.48,
+      -1.21,
+      13.7
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-146",
+    "brand": "panpan",
+    "code": "146",
+    "name": "146",
+    "hex": "#CFD7D3",
+    "rgb": [
+      207,
+      215,
+      211
+    ],
+    "lab": [
+      85.29,
+      -3.44,
+      1.03
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-201",
+    "brand": "panpan",
+    "code": "201",
+    "name": "201",
+    "hex": "#98A6A8",
+    "rgb": [
+      152,
+      166,
+      168
+    ],
+    "lab": [
+      67.11,
+      -4.5,
+      -2.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-200",
+    "brand": "panpan",
+    "code": "200",
+    "name": "200",
+    "hex": "#1D1414",
+    "rgb": [
+      29,
+      20,
+      20
+    ],
+    "lab": [
+      7.34,
+      4.53,
+      1.61
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-214",
+    "brand": "panpan",
+    "code": "214",
+    "name": "214",
+    "hex": "#F1EDED",
+    "rgb": [
+      241,
+      237,
+      237
+    ],
+    "lab": [
+      94.05,
+      1.34,
+      0.47
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-219",
+    "brand": "panpan",
+    "code": "219",
+    "name": "219",
+    "hex": "#FFFDF0",
+    "rgb": [
+      255,
+      253,
+      240
+    ],
+    "lab": [
+      99.14,
+      -1.55,
+      6.45
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-209",
+    "brand": "panpan",
+    "code": "209",
+    "name": "209",
+    "hex": "#F6EFE2",
+    "rgb": [
+      246,
+      239,
+      226
+    ],
+    "lab": [
+      94.66,
+      0.16,
+      7.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-251",
+    "brand": "panpan",
+    "code": "251",
+    "name": "251",
+    "hex": "#949FA3",
+    "rgb": [
+      148,
+      159,
+      163
+    ],
+    "lab": [
+      64.75,
+      -3.08,
+      -3.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-291",
+    "brand": "panpan",
+    "code": "291",
+    "name": "291",
+    "hex": "#FFFBE1",
+    "rgb": [
+      255,
+      251,
+      225
+    ],
+    "lab": [
+      98.31,
+      -2.95,
+      12.94
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-277",
+    "brand": "panpan",
+    "code": "277",
+    "name": "277",
+    "hex": "#CACAD4",
+    "rgb": [
+      202,
+      202,
+      212
+    ],
+    "lab": [
+      81.59,
+      1.87,
+      -4.96
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-278",
+    "brand": "panpan",
+    "code": "278",
+    "name": "278",
+    "hex": "#9A9D94",
+    "rgb": [
+      154,
+      157,
+      148
+    ],
+    "lab": [
+      64.26,
+      -2.78,
+      4.33
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-168",
+    "brand": "panpan",
+    "code": "168",
+    "name": "168",
+    "hex": "#BCC6B8",
+    "rgb": [
+      188,
+      198,
+      184
+    ],
+    "lab": [
+      78.78,
+      -6.01,
+      5.83
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-172",
+    "brand": "panpan",
+    "code": "172",
+    "name": "172",
+    "hex": "#8AA386",
+    "rgb": [
+      138,
+      163,
+      134
+    ],
+    "lab": [
+      64.42,
+      -14.41,
+      12.21
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-166",
+    "brand": "panpan",
+    "code": "166",
+    "name": "166",
+    "hex": "#697D80",
+    "rgb": [
+      105,
+      125,
+      128
+    ],
+    "lab": [
+      50.95,
+      -6.58,
+      -4.07
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-167",
+    "brand": "panpan",
+    "code": "167",
+    "name": "167",
+    "hex": "#E3D2BC",
+    "rgb": [
+      227,
+      210,
+      188
+    ],
+    "lab": [
+      85.03,
+      2.34,
+      13.03
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-174",
+    "brand": "panpan",
+    "code": "174",
+    "name": "174",
+    "hex": "#D0CCAA",
+    "rgb": [
+      208,
+      204,
+      170
+    ],
+    "lab": [
+      81.56,
+      -4.23,
+      17.48
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-169",
+    "brand": "panpan",
+    "code": "169",
+    "name": "169",
+    "hex": "#B0A782",
+    "rgb": [
+      176,
+      167,
+      130
+    ],
+    "lab": [
+      68.37,
+      -2.74,
+      20.35
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-171",
+    "brand": "panpan",
+    "code": "171",
+    "name": "171",
+    "hex": "#B4A497",
+    "rgb": [
+      180,
+      164,
+      151
+    ],
+    "lab": [
+      68.38,
+      3.61,
+      8.85
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-177",
+    "brand": "panpan",
+    "code": "177",
+    "name": "177",
+    "hex": "#B38281",
+    "rgb": [
+      179,
+      130,
+      129
+    ],
+    "lab": [
+      59.1,
+      18.74,
+      8.01
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-170",
+    "brand": "panpan",
+    "code": "170",
+    "name": "170",
+    "hex": "#A58767",
+    "rgb": [
+      165,
+      135,
+      103
+    ],
+    "lab": [
+      58.33,
+      6.8,
+      21.51
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-164",
+    "brand": "panpan",
+    "code": "164",
+    "name": "164",
+    "hex": "#C5B2BC",
+    "rgb": [
+      197,
+      178,
+      188
+    ],
+    "lab": [
+      74.41,
+      8.54,
+      -2.6
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-176",
+    "brand": "panpan",
+    "code": "176",
+    "name": "176",
+    "hex": "#9F7594",
+    "rgb": [
+      159,
+      117,
+      148
+    ],
+    "lab": [
+      54.27,
+      21.69,
+      -10.32
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-173",
+    "brand": "panpan",
+    "code": "173",
+    "name": "173",
+    "hex": "#644749",
+    "rgb": [
+      100,
+      71,
+      73
+    ],
+    "lab": [
+      33.34,
+      12.74,
+      3.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-175",
+    "brand": "panpan",
+    "code": "175",
+    "name": "175",
+    "hex": "#D19066",
+    "rgb": [
+      209,
+      144,
+      102
+    ],
+    "lab": [
+      65.33,
+      19.93,
+      32.14
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-165",
+    "brand": "panpan",
+    "code": "165",
+    "name": "165",
+    "hex": "#C77362",
+    "rgb": [
+      199,
+      115,
+      98
+    ],
+    "lab": [
+      57.36,
+      31.25,
+      23.75
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-178",
+    "brand": "panpan",
+    "code": "178",
+    "name": "178",
+    "hex": "#757D78",
+    "rgb": [
+      117,
+      125,
+      120
+    ],
+    "lab": [
+      51.62,
+      -4,
+      1.7
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-71",
+    "brand": "panpan",
+    "code": "71",
+    "name": "71",
+    "hex": "#FCF7F8",
+    "rgb": [
+      252,
+      247,
+      248
+    ],
+    "lab": [
+      97.63,
+      1.83,
+      0.11
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-55",
+    "brand": "panpan",
+    "code": "55",
+    "name": "55",
+    "hex": "#B0A9AC",
+    "rgb": [
+      176,
+      169,
+      172
+    ],
+    "lab": [
+      69.88,
+      3.06,
+      -0.65
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-73",
+    "brand": "panpan",
+    "code": "73",
+    "name": "73",
+    "hex": "#AFDCAB",
+    "rgb": [
+      175,
+      220,
+      171
+    ],
+    "lab": [
+      83.57,
+      -23.88,
+      19.39
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-72",
+    "brand": "panpan",
+    "code": "72",
+    "name": "72",
+    "hex": "#FEA49F",
+    "rgb": [
+      254,
+      164,
+      159
+    ],
+    "lab": [
+      76.15,
+      32.7,
+      16.49
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-56",
+    "brand": "panpan",
+    "code": "56",
+    "name": "56",
+    "hex": "#EE8C3E",
+    "rgb": [
+      238,
+      140,
+      62
+    ],
+    "lab": [
+      67.49,
+      31.29,
+      55.69
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-157",
+    "brand": "panpan",
+    "code": "157",
+    "name": "157",
+    "hex": "#5FD0A7",
+    "rgb": [
+      95,
+      208,
+      167
+    ],
+    "lab": [
+      76.27,
+      -41.93,
+      10.71
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-159",
+    "brand": "panpan",
+    "code": "159",
+    "name": "159",
+    "hex": "#EB9270",
+    "rgb": [
+      235,
+      146,
+      112
+    ],
+    "lab": [
+      69.04,
+      30.16,
+      32.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-158",
+    "brand": "panpan",
+    "code": "158",
+    "name": "158",
+    "hex": "#F0D958",
+    "rgb": [
+      240,
+      217,
+      88
+    ],
+    "lab": [
+      86.43,
+      -6.7,
+      64.4
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-195",
+    "brand": "panpan",
+    "code": "195",
+    "name": "195",
+    "hex": "#D9D9D9",
+    "rgb": [
+      217,
+      217,
+      217
+    ],
+    "lab": [
+      86.7,
+      0,
+      0
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-187",
+    "brand": "panpan",
+    "code": "187",
+    "name": "187",
+    "hex": "#D9C7EA",
+    "rgb": [
+      217,
+      199,
+      234
+    ],
+    "lab": [
+      82.67,
+      12.7,
+      -15
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-185",
+    "brand": "panpan",
+    "code": "185",
+    "name": "185",
+    "hex": "#F3ECC9",
+    "rgb": [
+      243,
+      236,
+      201
+    ],
+    "lab": [
+      93.13,
+      -3.27,
+      17.84
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-190",
+    "brand": "panpan",
+    "code": "190",
+    "name": "190",
+    "hex": "#E6EEF2",
+    "rgb": [
+      230,
+      238,
+      242
+    ],
+    "lab": [
+      93.62,
+      -1.92,
+      -2.85
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-193",
+    "brand": "panpan",
+    "code": "193",
+    "name": "193",
+    "hex": "#AACBEF",
+    "rgb": [
+      170,
+      203,
+      239
+    ],
+    "lab": [
+      80.45,
+      -2.89,
+      -21.34
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-183",
+    "brand": "panpan",
+    "code": "183",
+    "name": "183",
+    "hex": "#337680",
+    "rgb": [
+      51,
+      118,
+      128
+    ],
+    "lab": [
+      45.93,
+      -17.95,
+      -11.88
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-184",
+    "brand": "panpan",
+    "code": "184",
+    "name": "184",
+    "hex": "#668575",
+    "rgb": [
+      102,
+      133,
+      117
+    ],
+    "lab": [
+      52.82,
+      -14.51,
+      5.05
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-182",
+    "brand": "panpan",
+    "code": "182",
+    "name": "182",
+    "hex": "#FEBF45",
+    "rgb": [
+      254,
+      191,
+      69
+    ],
+    "lab": [
+      81.16,
+      11.49,
+      67.11
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-179",
+    "brand": "panpan",
+    "code": "179",
+    "name": "179",
+    "hex": "#FEA324",
+    "rgb": [
+      254,
+      163,
+      36
+    ],
+    "lab": [
+      74.44,
+      25.02,
+      72.32
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-194",
+    "brand": "panpan",
+    "code": "194",
+    "name": "194",
+    "hex": "#FEB89F",
+    "rgb": [
+      254,
+      184,
+      159
+    ],
+    "lab": [
+      80.66,
+      22.23,
+      22.73
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-186",
+    "brand": "panpan",
+    "code": "186",
+    "name": "186",
+    "hex": "#FFFEEC",
+    "rgb": [
+      255,
+      254,
+      236
+    ],
+    "lab": [
+      99.3,
+      -2.71,
+      8.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-188",
+    "brand": "panpan",
+    "code": "188",
+    "name": "188",
+    "hex": "#FEBECF",
+    "rgb": [
+      254,
+      190,
+      207
+    ],
+    "lab": [
+      83.13,
+      25.43,
+      0.51
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-180",
+    "brand": "panpan",
+    "code": "180",
+    "name": "180",
+    "hex": "#ECBEBF",
+    "rgb": [
+      236,
+      190,
+      191
+    ],
+    "lab": [
+      80.97,
+      16.59,
+      5.75
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-189",
+    "brand": "panpan",
+    "code": "189",
+    "name": "189",
+    "hex": "#E4A89F",
+    "rgb": [
+      228,
+      168,
+      159
+    ],
+    "lab": [
+      74.19,
+      20.85,
+      13.33
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-181",
+    "brand": "panpan",
+    "code": "181",
+    "name": "181",
+    "hex": "#A56268",
+    "rgb": [
+      165,
+      98,
+      104
+    ],
+    "lab": [
+      49.17,
+      27.85,
+      8.3
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-109",
+    "brand": "panpan",
+    "code": "109",
+    "name": "109",
+    "hex": "#F2A5E8",
+    "rgb": [
+      242,
+      165,
+      232
+    ],
+    "lab": [
+      77.05,
+      38.61,
+      -22.18
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-111",
+    "brand": "panpan",
+    "code": "111",
+    "name": "111",
+    "hex": "#E9EC91",
+    "rgb": [
+      233,
+      236,
+      145
+    ],
+    "lab": [
+      91.4,
+      -14.17,
+      43.76
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-107",
+    "brand": "panpan",
+    "code": "107",
+    "name": "107",
+    "hex": "#FFFF00",
+    "rgb": [
+      255,
+      255,
+      0
+    ],
+    "lab": [
+      97.14,
+      -21.55,
+      94.48
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-110",
+    "brand": "panpan",
+    "code": "110",
+    "name": "110",
+    "hex": "#FFEBFA",
+    "rgb": [
+      255,
+      235,
+      250
+    ],
+    "lab": [
+      94.98,
+      9.32,
+      -4.78
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-108",
+    "brand": "panpan",
+    "code": "108",
+    "name": "108",
+    "hex": "#76CEDE",
+    "rgb": [
+      118,
+      206,
+      222
+    ],
+    "lab": [
+      78.03,
+      -22.3,
+      -16.16
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-67",
+    "brand": "panpan",
+    "code": "67",
+    "name": "67",
+    "hex": "#D50D21",
+    "rgb": [
+      213,
+      13,
+      33
+    ],
+    "lab": [
+      45.01,
+      69.18,
+      46.3
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-24",
+    "brand": "panpan",
+    "code": "24",
+    "name": "24",
+    "hex": "#F92F83",
+    "rgb": [
+      249,
+      47,
+      131
+    ],
+    "lab": [
+      55.9,
+      77.39,
+      3.6
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-22",
+    "brand": "panpan",
+    "code": "22",
+    "name": "22",
+    "hex": "#FD8324",
+    "rgb": [
+      253,
+      131,
+      36
+    ],
+    "lab": [
+      67.46,
+      41.02,
+      66.63
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-21",
+    "brand": "panpan",
+    "code": "21",
+    "name": "21",
+    "hex": "#F8EC31",
+    "rgb": [
+      248,
+      236,
+      49
+    ],
+    "lab": [
+      91.76,
+      -14.55,
+      83.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-23",
+    "brand": "panpan",
+    "code": "23",
+    "name": "23",
+    "hex": "#35C75B",
+    "rgb": [
+      53,
+      199,
+      91
+    ],
+    "lab": [
+      71.12,
+      -60.45,
+      42.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-69",
+    "brand": "panpan",
+    "code": "69",
+    "name": "69",
+    "hex": "#238891",
+    "rgb": [
+      35,
+      136,
+      145
+    ],
+    "lab": [
+      51.85,
+      -24.63,
+      -12.98
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-37",
+    "brand": "panpan",
+    "code": "37",
+    "name": "37",
+    "hex": "#19779D",
+    "rgb": [
+      25,
+      119,
+      157
+    ],
+    "lab": [
+      46.75,
+      -12.34,
+      -27.83
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-68",
+    "brand": "panpan",
+    "code": "68",
+    "name": "68",
+    "hex": "#1A60C3",
+    "rgb": [
+      26,
+      96,
+      195
+    ],
+    "lab": [
+      42.04,
+      16.73,
+      -57.53
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-70",
+    "brand": "panpan",
+    "code": "70",
+    "name": "70",
+    "hex": "#9A56B4",
+    "rgb": [
+      154,
+      86,
+      180
+    ],
+    "lab": [
+      48.03,
+      43.88,
+      -38.69
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-156",
+    "brand": "panpan",
+    "code": "156",
+    "name": "156",
+    "hex": "#FFDB4C",
+    "rgb": [
+      255,
+      219,
+      76
+    ],
+    "lab": [
+      88.18,
+      -2.14,
+      71.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-151",
+    "brand": "panpan",
+    "code": "151",
+    "name": "151",
+    "hex": "#FFEBFB",
+    "rgb": [
+      255,
+      235,
+      251
+    ],
+    "lab": [
+      95.01,
+      9.49,
+      -5.26
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-160",
+    "brand": "panpan",
+    "code": "160",
+    "name": "160",
+    "hex": "#D8D5CE",
+    "rgb": [
+      216,
+      213,
+      206
+    ],
+    "lab": [
+      85.32,
+      -0.21,
+      3.82
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-152",
+    "brand": "panpan",
+    "code": "152",
+    "name": "152",
+    "hex": "#55514C",
+    "rgb": [
+      85,
+      81,
+      76
+    ],
+    "lab": [
+      34.68,
+      0.62,
+      3.52
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-231",
+    "brand": "panpan",
+    "code": "231",
+    "name": "231",
+    "hex": "#9FE4DF",
+    "rgb": [
+      159,
+      228,
+      223
+    ],
+    "lab": [
+      86.1,
+      -22.52,
+      -4.47
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-237",
+    "brand": "panpan",
+    "code": "237",
+    "name": "237",
+    "hex": "#77CEE9",
+    "rgb": [
+      119,
+      206,
+      233
+    ],
+    "lab": [
+      78.43,
+      -19.12,
+      -21.45
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-238",
+    "brand": "panpan",
+    "code": "238",
+    "name": "238",
+    "hex": "#3ECFCA",
+    "rgb": [
+      62,
+      207,
+      202
+    ],
+    "lab": [
+      76.01,
+      -38.38,
+      -8.59
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-233",
+    "brand": "panpan",
+    "code": "233",
+    "name": "233",
+    "hex": "#4A867A",
+    "rgb": [
+      74,
+      134,
+      122
+    ],
+    "lab": [
+      51.74,
+      -22.6,
+      0.38
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-235",
+    "brand": "panpan",
+    "code": "235",
+    "name": "235",
+    "hex": "#7FCD9D",
+    "rgb": [
+      127,
+      205,
+      157
+    ],
+    "lab": [
+      76.44,
+      -34.46,
+      16.47
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-227",
+    "brand": "panpan",
+    "code": "227",
+    "name": "227",
+    "hex": "#CDE55D",
+    "rgb": [
+      205,
+      229,
+      93
+    ],
+    "lab": [
+      86.9,
+      -26.45,
+      62.01
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-230",
+    "brand": "panpan",
+    "code": "230",
+    "name": "230",
+    "hex": "#E8C7B4",
+    "rgb": [
+      232,
+      199,
+      180
+    ],
+    "lab": [
+      82.54,
+      8.75,
+      13.83
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-234",
+    "brand": "panpan",
+    "code": "234",
+    "name": "234",
+    "hex": "#AD6F3C",
+    "rgb": [
+      173,
+      111,
+      60
+    ],
+    "lab": [
+      52.49,
+      19.65,
+      37.98
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-226",
+    "brand": "panpan",
+    "code": "226",
+    "name": "226",
+    "hex": "#6C372F",
+    "rgb": [
+      108,
+      55,
+      47
+    ],
+    "lab": [
+      29.73,
+      22.6,
+      15.58
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-224",
+    "brand": "panpan",
+    "code": "224",
+    "name": "224",
+    "hex": "#FEB872",
+    "rgb": [
+      254,
+      184,
+      114
+    ],
+    "lab": [
+      79.94,
+      17.89,
+      45.24
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-228",
+    "brand": "panpan",
+    "code": "228",
+    "name": "228",
+    "hex": "#F3C1C0",
+    "rgb": [
+      243,
+      193,
+      192
+    ],
+    "lab": [
+      82.38,
+      17.69,
+      7.33
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-225",
+    "brand": "panpan",
+    "code": "225",
+    "name": "225",
+    "hex": "#C9675E",
+    "rgb": [
+      201,
+      103,
+      94
+    ],
+    "lab": [
+      55,
+      37.99,
+      22.97
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-229",
+    "brand": "panpan",
+    "code": "229",
+    "name": "229",
+    "hex": "#D293BE",
+    "rgb": [
+      210,
+      147,
+      190
+    ],
+    "lab": [
+      68.23,
+      30.36,
+      -12.74
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-232",
+    "brand": "panpan",
+    "code": "232",
+    "name": "232",
+    "hex": "#EA8CB1",
+    "rgb": [
+      234,
+      140,
+      177
+    ],
+    "lab": [
+      69.06,
+      40.32,
+      -3.96
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-236",
+    "brand": "panpan",
+    "code": "236",
+    "name": "236",
+    "hex": "#9C87D6",
+    "rgb": [
+      156,
+      135,
+      214
+    ],
+    "lab": [
+      61,
+      24.79,
+      -37.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-155",
+    "brand": "panpan",
+    "code": "155",
+    "name": "155",
+    "hex": "#FFFFFF",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "lab": [
+      100,
+      0,
+      0
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-59",
+    "brand": "panpan",
+    "code": "59",
+    "name": "59",
+    "hex": "#FD6FB4",
+    "rgb": [
+      253,
+      111,
+      180
+    ],
+    "lab": [
+      66.18,
+      61.01,
+      -9.65
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-60",
+    "brand": "panpan",
+    "code": "60",
+    "name": "60",
+    "hex": "#FEB481",
+    "rgb": [
+      254,
+      180,
+      129
+    ],
+    "lab": [
+      79.22,
+      21.25,
+      36.65
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-57",
+    "brand": "panpan",
+    "code": "57",
+    "name": "57",
+    "hex": "#D7FAA0",
+    "rgb": [
+      215,
+      250,
+      160
+    ],
+    "lab": [
+      94.04,
+      -25.89,
+      39.52
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-58",
+    "brand": "panpan",
+    "code": "58",
+    "name": "58",
+    "hex": "#8BDBFA",
+    "rgb": [
+      139,
+      219,
+      250
+    ],
+    "lab": [
+      83.47,
+      -16.61,
+      -22.77
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-61",
+    "brand": "panpan",
+    "code": "61",
+    "name": "61",
+    "hex": "#E987EA",
+    "rgb": [
+      233,
+      135,
+      234
+    ],
+    "lab": [
+      69.89,
+      51.72,
+      -34.36
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-254",
+    "brand": "panpan",
+    "code": "254",
+    "name": "254",
+    "hex": "#DAABB3",
+    "rgb": [
+      218,
+      171,
+      179
+    ],
+    "lab": [
+      74.37,
+      18.38,
+      2.5
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-255",
+    "brand": "panpan",
+    "code": "255",
+    "name": "255",
+    "hex": "#D6AA87",
+    "rgb": [
+      214,
+      170,
+      135
+    ],
+    "lab": [
+      72.76,
+      11.35,
+      24.18
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-256",
+    "brand": "panpan",
+    "code": "256",
+    "name": "256",
+    "hex": "#C1BD8D",
+    "rgb": [
+      193,
+      189,
+      141
+    ],
+    "lab": [
+      75.86,
+      -6.25,
+      24.84
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-257",
+    "brand": "panpan",
+    "code": "257",
+    "name": "257",
+    "hex": "#96869F",
+    "rgb": [
+      150,
+      134,
+      159
+    ],
+    "lab": [
+      58.07,
+      10.86,
+      -11.07
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-258",
+    "brand": "panpan",
+    "code": "258",
+    "name": "258",
+    "hex": "#8490A6",
+    "rgb": [
+      132,
+      144,
+      166
+    ],
+    "lab": [
+      59.53,
+      0.55,
+      -13.03
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-259",
+    "brand": "panpan",
+    "code": "259",
+    "name": "259",
+    "hex": "#94BFE2",
+    "rgb": [
+      148,
+      191,
+      226
+    ],
+    "lab": [
+      75.48,
+      -5.87,
+      -22.03
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-260",
+    "brand": "panpan",
+    "code": "260",
+    "name": "260",
+    "hex": "#E2A9D2",
+    "rgb": [
+      226,
+      169,
+      210
+    ],
+    "lab": [
+      75.58,
+      27.38,
+      -12.6
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "panpan-261",
+    "brand": "panpan",
+    "code": "261",
+    "name": "261",
+    "hex": "#AB91C0",
+    "rgb": [
+      171,
+      145,
+      192
+    ],
+    "lab": [
+      63.93,
+      18.68,
+      -20.75
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  }
+]

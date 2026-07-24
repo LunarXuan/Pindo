@@ -1,0 +1,952 @@
+[
+  {
+    "id": "hama-H01",
+    "brand": "hama",
+    "code": "H01",
+    "name": "White",
+    "hex": "#FFFFFF",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "lab": [
+      100,
+      0,
+      0
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H02",
+    "brand": "hama",
+    "code": "H02",
+    "name": "Cream",
+    "hex": "#F7E7CE",
+    "rgb": [
+      247,
+      231,
+      206
+    ],
+    "lab": [
+      92.3,
+      1.45,
+      14.13
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H03",
+    "brand": "hama",
+    "code": "H03",
+    "name": "Yellow",
+    "hex": "#FFE135",
+    "rgb": [
+      255,
+      225,
+      53
+    ],
+    "lab": [
+      89.57,
+      -6.06,
+      80.37
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H04",
+    "brand": "hama",
+    "code": "H04",
+    "name": "Orange",
+    "hex": "#FF6600",
+    "rgb": [
+      255,
+      102,
+      0
+    ],
+    "lab": [
+      62.31,
+      55,
+      71.33
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H05",
+    "brand": "hama",
+    "code": "H05",
+    "name": "Red",
+    "hex": "#CC0000",
+    "rgb": [
+      204,
+      0,
+      0
+    ],
+    "lab": [
+      42.52,
+      67.7,
+      56.8
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H06",
+    "brand": "hama",
+    "code": "H06",
+    "name": "Pink",
+    "hex": "#FF66B2",
+    "rgb": [
+      255,
+      102,
+      178
+    ],
+    "lab": [
+      64.95,
+      65.27,
+      -10.31
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H07",
+    "brand": "hama",
+    "code": "H07",
+    "name": "Purple",
+    "hex": "#7B2D8B",
+    "rgb": [
+      123,
+      45,
+      139
+    ],
+    "lab": [
+      33.88,
+      47.57,
+      -36.84
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H08",
+    "brand": "hama",
+    "code": "H08",
+    "name": "Blue",
+    "hex": "#0033CC",
+    "rgb": [
+      0,
+      51,
+      204
+    ],
+    "lab": [
+      31.17,
+      48.05,
+      -80.58
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H09",
+    "brand": "hama",
+    "code": "H09",
+    "name": "Light Blue",
+    "hex": "#66B2FF",
+    "rgb": [
+      102,
+      178,
+      255
+    ],
+    "lab": [
+      70.79,
+      -1.14,
+      -45.15
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H10",
+    "brand": "hama",
+    "code": "H10",
+    "name": "Green",
+    "hex": "#009933",
+    "rgb": [
+      0,
+      153,
+      51
+    ],
+    "lab": [
+      55.09,
+      -55.69,
+      42.67
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H11",
+    "brand": "hama",
+    "code": "H11",
+    "name": "Light Green",
+    "hex": "#66CC66",
+    "rgb": [
+      102,
+      204,
+      102
+    ],
+    "lab": [
+      74.17,
+      -50.25,
+      41.62
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H12",
+    "brand": "hama",
+    "code": "H12",
+    "name": "Brown",
+    "hex": "#8B4513",
+    "rgb": [
+      139,
+      69,
+      19
+    ],
+    "lab": [
+      37.47,
+      26.44,
+      40.98
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H13",
+    "brand": "hama",
+    "code": "H13",
+    "name": "Grey",
+    "hex": "#999999",
+    "rgb": [
+      153,
+      153,
+      153
+    ],
+    "lab": [
+      63.22,
+      0,
+      0
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H14",
+    "brand": "hama",
+    "code": "H14",
+    "name": "Black",
+    "hex": "#1A1A1A",
+    "rgb": [
+      26,
+      26,
+      26
+    ],
+    "lab": [
+      9.26,
+      0,
+      0
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H15",
+    "brand": "hama",
+    "code": "H15",
+    "name": "Tan",
+    "hex": "#D2B48C",
+    "rgb": [
+      210,
+      180,
+      140
+    ],
+    "lab": [
+      74.98,
+      5.02,
+      24.43
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H16",
+    "brand": "hama",
+    "code": "H16",
+    "name": "Dark Green",
+    "hex": "#006400",
+    "rgb": [
+      0,
+      100,
+      0
+    ],
+    "lab": [
+      36.2,
+      -43.37,
+      41.86
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H17",
+    "brand": "hama",
+    "code": "H17",
+    "name": "Dark Red",
+    "hex": "#8B0000",
+    "rgb": [
+      139,
+      0,
+      0
+    ],
+    "lab": [
+      28.09,
+      51,
+      41.29
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H18",
+    "brand": "hama",
+    "code": "H18",
+    "name": "Pastel Yellow",
+    "hex": "#FFFACD",
+    "rgb": [
+      255,
+      250,
+      205
+    ],
+    "lab": [
+      97.65,
+      -5.43,
+      22.23
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H19",
+    "brand": "hama",
+    "code": "H19",
+    "name": "Pastel Blue",
+    "hex": "#AEC6CF",
+    "rgb": [
+      174,
+      198,
+      207
+    ],
+    "lab": [
+      78.4,
+      -6.22,
+      -7.23
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H20",
+    "brand": "hama",
+    "code": "H20",
+    "name": "Pastel Green",
+    "hex": "#77DD77",
+    "rgb": [
+      119,
+      221,
+      119
+    ],
+    "lab": [
+      80.16,
+      -50.08,
+      40.91
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H21",
+    "brand": "hama",
+    "code": "H21",
+    "name": "Pastel Pink",
+    "hex": "#FFD1DC",
+    "rgb": [
+      255,
+      209,
+      220
+    ],
+    "lab": [
+      87.98,
+      17.82,
+      0.68
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H22",
+    "brand": "hama",
+    "code": "H22",
+    "name": "Pastel Lilac",
+    "hex": "#C8A2C8",
+    "rgb": [
+      200,
+      162,
+      200
+    ],
+    "lab": [
+      71.07,
+      20.54,
+      -14.13
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H23",
+    "brand": "hama",
+    "code": "H23",
+    "name": "Neon Yellow",
+    "hex": "#DFFF00",
+    "rgb": [
+      223,
+      255,
+      0
+    ],
+    "lab": [
+      94.83,
+      -34.51,
+      91.73
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H24",
+    "brand": "hama",
+    "code": "H24",
+    "name": "Neon Orange",
+    "hex": "#FF6700",
+    "rgb": [
+      255,
+      103,
+      0
+    ],
+    "lab": [
+      62.48,
+      54.56,
+      71.42
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H25",
+    "brand": "hama",
+    "code": "H25",
+    "name": "Neon Green",
+    "hex": "#39FF14",
+    "rgb": [
+      57,
+      255,
+      20
+    ],
+    "lab": [
+      88.18,
+      -82.09,
+      81.99
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H26",
+    "brand": "hama",
+    "code": "H26",
+    "name": "Neon Red",
+    "hex": "#FF073A",
+    "rgb": [
+      255,
+      7,
+      58
+    ],
+    "lab": [
+      53.73,
+      80.52,
+      44.21
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H27",
+    "brand": "hama",
+    "code": "H27",
+    "name": "Claret",
+    "hex": "#7F1734",
+    "rgb": [
+      127,
+      23,
+      52
+    ],
+    "lab": [
+      27.78,
+      44.81,
+      10.25
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H28",
+    "brand": "hama",
+    "code": "H28",
+    "name": "Plum",
+    "hex": "#8E4585",
+    "rgb": [
+      142,
+      69,
+      133
+    ],
+    "lab": [
+      40.74,
+      39.98,
+      -22.18
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H29",
+    "brand": "hama",
+    "code": "H29",
+    "name": "Turquoise",
+    "hex": "#40E0D0",
+    "rgb": [
+      64,
+      224,
+      208
+    ],
+    "lab": [
+      81.26,
+      -44.08,
+      -4.03
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H30",
+    "brand": "hama",
+    "code": "H30",
+    "name": "Teddy Bear Brown",
+    "hex": "#A0522D",
+    "rgb": [
+      160,
+      82,
+      45
+    ],
+    "lab": [
+      43.8,
+      29.32,
+      35.64
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H31",
+    "brand": "hama",
+    "code": "H31",
+    "name": "Flesh",
+    "hex": "#FFCBA4",
+    "rgb": [
+      255,
+      203,
+      164
+    ],
+    "lab": [
+      85.33,
+      13.25,
+      26.47
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H32",
+    "brand": "hama",
+    "code": "H32",
+    "name": "Olive",
+    "hex": "#808000",
+    "rgb": [
+      128,
+      128,
+      0
+    ],
+    "lab": [
+      51.87,
+      -12.93,
+      56.67
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H33",
+    "brand": "hama",
+    "code": "H33",
+    "name": "Petrol",
+    "hex": "#005F69",
+    "rgb": [
+      0,
+      95,
+      105
+    ],
+    "lab": [
+      36.37,
+      -19.81,
+      -12.51
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H34",
+    "brand": "hama",
+    "code": "H34",
+    "name": "Azure",
+    "hex": "#007FFF",
+    "rgb": [
+      0,
+      127,
+      255
+    ],
+    "lab": [
+      54.44,
+      19.4,
+      -71.36
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H35",
+    "brand": "hama",
+    "code": "H35",
+    "name": "Fuchsia",
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "lab": [
+      60.32,
+      98.23,
+      -60.82
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H36",
+    "brand": "hama",
+    "code": "H36",
+    "name": "Cerise",
+    "hex": "#DE3163",
+    "rgb": [
+      222,
+      49,
+      99
+    ],
+    "lab": [
+      50.25,
+      67.53,
+      14.17
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H37",
+    "brand": "hama",
+    "code": "H37",
+    "name": "Raspberry",
+    "hex": "#E30B5C",
+    "rgb": [
+      227,
+      11,
+      92
+    ],
+    "lab": [
+      48.7,
+      75.15,
+      16.47
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H38",
+    "brand": "hama",
+    "code": "H38",
+    "name": "Burgundy",
+    "hex": "#800020",
+    "rgb": [
+      128,
+      0,
+      32
+    ],
+    "lab": [
+      25.85,
+      48.89,
+      21.3
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H39",
+    "brand": "hama",
+    "code": "H39",
+    "name": "Light Grey",
+    "hex": "#C0C0C0",
+    "rgb": [
+      192,
+      192,
+      192
+    ],
+    "lab": [
+      77.7,
+      0,
+      0
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H40",
+    "brand": "hama",
+    "code": "H40",
+    "name": "Forest Green",
+    "hex": "#228B22",
+    "rgb": [
+      34,
+      139,
+      34
+    ],
+    "lab": [
+      50.59,
+      -49.59,
+      45.02
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H41",
+    "brand": "hama",
+    "code": "H41",
+    "name": "Lime",
+    "hex": "#32CD32",
+    "rgb": [
+      50,
+      205,
+      50
+    ],
+    "lab": [
+      72.61,
+      -67.13,
+      61.44
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H42",
+    "brand": "hama",
+    "code": "H42",
+    "name": "Sand",
+    "hex": "#C2B280",
+    "rgb": [
+      194,
+      178,
+      128
+    ],
+    "lab": [
+      72.81,
+      -1.75,
+      27.68
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H43",
+    "brand": "hama",
+    "code": "H43",
+    "name": "Butterscotch",
+    "hex": "#E89050",
+    "rgb": [
+      232,
+      144,
+      80
+    ],
+    "lab": [
+      67.79,
+      27.68,
+      47.24
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H44",
+    "brand": "hama",
+    "code": "H44",
+    "name": "Lavender",
+    "hex": "#B57EDC",
+    "rgb": [
+      181,
+      126,
+      220
+    ],
+    "lab": [
+      61.58,
+      38.52,
+      -39.99
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H45",
+    "brand": "hama",
+    "code": "H45",
+    "name": "Bright Blue",
+    "hex": "#0096FF",
+    "rgb": [
+      0,
+      150,
+      255
+    ],
+    "lab": [
+      60.81,
+      5.35,
+      -61.11
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H46",
+    "brand": "hama",
+    "code": "H46",
+    "name": "Bright Red",
+    "hex": "#EE0000",
+    "rgb": [
+      238,
+      0,
+      0
+    ],
+    "lab": [
+      49.72,
+      76.02,
+      63.78
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H47",
+    "brand": "hama",
+    "code": "H47",
+    "name": "Bright Yellow",
+    "hex": "#FFD300",
+    "rgb": [
+      255,
+      211,
+      0
+    ],
+    "lab": [
+      85.93,
+      0.11,
+      86.43
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H48",
+    "brand": "hama",
+    "code": "H48",
+    "name": "Skin",
+    "hex": "#FFE0BD",
+    "rgb": [
+      255,
+      224,
+      189
+    ],
+    "lab": [
+      90.89,
+      5.53,
+      21.08
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H49",
+    "brand": "hama",
+    "code": "H49",
+    "name": "Dark Grey",
+    "hex": "#555555",
+    "rgb": [
+      85,
+      85,
+      85
+    ],
+    "lab": [
+      36.15,
+      0,
+      0
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "hama-H50",
+    "brand": "hama",
+    "code": "H50",
+    "name": "Ivory",
+    "hex": "#FFFFF0",
+    "rgb": [
+      255,
+      255,
+      240
+    ],
+    "lab": [
+      99.64,
+      -2.55,
+      7.16
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  }
+]

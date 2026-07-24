@@ -1,0 +1,5531 @@
+[
+  {
+    "id": "mard-A01",
+    "brand": "mard",
+    "code": "A01",
+    "name": "A01",
+    "hex": "#FAF4C8",
+    "rgb": [
+      250,
+      244,
+      200
+    ],
+    "lab": [
+      95.66,
+      -4.93,
+      21.97
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A02",
+    "brand": "mard",
+    "code": "A02",
+    "name": "A02",
+    "hex": "#FFFFD5",
+    "rgb": [
+      255,
+      255,
+      213
+    ],
+    "lab": [
+      99.06,
+      -6.76,
+      20.13
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A03",
+    "brand": "mard",
+    "code": "A03",
+    "name": "A03",
+    "hex": "#FEFF8B",
+    "rgb": [
+      254,
+      255,
+      139
+    ],
+    "lab": [
+      97.82,
+      -15.97,
+      54.97
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A04",
+    "brand": "mard",
+    "code": "A04",
+    "name": "A04",
+    "hex": "#FBED56",
+    "rgb": [
+      251,
+      237,
+      86
+    ],
+    "lab": [
+      92.47,
+      -12.26,
+      71.82
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A05",
+    "brand": "mard",
+    "code": "A05",
+    "name": "A05",
+    "hex": "#F4D738",
+    "rgb": [
+      244,
+      215,
+      56
+    ],
+    "lab": [
+      86.07,
+      -5.56,
+      75.99
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A06",
+    "brand": "mard",
+    "code": "A06",
+    "name": "A06",
+    "hex": "#FEAC4C",
+    "rgb": [
+      254,
+      172,
+      76
+    ],
+    "lab": [
+      76.74,
+      21.74,
+      59.68
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A07",
+    "brand": "mard",
+    "code": "A07",
+    "name": "A07",
+    "hex": "#FE8B4C",
+    "rgb": [
+      254,
+      139,
+      76
+    ],
+    "lab": [
+      69.51,
+      38.8,
+      51.92
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A08",
+    "brand": "mard",
+    "code": "A08",
+    "name": "A08",
+    "hex": "#FFDA45",
+    "rgb": [
+      255,
+      218,
+      69
+    ],
+    "lab": [
+      87.89,
+      -1.95,
+      73.7
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A09",
+    "brand": "mard",
+    "code": "A09",
+    "name": "A09",
+    "hex": "#FF995B",
+    "rgb": [
+      255,
+      153,
+      91
+    ],
+    "lab": [
+      72.76,
+      32.85,
+      48.22
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A10",
+    "brand": "mard",
+    "code": "A10",
+    "name": "A10",
+    "hex": "#F77C31",
+    "rgb": [
+      247,
+      124,
+      49
+    ],
+    "lab": [
+      65.29,
+      42.52,
+      59.59
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A11",
+    "brand": "mard",
+    "code": "A11",
+    "name": "A11",
+    "hex": "#FFDD99",
+    "rgb": [
+      255,
+      221,
+      153
+    ],
+    "lab": [
+      89.52,
+      2.74,
+      37.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A12",
+    "brand": "mard",
+    "code": "A12",
+    "name": "A12",
+    "hex": "#FE9F72",
+    "rgb": [
+      254,
+      159,
+      114
+    ],
+    "lab": [
+      74.25,
+      30.95,
+      38.17
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A13",
+    "brand": "mard",
+    "code": "A13",
+    "name": "A13",
+    "hex": "#FFC365",
+    "rgb": [
+      255,
+      195,
+      101
+    ],
+    "lab": [
+      82.5,
+      11.61,
+      54.64
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A14",
+    "brand": "mard",
+    "code": "A14",
+    "name": "A14",
+    "hex": "#FD543D",
+    "rgb": [
+      253,
+      84,
+      61
+    ],
+    "lab": [
+      59.5,
+      62.91,
+      48.58
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A15",
+    "brand": "mard",
+    "code": "A15",
+    "name": "A15",
+    "hex": "#FFF365",
+    "rgb": [
+      255,
+      243,
+      101
+    ],
+    "lab": [
+      94.44,
+      -12.69,
+      67.98
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A16",
+    "brand": "mard",
+    "code": "A16",
+    "name": "A16",
+    "hex": "#FFFF9F",
+    "rgb": [
+      255,
+      255,
+      159
+    ],
+    "lab": [
+      98.15,
+      -13.6,
+      45.87
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A17",
+    "brand": "mard",
+    "code": "A17",
+    "name": "A17",
+    "hex": "#FFE36E",
+    "rgb": [
+      255,
+      227,
+      110
+    ],
+    "lab": [
+      90.47,
+      -4.14,
+      59.64
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A18",
+    "brand": "mard",
+    "code": "A18",
+    "name": "A18",
+    "hex": "#FEBE7D",
+    "rgb": [
+      254,
+      190,
+      125
+    ],
+    "lab": [
+      81.5,
+      15.67,
+      41.62
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A19",
+    "brand": "mard",
+    "code": "A19",
+    "name": "A19",
+    "hex": "#FD7C72",
+    "rgb": [
+      253,
+      124,
+      114
+    ],
+    "lab": [
+      66.91,
+      48.26,
+      28.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A20",
+    "brand": "mard",
+    "code": "A20",
+    "name": "A20",
+    "hex": "#FFD568",
+    "rgb": [
+      255,
+      213,
+      104
+    ],
+    "lab": [
+      86.92,
+      2.53,
+      58.31
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A21",
+    "brand": "mard",
+    "code": "A21",
+    "name": "A21",
+    "hex": "#FFE395",
+    "rgb": [
+      255,
+      227,
+      149
+    ],
+    "lab": [
+      90.95,
+      -0.73,
+      41.57
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A22",
+    "brand": "mard",
+    "code": "A22",
+    "name": "A22",
+    "hex": "#F4F57D",
+    "rgb": [
+      244,
+      245,
+      125
+    ],
+    "lab": [
+      94.32,
+      -16.24,
+      57.07
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A23",
+    "brand": "mard",
+    "code": "A23",
+    "name": "A23",
+    "hex": "#E6C9B7",
+    "rgb": [
+      230,
+      201,
+      183
+    ],
+    "lab": [
+      82.92,
+      7.4,
+      12.74
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A24",
+    "brand": "mard",
+    "code": "A24",
+    "name": "A24",
+    "hex": "#F7F8A2",
+    "rgb": [
+      247,
+      248,
+      162
+    ],
+    "lab": [
+      95.8,
+      -12.87,
+      41.26
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A25",
+    "brand": "mard",
+    "code": "A25",
+    "name": "A25",
+    "hex": "#FFD67D",
+    "rgb": [
+      255,
+      214,
+      125
+    ],
+    "lab": [
+      87.41,
+      3.64,
+      48.96
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-A26",
+    "brand": "mard",
+    "code": "A26",
+    "name": "A26",
+    "hex": "#FFC830",
+    "rgb": [
+      255,
+      200,
+      48
+    ],
+    "lab": [
+      83.33,
+      6.49,
+      76.37
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B01",
+    "brand": "mard",
+    "code": "B01",
+    "name": "B01",
+    "hex": "#E6EE31",
+    "rgb": [
+      230,
+      238,
+      49
+    ],
+    "lab": [
+      90.87,
+      -22.94,
+      81.8
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B02",
+    "brand": "mard",
+    "code": "B02",
+    "name": "B02",
+    "hex": "#63F347",
+    "rgb": [
+      99,
+      243,
+      71
+    ],
+    "lab": [
+      85.61,
+      -68.55,
+      67.68
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B03",
+    "brand": "mard",
+    "code": "B03",
+    "name": "B03",
+    "hex": "#9EF780",
+    "rgb": [
+      158,
+      247,
+      128
+    ],
+    "lab": [
+      89.56,
+      -48,
+      48.66
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B04",
+    "brand": "mard",
+    "code": "B04",
+    "name": "B04",
+    "hex": "#5DE035",
+    "rgb": [
+      93,
+      224,
+      53
+    ],
+    "lab": [
+      79.55,
+      -64.72,
+      67.6
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B05",
+    "brand": "mard",
+    "code": "B05",
+    "name": "B05",
+    "hex": "#35E352",
+    "rgb": [
+      53,
+      227,
+      82
+    ],
+    "lab": [
+      79.78,
+      -70.71,
+      56.94
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B06",
+    "brand": "mard",
+    "code": "B06",
+    "name": "B06",
+    "hex": "#65E2A6",
+    "rgb": [
+      101,
+      226,
+      166
+    ],
+    "lab": [
+      81.79,
+      -48.56,
+      19.02
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B07",
+    "brand": "mard",
+    "code": "B07",
+    "name": "B07",
+    "hex": "#3DAF80",
+    "rgb": [
+      61,
+      175,
+      128
+    ],
+    "lab": [
+      64.33,
+      -43.26,
+      14.88
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B08",
+    "brand": "mard",
+    "code": "B08",
+    "name": "B08",
+    "hex": "#1C9C4F",
+    "rgb": [
+      28,
+      156,
+      79
+    ],
+    "lab": [
+      56.67,
+      -50.58,
+      30.99
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B09",
+    "brand": "mard",
+    "code": "B09",
+    "name": "B09",
+    "hex": "#27523A",
+    "rgb": [
+      39,
+      82,
+      58
+    ],
+    "lab": [
+      31.28,
+      -21.35,
+      9.58
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B10",
+    "brand": "mard",
+    "code": "B10",
+    "name": "B10",
+    "hex": "#95D3C2",
+    "rgb": [
+      149,
+      211,
+      194
+    ],
+    "lab": [
+      80.11,
+      -23.34,
+      2.09
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B11",
+    "brand": "mard",
+    "code": "B11",
+    "name": "B11",
+    "hex": "#5D722A",
+    "rgb": [
+      93,
+      114,
+      42
+    ],
+    "lab": [
+      44.98,
+      -19.56,
+      36.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B12",
+    "brand": "mard",
+    "code": "B12",
+    "name": "B12",
+    "hex": "#166F41",
+    "rgb": [
+      22,
+      111,
+      65
+    ],
+    "lab": [
+      41.09,
+      -36.8,
+      18.56
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B13",
+    "brand": "mard",
+    "code": "B13",
+    "name": "B13",
+    "hex": "#CAEB7B",
+    "rgb": [
+      202,
+      235,
+      123
+    ],
+    "lab": [
+      88.64,
+      -27.81,
+      50.46
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B14",
+    "brand": "mard",
+    "code": "B14",
+    "name": "B14",
+    "hex": "#ADE946",
+    "rgb": [
+      173,
+      233,
+      70
+    ],
+    "lab": [
+      85.81,
+      -42.1,
+      69.25
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B15",
+    "brand": "mard",
+    "code": "B15",
+    "name": "B15",
+    "hex": "#2E5132",
+    "rgb": [
+      46,
+      81,
+      50
+    ],
+    "lab": [
+      31.1,
+      -20.24,
+      14.37
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B16",
+    "brand": "mard",
+    "code": "B16",
+    "name": "B16",
+    "hex": "#C5ED9C",
+    "rgb": [
+      197,
+      237,
+      156
+    ],
+    "lab": [
+      89.32,
+      -26.69,
+      35.11
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B17",
+    "brand": "mard",
+    "code": "B17",
+    "name": "B17",
+    "hex": "#9BB13A",
+    "rgb": [
+      155,
+      177,
+      58
+    ],
+    "lab": [
+      68.55,
+      -23.98,
+      55.85
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B18",
+    "brand": "mard",
+    "code": "B18",
+    "name": "B18",
+    "hex": "#E6EE49",
+    "rgb": [
+      230,
+      238,
+      73
+    ],
+    "lab": [
+      90.99,
+      -21.97,
+      74.59
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B19",
+    "brand": "mard",
+    "code": "B19",
+    "name": "B19",
+    "hex": "#24B88C",
+    "rgb": [
+      36,
+      184,
+      140
+    ],
+    "lab": [
+      66.94,
+      -47.72,
+      11.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B20",
+    "brand": "mard",
+    "code": "B20",
+    "name": "B20",
+    "hex": "#C2F0CC",
+    "rgb": [
+      194,
+      240,
+      204
+    ],
+    "lab": [
+      90.85,
+      -21.61,
+      12.59
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B21",
+    "brand": "mard",
+    "code": "B21",
+    "name": "B21",
+    "hex": "#156A6B",
+    "rgb": [
+      21,
+      106,
+      107
+    ],
+    "lab": [
+      40.46,
+      -23.17,
+      -7.55
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B22",
+    "brand": "mard",
+    "code": "B22",
+    "name": "B22",
+    "hex": "#0B3C43",
+    "rgb": [
+      11,
+      60,
+      67
+    ],
+    "lab": [
+      22.68,
+      -12.92,
+      -8.9
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B23",
+    "brand": "mard",
+    "code": "B23",
+    "name": "B23",
+    "hex": "#303A21",
+    "rgb": [
+      48,
+      58,
+      33
+    ],
+    "lab": [
+      22.88,
+      -9.44,
+      14.2
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B24",
+    "brand": "mard",
+    "code": "B24",
+    "name": "B24",
+    "hex": "#EEFCA5",
+    "rgb": [
+      238,
+      252,
+      165
+    ],
+    "lab": [
+      96.21,
+      -17.83,
+      40.19
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B25",
+    "brand": "mard",
+    "code": "B25",
+    "name": "B25",
+    "hex": "#4E846D",
+    "rgb": [
+      78,
+      132,
+      109
+    ],
+    "lab": [
+      50.95,
+      -23.56,
+      6.84
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B26",
+    "brand": "mard",
+    "code": "B26",
+    "name": "B26",
+    "hex": "#8D7A35",
+    "rgb": [
+      141,
+      122,
+      53
+    ],
+    "lab": [
+      51.66,
+      -1.4,
+      39.63
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B27",
+    "brand": "mard",
+    "code": "B27",
+    "name": "B27",
+    "hex": "#CCE1AF",
+    "rgb": [
+      204,
+      225,
+      175
+    ],
+    "lab": [
+      86.89,
+      -15.62,
+      22.2
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B28",
+    "brand": "mard",
+    "code": "B28",
+    "name": "B28",
+    "hex": "#9EE5B9",
+    "rgb": [
+      158,
+      229,
+      185
+    ],
+    "lab": [
+      85.41,
+      -31.13,
+      14.5
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B29",
+    "brand": "mard",
+    "code": "B29",
+    "name": "B29",
+    "hex": "#C5E254",
+    "rgb": [
+      197,
+      226,
+      84
+    ],
+    "lab": [
+      85.46,
+      -28.83,
+      64.01
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B30",
+    "brand": "mard",
+    "code": "B30",
+    "name": "B30",
+    "hex": "#E2FCB1",
+    "rgb": [
+      226,
+      252,
+      177
+    ],
+    "lab": [
+      95.57,
+      -20.68,
+      33.21
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B31",
+    "brand": "mard",
+    "code": "B31",
+    "name": "B31",
+    "hex": "#B0E792",
+    "rgb": [
+      176,
+      231,
+      146
+    ],
+    "lab": [
+      86.23,
+      -32.6,
+      35.85
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-B32",
+    "brand": "mard",
+    "code": "B32",
+    "name": "B32",
+    "hex": "#9CAB5A",
+    "rgb": [
+      156,
+      171,
+      90
+    ],
+    "lab": [
+      67.23,
+      -17.85,
+      39.71
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C01",
+    "brand": "mard",
+    "code": "C01",
+    "name": "C01",
+    "hex": "#E8FFE7",
+    "rgb": [
+      232,
+      255,
+      231
+    ],
+    "lab": [
+      97.81,
+      -11.77,
+      8.93
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C02",
+    "brand": "mard",
+    "code": "C02",
+    "name": "C02",
+    "hex": "#A9F9FC",
+    "rgb": [
+      169,
+      249,
+      252
+    ],
+    "lab": [
+      93.11,
+      -23.53,
+      -9.21
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C03",
+    "brand": "mard",
+    "code": "C03",
+    "name": "C03",
+    "hex": "#A0E2FB",
+    "rgb": [
+      160,
+      226,
+      251
+    ],
+    "lab": [
+      86.42,
+      -14.7,
+      -18.74
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C04",
+    "brand": "mard",
+    "code": "C04",
+    "name": "C04",
+    "hex": "#41CCFF",
+    "rgb": [
+      65,
+      204,
+      255
+    ],
+    "lab": [
+      77,
+      -20.56,
+      -35.57
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C05",
+    "brand": "mard",
+    "code": "C05",
+    "name": "C05",
+    "hex": "#01ACEB",
+    "rgb": [
+      1,
+      172,
+      235
+    ],
+    "lab": [
+      66.14,
+      -14.55,
+      -41.71
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C06",
+    "brand": "mard",
+    "code": "C06",
+    "name": "C06",
+    "hex": "#50AAF0",
+    "rgb": [
+      80,
+      170,
+      240
+    ],
+    "lab": [
+      67.08,
+      -5.26,
+      -42.87
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C07",
+    "brand": "mard",
+    "code": "C07",
+    "name": "C07",
+    "hex": "#3677D2",
+    "rgb": [
+      54,
+      119,
+      210
+    ],
+    "lab": [
+      50.25,
+      10.57,
+      -52.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C08",
+    "brand": "mard",
+    "code": "C08",
+    "name": "C08",
+    "hex": "#0F54C0",
+    "rgb": [
+      15,
+      84,
+      192
+    ],
+    "lab": [
+      38.28,
+      22.84,
+      -61.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C09",
+    "brand": "mard",
+    "code": "C09",
+    "name": "C09",
+    "hex": "#324BCA",
+    "rgb": [
+      50,
+      75,
+      202
+    ],
+    "lab": [
+      37.79,
+      35.22,
+      -68.47
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C10",
+    "brand": "mard",
+    "code": "C10",
+    "name": "C10",
+    "hex": "#3EBCE2",
+    "rgb": [
+      62,
+      188,
+      226
+    ],
+    "lab": [
+      71.2,
+      -22,
+      -28.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C11",
+    "brand": "mard",
+    "code": "C11",
+    "name": "C11",
+    "hex": "#28DDDE",
+    "rgb": [
+      40,
+      221,
+      222
+    ],
+    "lab": [
+      80.42,
+      -41.2,
+      -12.77
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C12",
+    "brand": "mard",
+    "code": "C12",
+    "name": "C12",
+    "hex": "#1C334D",
+    "rgb": [
+      28,
+      51,
+      77
+    ],
+    "lab": [
+      20.64,
+      0.14,
+      -18.71
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C13",
+    "brand": "mard",
+    "code": "C13",
+    "name": "C13",
+    "hex": "#CDE8FF",
+    "rgb": [
+      205,
+      232,
+      255
+    ],
+    "lab": [
+      90.74,
+      -4.12,
+      -14.08
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C14",
+    "brand": "mard",
+    "code": "C14",
+    "name": "C14",
+    "hex": "#D5FDFF",
+    "rgb": [
+      213,
+      253,
+      255
+    ],
+    "lab": [
+      96.66,
+      -12.33,
+      -5.23
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C15",
+    "brand": "mard",
+    "code": "C15",
+    "name": "C15",
+    "hex": "#22C4C6",
+    "rgb": [
+      34,
+      196,
+      198
+    ],
+    "lab": [
+      72.16,
+      -37.35,
+      -12.22
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C16",
+    "brand": "mard",
+    "code": "C16",
+    "name": "C16",
+    "hex": "#1557A8",
+    "rgb": [
+      21,
+      87,
+      168
+    ],
+    "lab": [
+      37.48,
+      11.51,
+      -49.04
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C17",
+    "brand": "mard",
+    "code": "C17",
+    "name": "C17",
+    "hex": "#04D1F6",
+    "rgb": [
+      4,
+      209,
+      246
+    ],
+    "lab": [
+      77.45,
+      -29.72,
+      -30.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C18",
+    "brand": "mard",
+    "code": "C18",
+    "name": "C18",
+    "hex": "#1D3344",
+    "rgb": [
+      29,
+      51,
+      68
+    ],
+    "lab": [
+      20.23,
+      -2.96,
+      -13.27
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C19",
+    "brand": "mard",
+    "code": "C19",
+    "name": "C19",
+    "hex": "#1887A2",
+    "rgb": [
+      24,
+      135,
+      162
+    ],
+    "lab": [
+      51.98,
+      -19.51,
+      -22.66
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C20",
+    "brand": "mard",
+    "code": "C20",
+    "name": "C20",
+    "hex": "#176DAF",
+    "rgb": [
+      23,
+      109,
+      175
+    ],
+    "lab": [
+      44.54,
+      0.31,
+      -41.88
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C21",
+    "brand": "mard",
+    "code": "C21",
+    "name": "C21",
+    "hex": "#BEDDFF",
+    "rgb": [
+      190,
+      221,
+      255
+    ],
+    "lab": [
+      86.94,
+      -2.87,
+      -19.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C22",
+    "brand": "mard",
+    "code": "C22",
+    "name": "C22",
+    "hex": "#67B4BE",
+    "rgb": [
+      103,
+      180,
+      190
+    ],
+    "lab": [
+      68.93,
+      -21.13,
+      -12.5
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C23",
+    "brand": "mard",
+    "code": "C23",
+    "name": "C23",
+    "hex": "#C8E2FF",
+    "rgb": [
+      200,
+      226,
+      255
+    ],
+    "lab": [
+      88.87,
+      -2.52,
+      -16.92
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C24",
+    "brand": "mard",
+    "code": "C24",
+    "name": "C24",
+    "hex": "#7CC4FF",
+    "rgb": [
+      124,
+      196,
+      255
+    ],
+    "lab": [
+      76.67,
+      -6.59,
+      -35.92
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C25",
+    "brand": "mard",
+    "code": "C25",
+    "name": "C25",
+    "hex": "#A9E5E5",
+    "rgb": [
+      169,
+      229,
+      229
+    ],
+    "lab": [
+      87.06,
+      -18.86,
+      -6.15
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C26",
+    "brand": "mard",
+    "code": "C26",
+    "name": "C26",
+    "hex": "#3CAED8",
+    "rgb": [
+      60,
+      174,
+      216
+    ],
+    "lab": [
+      66.66,
+      -18.2,
+      -30.41
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C27",
+    "brand": "mard",
+    "code": "C27",
+    "name": "C27",
+    "hex": "#D3DFFA",
+    "rgb": [
+      211,
+      223,
+      250
+    ],
+    "lab": [
+      88.7,
+      1.33,
+      -14.48
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C28",
+    "brand": "mard",
+    "code": "C28",
+    "name": "C28",
+    "hex": "#BBCFED",
+    "rgb": [
+      187,
+      207,
+      237
+    ],
+    "lab": [
+      82.54,
+      -0.43,
+      -17.01
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-C29",
+    "brand": "mard",
+    "code": "C29",
+    "name": "C29",
+    "hex": "#34488E",
+    "rgb": [
+      52,
+      72,
+      142
+    ],
+    "lab": [
+      32.52,
+      15.46,
+      -41.29
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D01",
+    "brand": "mard",
+    "code": "D01",
+    "name": "D01",
+    "hex": "#AEB4F2",
+    "rgb": [
+      174,
+      180,
+      242
+    ],
+    "lab": [
+      74.86,
+      11.46,
+      -31.49
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D02",
+    "brand": "mard",
+    "code": "D02",
+    "name": "D02",
+    "hex": "#858EDD",
+    "rgb": [
+      133,
+      142,
+      221
+    ],
+    "lab": [
+      61.27,
+      16.21,
+      -41.34
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D03",
+    "brand": "mard",
+    "code": "D03",
+    "name": "D03",
+    "hex": "#2F54AF",
+    "rgb": [
+      47,
+      84,
+      175
+    ],
+    "lab": [
+      37.91,
+      18.99,
+      -52.46
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D04",
+    "brand": "mard",
+    "code": "D04",
+    "name": "D04",
+    "hex": "#182A84",
+    "rgb": [
+      24,
+      42,
+      132
+    ],
+    "lab": [
+      22,
+      28.04,
+      -52.23
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D05",
+    "brand": "mard",
+    "code": "D05",
+    "name": "D05",
+    "hex": "#B843C5",
+    "rgb": [
+      184,
+      67,
+      197
+    ],
+    "lab": [
+      49.78,
+      63.75,
+      -45.53
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D06",
+    "brand": "mard",
+    "code": "D06",
+    "name": "D06",
+    "hex": "#AC7BDE",
+    "rgb": [
+      172,
+      123,
+      222
+    ],
+    "lab": [
+      60.08,
+      38.07,
+      -43.53
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D07",
+    "brand": "mard",
+    "code": "D07",
+    "name": "D07",
+    "hex": "#8854B3",
+    "rgb": [
+      136,
+      84,
+      179
+    ],
+    "lab": [
+      45.4,
+      39.8,
+      -42.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D08",
+    "brand": "mard",
+    "code": "D08",
+    "name": "D08",
+    "hex": "#E2D3FF",
+    "rgb": [
+      226,
+      211,
+      255
+    ],
+    "lab": [
+      86.99,
+      13.37,
+      -19.57
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D09",
+    "brand": "mard",
+    "code": "D09",
+    "name": "D09",
+    "hex": "#D5B9F8",
+    "rgb": [
+      213,
+      185,
+      248
+    ],
+    "lab": [
+      79.4,
+      21.8,
+      -27.48
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D10",
+    "brand": "mard",
+    "code": "D10",
+    "name": "D10",
+    "hex": "#361851",
+    "rgb": [
+      54,
+      24,
+      81
+    ],
+    "lab": [
+      15.65,
+      27.22,
+      -29.19
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D11",
+    "brand": "mard",
+    "code": "D11",
+    "name": "D11",
+    "hex": "#B9BAE1",
+    "rgb": [
+      185,
+      186,
+      225
+    ],
+    "lab": [
+      76.6,
+      7.58,
+      -19.56
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D12",
+    "brand": "mard",
+    "code": "D12",
+    "name": "D12",
+    "hex": "#DE9AD4",
+    "rgb": [
+      222,
+      154,
+      212
+    ],
+    "lab": [
+      71.82,
+      34.45,
+      -19.39
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D13",
+    "brand": "mard",
+    "code": "D13",
+    "name": "D13",
+    "hex": "#B90095",
+    "rgb": [
+      185,
+      0,
+      149
+    ],
+    "lab": [
+      41.98,
+      72.29,
+      -29.45
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D14",
+    "brand": "mard",
+    "code": "D14",
+    "name": "D14",
+    "hex": "#8B279B",
+    "rgb": [
+      139,
+      39,
+      155
+    ],
+    "lab": [
+      36.57,
+      56.71,
+      -42.18
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D15",
+    "brand": "mard",
+    "code": "D15",
+    "name": "D15",
+    "hex": "#2F1F90",
+    "rgb": [
+      47,
+      31,
+      144
+    ],
+    "lab": [
+      22.29,
+      41.43,
+      -59.19
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D16",
+    "brand": "mard",
+    "code": "D16",
+    "name": "D16",
+    "hex": "#E3E1EE",
+    "rgb": [
+      227,
+      225,
+      238
+    ],
+    "lab": [
+      90.02,
+      3.05,
+      -6.08
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D17",
+    "brand": "mard",
+    "code": "D17",
+    "name": "D17",
+    "hex": "#C4D4F6",
+    "rgb": [
+      196,
+      212,
+      246
+    ],
+    "lab": [
+      84.73,
+      1.64,
+      -18.44
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D18",
+    "brand": "mard",
+    "code": "D18",
+    "name": "D18",
+    "hex": "#A45EC7",
+    "rgb": [
+      164,
+      94,
+      199
+    ],
+    "lab": [
+      51.86,
+      46.48,
+      -43.55
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D19",
+    "brand": "mard",
+    "code": "D19",
+    "name": "D19",
+    "hex": "#D8C3D7",
+    "rgb": [
+      216,
+      195,
+      215
+    ],
+    "lab": [
+      81.04,
+      10.89,
+      -7.27
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D20",
+    "brand": "mard",
+    "code": "D20",
+    "name": "D20",
+    "hex": "#9C32B2",
+    "rgb": [
+      156,
+      50,
+      178
+    ],
+    "lab": [
+      42.1,
+      60.63,
+      -46.94
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D21",
+    "brand": "mard",
+    "code": "D21",
+    "name": "D21",
+    "hex": "#9A009B",
+    "rgb": [
+      154,
+      0,
+      155
+    ],
+    "lab": [
+      36.44,
+      67.56,
+      -42.25
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D22",
+    "brand": "mard",
+    "code": "D22",
+    "name": "D22",
+    "hex": "#333A95",
+    "rgb": [
+      51,
+      58,
+      149
+    ],
+    "lab": [
+      29.16,
+      27.2,
+      -51.01
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D23",
+    "brand": "mard",
+    "code": "D23",
+    "name": "D23",
+    "hex": "#EBDAFC",
+    "rgb": [
+      235,
+      218,
+      252
+    ],
+    "lab": [
+      89.31,
+      11.96,
+      -14.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D24",
+    "brand": "mard",
+    "code": "D24",
+    "name": "D24",
+    "hex": "#7786E5",
+    "rgb": [
+      119,
+      134,
+      229
+    ],
+    "lab": [
+      58.63,
+      19.78,
+      -50.02
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D25",
+    "brand": "mard",
+    "code": "D25",
+    "name": "D25",
+    "hex": "#494FC7",
+    "rgb": [
+      73,
+      79,
+      199
+    ],
+    "lab": [
+      39.8,
+      34.69,
+      -63.4
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-D26",
+    "brand": "mard",
+    "code": "D26",
+    "name": "D26",
+    "hex": "#DFC2F8",
+    "rgb": [
+      223,
+      194,
+      248
+    ],
+    "lab": [
+      82.41,
+      20.08,
+      -22.82
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E01",
+    "brand": "mard",
+    "code": "E01",
+    "name": "E01",
+    "hex": "#FDD3CC",
+    "rgb": [
+      253,
+      211,
+      204
+    ],
+    "lab": [
+      87.89,
+      13.63,
+      8.97
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E02",
+    "brand": "mard",
+    "code": "E02",
+    "name": "E02",
+    "hex": "#FEC0DF",
+    "rgb": [
+      254,
+      192,
+      223
+    ],
+    "lab": [
+      84.02,
+      26.87,
+      -6.76
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E03",
+    "brand": "mard",
+    "code": "E03",
+    "name": "E03",
+    "hex": "#FFB7E7",
+    "rgb": [
+      255,
+      183,
+      231
+    ],
+    "lab": [
+      82.32,
+      33.24,
+      -13.55
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E04",
+    "brand": "mard",
+    "code": "E04",
+    "name": "E04",
+    "hex": "#E8649E",
+    "rgb": [
+      232,
+      100,
+      158
+    ],
+    "lab": [
+      60.55,
+      56.84,
+      -5.76
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E05",
+    "brand": "mard",
+    "code": "E05",
+    "name": "E05",
+    "hex": "#F551A2",
+    "rgb": [
+      245,
+      81,
+      162
+    ],
+    "lab": [
+      59.81,
+      68.97,
+      -8.96
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E06",
+    "brand": "mard",
+    "code": "E06",
+    "name": "E06",
+    "hex": "#F13D74",
+    "rgb": [
+      241,
+      61,
+      116
+    ],
+    "lab": [
+      55.39,
+      70.41,
+      11.6
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E07",
+    "brand": "mard",
+    "code": "E07",
+    "name": "E07",
+    "hex": "#C63478",
+    "rgb": [
+      198,
+      52,
+      120
+    ],
+    "lab": [
+      46.74,
+      61.9,
+      -4.27
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E08",
+    "brand": "mard",
+    "code": "E08",
+    "name": "E08",
+    "hex": "#FFDBE9",
+    "rgb": [
+      255,
+      219,
+      233
+    ],
+    "lab": [
+      90.69,
+      14.71,
+      -2.21
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E09",
+    "brand": "mard",
+    "code": "E09",
+    "name": "E09",
+    "hex": "#E970CC",
+    "rgb": [
+      233,
+      112,
+      204
+    ],
+    "lab": [
+      64.38,
+      57.95,
+      -26.18
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E10",
+    "brand": "mard",
+    "code": "E10",
+    "name": "E10",
+    "hex": "#D33793",
+    "rgb": [
+      211,
+      55,
+      147
+    ],
+    "lab": [
+      50.32,
+      67.3,
+      -14.98
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E11",
+    "brand": "mard",
+    "code": "E11",
+    "name": "E11",
+    "hex": "#FCDDD2",
+    "rgb": [
+      252,
+      221,
+      210
+    ],
+    "lab": [
+      90.35,
+      8.98,
+      9.33
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E12",
+    "brand": "mard",
+    "code": "E12",
+    "name": "E12",
+    "hex": "#F78FC3",
+    "rgb": [
+      247,
+      143,
+      195
+    ],
+    "lab": [
+      71.8,
+      45.72,
+      -9.74
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E13",
+    "brand": "mard",
+    "code": "E13",
+    "name": "E13",
+    "hex": "#B5006D",
+    "rgb": [
+      181,
+      0,
+      109
+    ],
+    "lab": [
+      39.46,
+      67.08,
+      -8.64
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E14",
+    "brand": "mard",
+    "code": "E14",
+    "name": "E14",
+    "hex": "#FFD1BA",
+    "rgb": [
+      255,
+      209,
+      186
+    ],
+    "lab": [
+      87.2,
+      12.88,
+      17.5
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E15",
+    "brand": "mard",
+    "code": "E15",
+    "name": "E15",
+    "hex": "#F8C7C9",
+    "rgb": [
+      248,
+      199,
+      201
+    ],
+    "lab": [
+      84.5,
+      17.67,
+      5.62
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E16",
+    "brand": "mard",
+    "code": "E16",
+    "name": "E16",
+    "hex": "#FFF3EB",
+    "rgb": [
+      255,
+      243,
+      235
+    ],
+    "lab": [
+      96.56,
+      2.68,
+      5.29
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E17",
+    "brand": "mard",
+    "code": "E17",
+    "name": "E17",
+    "hex": "#FFE2EA",
+    "rgb": [
+      255,
+      226,
+      234
+    ],
+    "lab": [
+      92.4,
+      11.24,
+      -0.24
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E18",
+    "brand": "mard",
+    "code": "E18",
+    "name": "E18",
+    "hex": "#FFC7DB",
+    "rgb": [
+      255,
+      199,
+      219
+    ],
+    "lab": [
+      85.62,
+      22.9,
+      -2.25
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E19",
+    "brand": "mard",
+    "code": "E19",
+    "name": "E19",
+    "hex": "#FEBAD5",
+    "rgb": [
+      254,
+      186,
+      213
+    ],
+    "lab": [
+      82.38,
+      28.45,
+      -3.82
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E20",
+    "brand": "mard",
+    "code": "E20",
+    "name": "E20",
+    "hex": "#D8C7D1",
+    "rgb": [
+      216,
+      199,
+      209
+    ],
+    "lab": [
+      81.87,
+      7.68,
+      -2.83
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E21",
+    "brand": "mard",
+    "code": "E21",
+    "name": "E21",
+    "hex": "#BD9DA1",
+    "rgb": [
+      189,
+      157,
+      161
+    ],
+    "lab": [
+      67.66,
+      12.47,
+      2.35
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E22",
+    "brand": "mard",
+    "code": "E22",
+    "name": "E22",
+    "hex": "#B785A1",
+    "rgb": [
+      183,
+      133,
+      161
+    ],
+    "lab": [
+      61.15,
+      23.61,
+      -7.28
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E23",
+    "brand": "mard",
+    "code": "E23",
+    "name": "E23",
+    "hex": "#937A8D",
+    "rgb": [
+      147,
+      122,
+      141
+    ],
+    "lab": [
+      54.08,
+      13.1,
+      -6.66
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-E24",
+    "brand": "mard",
+    "code": "E24",
+    "name": "E24",
+    "hex": "#E1BCE8",
+    "rgb": [
+      225,
+      188,
+      232
+    ],
+    "lab": [
+      80.63,
+      20.83,
+      -16.93
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F01",
+    "brand": "mard",
+    "code": "F01",
+    "name": "F01",
+    "hex": "#FD957B",
+    "rgb": [
+      253,
+      149,
+      123
+    ],
+    "lab": [
+      72.1,
+      36.48,
+      30.58
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F02",
+    "brand": "mard",
+    "code": "F02",
+    "name": "F02",
+    "hex": "#FC3D46",
+    "rgb": [
+      252,
+      61,
+      70
+    ],
+    "lab": [
+      56.57,
+      70.82,
+      40.46
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F03",
+    "brand": "mard",
+    "code": "F03",
+    "name": "F03",
+    "hex": "#F74941",
+    "rgb": [
+      247,
+      73,
+      65
+    ],
+    "lab": [
+      57,
+      65.25,
+      43.47
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F04",
+    "brand": "mard",
+    "code": "F04",
+    "name": "F04",
+    "hex": "#FC283C",
+    "rgb": [
+      252,
+      40,
+      60
+    ],
+    "lab": [
+      54.6,
+      75.69,
+      43.85
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F05",
+    "brand": "mard",
+    "code": "F05",
+    "name": "F05",
+    "hex": "#E7002F",
+    "rgb": [
+      231,
+      0,
+      47
+    ],
+    "lab": [
+      48.51,
+      75.03,
+      43.4
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F06",
+    "brand": "mard",
+    "code": "F06",
+    "name": "F06",
+    "hex": "#943630",
+    "rgb": [
+      148,
+      54,
+      48
+    ],
+    "lab": [
+      36.27,
+      39.17,
+      24.64
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F07",
+    "brand": "mard",
+    "code": "F07",
+    "name": "F07",
+    "hex": "#971937",
+    "rgb": [
+      151,
+      25,
+      55
+    ],
+    "lab": [
+      33.03,
+      51.45,
+      16.2
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F08",
+    "brand": "mard",
+    "code": "F08",
+    "name": "F08",
+    "hex": "#BC0028",
+    "rgb": [
+      188,
+      0,
+      40
+    ],
+    "lab": [
+      39.32,
+      64.4,
+      35.05
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F09",
+    "brand": "mard",
+    "code": "F09",
+    "name": "F09",
+    "hex": "#E2677A",
+    "rgb": [
+      226,
+      103,
+      122
+    ],
+    "lab": [
+      59.23,
+      49.58,
+      13.1
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F10",
+    "brand": "mard",
+    "code": "F10",
+    "name": "F10",
+    "hex": "#8A4526",
+    "rgb": [
+      138,
+      69,
+      38
+    ],
+    "lab": [
+      37.48,
+      26.82,
+      31.52
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F11",
+    "brand": "mard",
+    "code": "F11",
+    "name": "F11",
+    "hex": "#5A2121",
+    "rgb": [
+      90,
+      33,
+      33
+    ],
+    "lab": [
+      21.48,
+      26.25,
+      13.44
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F12",
+    "brand": "mard",
+    "code": "F12",
+    "name": "F12",
+    "hex": "#FD4E6A",
+    "rgb": [
+      253,
+      78,
+      106
+    ],
+    "lab": [
+      59.32,
+      67.43,
+      23.23
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F13",
+    "brand": "mard",
+    "code": "F13",
+    "name": "F13",
+    "hex": "#F35744",
+    "rgb": [
+      243,
+      87,
+      68
+    ],
+    "lab": [
+      58.32,
+      58.75,
+      43.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F14",
+    "brand": "mard",
+    "code": "F14",
+    "name": "F14",
+    "hex": "#FFA9AD",
+    "rgb": [
+      255,
+      169,
+      173
+    ],
+    "lab": [
+      77.67,
+      32.13,
+      11.03
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F15",
+    "brand": "mard",
+    "code": "F15",
+    "name": "F15",
+    "hex": "#D30022",
+    "rgb": [
+      211,
+      0,
+      34
+    ],
+    "lab": [
+      44.19,
+      69.88,
+      44.88
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F16",
+    "brand": "mard",
+    "code": "F16",
+    "name": "F16",
+    "hex": "#FEC2A6",
+    "rgb": [
+      254,
+      194,
+      166
+    ],
+    "lab": [
+      83.13,
+      17.81,
+      22.4
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F17",
+    "brand": "mard",
+    "code": "F17",
+    "name": "F17",
+    "hex": "#E69C79",
+    "rgb": [
+      230,
+      156,
+      121
+    ],
+    "lab": [
+      70.86,
+      23.71,
+      29.51
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F18",
+    "brand": "mard",
+    "code": "F18",
+    "name": "F18",
+    "hex": "#D37C46",
+    "rgb": [
+      211,
+      124,
+      70
+    ],
+    "lab": [
+      60.52,
+      29.15,
+      43.29
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F19",
+    "brand": "mard",
+    "code": "F19",
+    "name": "F19",
+    "hex": "#C1444A",
+    "rgb": [
+      193,
+      68,
+      74
+    ],
+    "lab": [
+      46.93,
+      50.36,
+      23.95
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F20",
+    "brand": "mard",
+    "code": "F20",
+    "name": "F20",
+    "hex": "#CD9391",
+    "rgb": [
+      205,
+      147,
+      145
+    ],
+    "lab": [
+      66.44,
+      21.6,
+      9.77
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F21",
+    "brand": "mard",
+    "code": "F21",
+    "name": "F21",
+    "hex": "#F7B4C6",
+    "rgb": [
+      247,
+      180,
+      198
+    ],
+    "lab": [
+      79.9,
+      26.88,
+      0.55
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F22",
+    "brand": "mard",
+    "code": "F22",
+    "name": "F22",
+    "hex": "#FDC0D0",
+    "rgb": [
+      253,
+      192,
+      208
+    ],
+    "lab": [
+      83.52,
+      24.18,
+      0.52
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F23",
+    "brand": "mard",
+    "code": "F23",
+    "name": "F23",
+    "hex": "#F67E66",
+    "rgb": [
+      246,
+      126,
+      102
+    ],
+    "lab": [
+      66.12,
+      43.84,
+      34.11
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F24",
+    "brand": "mard",
+    "code": "F24",
+    "name": "F24",
+    "hex": "#E698AA",
+    "rgb": [
+      230,
+      152,
+      170
+    ],
+    "lab": [
+      71,
+      31.62,
+      2.73
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-F25",
+    "brand": "mard",
+    "code": "F25",
+    "name": "F25",
+    "hex": "#E54B4F",
+    "rgb": [
+      229,
+      75,
+      79
+    ],
+    "lab": [
+      54.3,
+      59.56,
+      31.63
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G01",
+    "brand": "mard",
+    "code": "G01",
+    "name": "G01",
+    "hex": "#FFE2CE",
+    "rgb": [
+      255,
+      226,
+      206
+    ],
+    "lab": [
+      91.73,
+      6.88,
+      13.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G02",
+    "brand": "mard",
+    "code": "G02",
+    "name": "G02",
+    "hex": "#FFC4AA",
+    "rgb": [
+      255,
+      196,
+      170
+    ],
+    "lab": [
+      83.78,
+      17.62,
+      21.19
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G03",
+    "brand": "mard",
+    "code": "G03",
+    "name": "G03",
+    "hex": "#F4C3A5",
+    "rgb": [
+      244,
+      195,
+      165
+    ],
+    "lab": [
+      82.37,
+      13.36,
+      21.73
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G04",
+    "brand": "mard",
+    "code": "G04",
+    "name": "G04",
+    "hex": "#E1B383",
+    "rgb": [
+      225,
+      179,
+      131
+    ],
+    "lab": [
+      76,
+      10.46,
+      30.84
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G05",
+    "brand": "mard",
+    "code": "G05",
+    "name": "G05",
+    "hex": "#EDB045",
+    "rgb": [
+      237,
+      176,
+      69
+    ],
+    "lab": [
+      75.75,
+      12.2,
+      61.08
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G06",
+    "brand": "mard",
+    "code": "G06",
+    "name": "G06",
+    "hex": "#E99C17",
+    "rgb": [
+      233,
+      156,
+      23
+    ],
+    "lab": [
+      70.29,
+      19.62,
+      71.21
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G07",
+    "brand": "mard",
+    "code": "G07",
+    "name": "G07",
+    "hex": "#9D5B3E",
+    "rgb": [
+      157,
+      91,
+      62
+    ],
+    "lab": [
+      45.63,
+      24.19,
+      28.19
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G08",
+    "brand": "mard",
+    "code": "G08",
+    "name": "G08",
+    "hex": "#753832",
+    "rgb": [
+      117,
+      56,
+      50
+    ],
+    "lab": [
+      31.44,
+      26.12,
+      16.18
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G09",
+    "brand": "mard",
+    "code": "G09",
+    "name": "G09",
+    "hex": "#E6B483",
+    "rgb": [
+      230,
+      180,
+      131
+    ],
+    "lab": [
+      76.74,
+      11.92,
+      31.91
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G10",
+    "brand": "mard",
+    "code": "G10",
+    "name": "G10",
+    "hex": "#D98C39",
+    "rgb": [
+      217,
+      140,
+      57
+    ],
+    "lab": [
+      64.81,
+      22.39,
+      54.34
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G11",
+    "brand": "mard",
+    "code": "G11",
+    "name": "G11",
+    "hex": "#E0C593",
+    "rgb": [
+      224,
+      197,
+      147
+    ],
+    "lab": [
+      80.68,
+      2.39,
+      28.61
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G12",
+    "brand": "mard",
+    "code": "G12",
+    "name": "G12",
+    "hex": "#FFC890",
+    "rgb": [
+      255,
+      200,
+      144
+    ],
+    "lab": [
+      84.27,
+      12.64,
+      35.46
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G13",
+    "brand": "mard",
+    "code": "G13",
+    "name": "G13",
+    "hex": "#B7714A",
+    "rgb": [
+      183,
+      113,
+      74
+    ],
+    "lab": [
+      54.42,
+      23.8,
+      33.05
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G14",
+    "brand": "mard",
+    "code": "G14",
+    "name": "G14",
+    "hex": "#8D614C",
+    "rgb": [
+      141,
+      97,
+      76
+    ],
+    "lab": [
+      45.27,
+      15.19,
+      19.14
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G15",
+    "brand": "mard",
+    "code": "G15",
+    "name": "G15",
+    "hex": "#FCF9E0",
+    "rgb": [
+      252,
+      249,
+      224
+    ],
+    "lab": [
+      97.56,
+      -3.15,
+      12.36
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G16",
+    "brand": "mard",
+    "code": "G16",
+    "name": "G16",
+    "hex": "#F2D9BA",
+    "rgb": [
+      242,
+      217,
+      186
+    ],
+    "lab": [
+      87.99,
+      3.92,
+      18.44
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G17",
+    "brand": "mard",
+    "code": "G17",
+    "name": "G17",
+    "hex": "#78524B",
+    "rgb": [
+      120,
+      82,
+      75
+    ],
+    "lab": [
+      38.79,
+      14.91,
+      10.5
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G18",
+    "brand": "mard",
+    "code": "G18",
+    "name": "G18",
+    "hex": "#FFE4CC",
+    "rgb": [
+      255,
+      228,
+      204
+    ],
+    "lab": [
+      92.18,
+      5.56,
+      15.09
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G19",
+    "brand": "mard",
+    "code": "G19",
+    "name": "G19",
+    "hex": "#E07935",
+    "rgb": [
+      224,
+      121,
+      53
+    ],
+    "lab": [
+      61.47,
+      35.16,
+      53.05
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G20",
+    "brand": "mard",
+    "code": "G20",
+    "name": "G20",
+    "hex": "#A94023",
+    "rgb": [
+      169,
+      64,
+      35
+    ],
+    "lab": [
+      41.57,
+      41.61,
+      39.02
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-G21",
+    "brand": "mard",
+    "code": "G21",
+    "name": "G21",
+    "hex": "#B88558",
+    "rgb": [
+      184,
+      133,
+      88
+    ],
+    "lab": [
+      59.59,
+      14.3,
+      31.86
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H01",
+    "brand": "mard",
+    "code": "H01",
+    "name": "H01",
+    "hex": "#FDFBFF",
+    "rgb": [
+      253,
+      251,
+      255
+    ],
+    "lab": [
+      98.87,
+      1.36,
+      -1.68
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H02",
+    "brand": "mard",
+    "code": "H02",
+    "name": "H02",
+    "hex": "#FEFFFF",
+    "rgb": [
+      254,
+      255,
+      255
+    ],
+    "lab": [
+      99.93,
+      -0.33,
+      -0.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H03",
+    "brand": "mard",
+    "code": "H03",
+    "name": "H03",
+    "hex": "#B6B1BA",
+    "rgb": [
+      182,
+      177,
+      186
+    ],
+    "lab": [
+      72.85,
+      3.45,
+      -3.95
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H04",
+    "brand": "mard",
+    "code": "H04",
+    "name": "H04",
+    "hex": "#89858C",
+    "rgb": [
+      137,
+      133,
+      140
+    ],
+    "lab": [
+      56.07,
+      2.87,
+      -3.22
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H05",
+    "brand": "mard",
+    "code": "H05",
+    "name": "H05",
+    "hex": "#48464E",
+    "rgb": [
+      72,
+      70,
+      78
+    ],
+    "lab": [
+      30.18,
+      2.64,
+      -4.48
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H06",
+    "brand": "mard",
+    "code": "H06",
+    "name": "H06",
+    "hex": "#2F2B2F",
+    "rgb": [
+      47,
+      43,
+      47
+    ],
+    "lab": [
+      18.09,
+      2.74,
+      -1.93
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H07",
+    "brand": "mard",
+    "code": "H07",
+    "name": "H07",
+    "hex": "#000000",
+    "rgb": [
+      0,
+      0,
+      0
+    ],
+    "lab": [
+      0,
+      0,
+      0
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H08",
+    "brand": "mard",
+    "code": "H08",
+    "name": "H08",
+    "hex": "#E7D6DB",
+    "rgb": [
+      231,
+      214,
+      219
+    ],
+    "lab": [
+      87.09,
+      6.7,
+      -0.34
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H09",
+    "brand": "mard",
+    "code": "H09",
+    "name": "H09",
+    "hex": "#EDEDED",
+    "rgb": [
+      237,
+      237,
+      237
+    ],
+    "lab": [
+      93.75,
+      0,
+      0
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H10",
+    "brand": "mard",
+    "code": "H10",
+    "name": "H10",
+    "hex": "#EEE9EA",
+    "rgb": [
+      238,
+      233,
+      234
+    ],
+    "lab": [
+      92.75,
+      1.85,
+      0.11
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H11",
+    "brand": "mard",
+    "code": "H11",
+    "name": "H11",
+    "hex": "#CECDD5",
+    "rgb": [
+      206,
+      205,
+      213
+    ],
+    "lab": [
+      82.69,
+      1.82,
+      -3.84
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H12",
+    "brand": "mard",
+    "code": "H12",
+    "name": "H12",
+    "hex": "#FFF5ED",
+    "rgb": [
+      255,
+      245,
+      237
+    ],
+    "lab": [
+      97.1,
+      2,
+      5.04
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H13",
+    "brand": "mard",
+    "code": "H13",
+    "name": "H13",
+    "hex": "#F5ECD2",
+    "rgb": [
+      245,
+      236,
+      210
+    ],
+    "lab": [
+      93.48,
+      -1.21,
+      13.7
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H14",
+    "brand": "mard",
+    "code": "H14",
+    "name": "H14",
+    "hex": "#CFD7D3",
+    "rgb": [
+      207,
+      215,
+      211
+    ],
+    "lab": [
+      85.29,
+      -3.44,
+      1.03
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H15",
+    "brand": "mard",
+    "code": "H15",
+    "name": "H15",
+    "hex": "#98A6A8",
+    "rgb": [
+      152,
+      166,
+      168
+    ],
+    "lab": [
+      67.11,
+      -4.5,
+      -2.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H16",
+    "brand": "mard",
+    "code": "H16",
+    "name": "H16",
+    "hex": "#1D1414",
+    "rgb": [
+      29,
+      20,
+      20
+    ],
+    "lab": [
+      7.34,
+      4.53,
+      1.61
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H17",
+    "brand": "mard",
+    "code": "H17",
+    "name": "H17",
+    "hex": "#F1EDED",
+    "rgb": [
+      241,
+      237,
+      237
+    ],
+    "lab": [
+      94.05,
+      1.34,
+      0.47
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H18",
+    "brand": "mard",
+    "code": "H18",
+    "name": "H18",
+    "hex": "#FFFDF0",
+    "rgb": [
+      255,
+      253,
+      240
+    ],
+    "lab": [
+      99.14,
+      -1.55,
+      6.45
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H19",
+    "brand": "mard",
+    "code": "H19",
+    "name": "H19",
+    "hex": "#F6EFE2",
+    "rgb": [
+      246,
+      239,
+      226
+    ],
+    "lab": [
+      94.66,
+      0.16,
+      7.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H20",
+    "brand": "mard",
+    "code": "H20",
+    "name": "H20",
+    "hex": "#949FA3",
+    "rgb": [
+      148,
+      159,
+      163
+    ],
+    "lab": [
+      64.75,
+      -3.08,
+      -3.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H21",
+    "brand": "mard",
+    "code": "H21",
+    "name": "H21",
+    "hex": "#FFFBE1",
+    "rgb": [
+      255,
+      251,
+      225
+    ],
+    "lab": [
+      98.31,
+      -2.95,
+      12.94
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H22",
+    "brand": "mard",
+    "code": "H22",
+    "name": "H22",
+    "hex": "#CACAD4",
+    "rgb": [
+      202,
+      202,
+      212
+    ],
+    "lab": [
+      81.59,
+      1.87,
+      -4.96
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-H23",
+    "brand": "mard",
+    "code": "H23",
+    "name": "H23",
+    "hex": "#9A9D94",
+    "rgb": [
+      154,
+      157,
+      148
+    ],
+    "lab": [
+      64.26,
+      -2.78,
+      4.33
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-M01",
+    "brand": "mard",
+    "code": "M01",
+    "name": "M01",
+    "hex": "#BCC6B8",
+    "rgb": [
+      188,
+      198,
+      184
+    ],
+    "lab": [
+      78.78,
+      -6.01,
+      5.83
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-M02",
+    "brand": "mard",
+    "code": "M02",
+    "name": "M02",
+    "hex": "#8AA386",
+    "rgb": [
+      138,
+      163,
+      134
+    ],
+    "lab": [
+      64.42,
+      -14.41,
+      12.21
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-M03",
+    "brand": "mard",
+    "code": "M03",
+    "name": "M03",
+    "hex": "#697D80",
+    "rgb": [
+      105,
+      125,
+      128
+    ],
+    "lab": [
+      50.95,
+      -6.58,
+      -4.07
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-M04",
+    "brand": "mard",
+    "code": "M04",
+    "name": "M04",
+    "hex": "#E3D2BC",
+    "rgb": [
+      227,
+      210,
+      188
+    ],
+    "lab": [
+      85.03,
+      2.34,
+      13.03
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-M05",
+    "brand": "mard",
+    "code": "M05",
+    "name": "M05",
+    "hex": "#D0CCAA",
+    "rgb": [
+      208,
+      204,
+      170
+    ],
+    "lab": [
+      81.56,
+      -4.23,
+      17.48
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-M06",
+    "brand": "mard",
+    "code": "M06",
+    "name": "M06",
+    "hex": "#B0A782",
+    "rgb": [
+      176,
+      167,
+      130
+    ],
+    "lab": [
+      68.37,
+      -2.74,
+      20.35
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-M07",
+    "brand": "mard",
+    "code": "M07",
+    "name": "M07",
+    "hex": "#B4A497",
+    "rgb": [
+      180,
+      164,
+      151
+    ],
+    "lab": [
+      68.38,
+      3.61,
+      8.85
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-M08",
+    "brand": "mard",
+    "code": "M08",
+    "name": "M08",
+    "hex": "#B38281",
+    "rgb": [
+      179,
+      130,
+      129
+    ],
+    "lab": [
+      59.1,
+      18.74,
+      8.01
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-M09",
+    "brand": "mard",
+    "code": "M09",
+    "name": "M09",
+    "hex": "#A58767",
+    "rgb": [
+      165,
+      135,
+      103
+    ],
+    "lab": [
+      58.33,
+      6.8,
+      21.51
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-M10",
+    "brand": "mard",
+    "code": "M10",
+    "name": "M10",
+    "hex": "#C5B2BC",
+    "rgb": [
+      197,
+      178,
+      188
+    ],
+    "lab": [
+      74.41,
+      8.54,
+      -2.6
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-M11",
+    "brand": "mard",
+    "code": "M11",
+    "name": "M11",
+    "hex": "#9F7594",
+    "rgb": [
+      159,
+      117,
+      148
+    ],
+    "lab": [
+      54.27,
+      21.69,
+      -10.32
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-M12",
+    "brand": "mard",
+    "code": "M12",
+    "name": "M12",
+    "hex": "#644749",
+    "rgb": [
+      100,
+      71,
+      73
+    ],
+    "lab": [
+      33.34,
+      12.74,
+      3.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-M13",
+    "brand": "mard",
+    "code": "M13",
+    "name": "M13",
+    "hex": "#D19066",
+    "rgb": [
+      209,
+      144,
+      102
+    ],
+    "lab": [
+      65.33,
+      19.93,
+      32.14
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-M14",
+    "brand": "mard",
+    "code": "M14",
+    "name": "M14",
+    "hex": "#C77362",
+    "rgb": [
+      199,
+      115,
+      98
+    ],
+    "lab": [
+      57.36,
+      31.25,
+      23.75
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-M15",
+    "brand": "mard",
+    "code": "M15",
+    "name": "M15",
+    "hex": "#757D78",
+    "rgb": [
+      117,
+      125,
+      120
+    ],
+    "lab": [
+      51.62,
+      -4,
+      1.7
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P01",
+    "brand": "mard",
+    "code": "P01",
+    "name": "P01",
+    "hex": "#FCF7F8",
+    "rgb": [
+      252,
+      247,
+      248
+    ],
+    "lab": [
+      97.63,
+      1.83,
+      0.11
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P02",
+    "brand": "mard",
+    "code": "P02",
+    "name": "P02",
+    "hex": "#B0A9AC",
+    "rgb": [
+      176,
+      169,
+      172
+    ],
+    "lab": [
+      69.88,
+      3.06,
+      -0.65
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P03",
+    "brand": "mard",
+    "code": "P03",
+    "name": "P03",
+    "hex": "#AFDCAB",
+    "rgb": [
+      175,
+      220,
+      171
+    ],
+    "lab": [
+      83.57,
+      -23.88,
+      19.39
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P04",
+    "brand": "mard",
+    "code": "P04",
+    "name": "P04",
+    "hex": "#FEA49F",
+    "rgb": [
+      254,
+      164,
+      159
+    ],
+    "lab": [
+      76.15,
+      32.7,
+      16.49
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P05",
+    "brand": "mard",
+    "code": "P05",
+    "name": "P05",
+    "hex": "#EE8C3E",
+    "rgb": [
+      238,
+      140,
+      62
+    ],
+    "lab": [
+      67.49,
+      31.29,
+      55.69
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P06",
+    "brand": "mard",
+    "code": "P06",
+    "name": "P06",
+    "hex": "#5FD0A7",
+    "rgb": [
+      95,
+      208,
+      167
+    ],
+    "lab": [
+      76.27,
+      -41.93,
+      10.71
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P07",
+    "brand": "mard",
+    "code": "P07",
+    "name": "P07",
+    "hex": "#EB9270",
+    "rgb": [
+      235,
+      146,
+      112
+    ],
+    "lab": [
+      69.04,
+      30.16,
+      32.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P08",
+    "brand": "mard",
+    "code": "P08",
+    "name": "P08",
+    "hex": "#F0D958",
+    "rgb": [
+      240,
+      217,
+      88
+    ],
+    "lab": [
+      86.43,
+      -6.7,
+      64.4
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P09",
+    "brand": "mard",
+    "code": "P09",
+    "name": "P09",
+    "hex": "#D9D9D9",
+    "rgb": [
+      217,
+      217,
+      217
+    ],
+    "lab": [
+      86.7,
+      0,
+      0
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P10",
+    "brand": "mard",
+    "code": "P10",
+    "name": "P10",
+    "hex": "#D9C7EA",
+    "rgb": [
+      217,
+      199,
+      234
+    ],
+    "lab": [
+      82.67,
+      12.7,
+      -15
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P11",
+    "brand": "mard",
+    "code": "P11",
+    "name": "P11",
+    "hex": "#F3ECC9",
+    "rgb": [
+      243,
+      236,
+      201
+    ],
+    "lab": [
+      93.13,
+      -3.27,
+      17.84
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P12",
+    "brand": "mard",
+    "code": "P12",
+    "name": "P12",
+    "hex": "#E6EEF2",
+    "rgb": [
+      230,
+      238,
+      242
+    ],
+    "lab": [
+      93.62,
+      -1.92,
+      -2.85
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P13",
+    "brand": "mard",
+    "code": "P13",
+    "name": "P13",
+    "hex": "#AACBEF",
+    "rgb": [
+      170,
+      203,
+      239
+    ],
+    "lab": [
+      80.45,
+      -2.89,
+      -21.34
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P14",
+    "brand": "mard",
+    "code": "P14",
+    "name": "P14",
+    "hex": "#337680",
+    "rgb": [
+      51,
+      118,
+      128
+    ],
+    "lab": [
+      45.93,
+      -17.95,
+      -11.88
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P15",
+    "brand": "mard",
+    "code": "P15",
+    "name": "P15",
+    "hex": "#668575",
+    "rgb": [
+      102,
+      133,
+      117
+    ],
+    "lab": [
+      52.82,
+      -14.51,
+      5.05
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P16",
+    "brand": "mard",
+    "code": "P16",
+    "name": "P16",
+    "hex": "#FEBF45",
+    "rgb": [
+      254,
+      191,
+      69
+    ],
+    "lab": [
+      81.16,
+      11.49,
+      67.11
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P17",
+    "brand": "mard",
+    "code": "P17",
+    "name": "P17",
+    "hex": "#FEA324",
+    "rgb": [
+      254,
+      163,
+      36
+    ],
+    "lab": [
+      74.44,
+      25.02,
+      72.32
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P18",
+    "brand": "mard",
+    "code": "P18",
+    "name": "P18",
+    "hex": "#FEB89F",
+    "rgb": [
+      254,
+      184,
+      159
+    ],
+    "lab": [
+      80.66,
+      22.23,
+      22.73
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P19",
+    "brand": "mard",
+    "code": "P19",
+    "name": "P19",
+    "hex": "#FFFEEC",
+    "rgb": [
+      255,
+      254,
+      236
+    ],
+    "lab": [
+      99.3,
+      -2.71,
+      8.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P20",
+    "brand": "mard",
+    "code": "P20",
+    "name": "P20",
+    "hex": "#FEBECF",
+    "rgb": [
+      254,
+      190,
+      207
+    ],
+    "lab": [
+      83.13,
+      25.43,
+      0.51
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P21",
+    "brand": "mard",
+    "code": "P21",
+    "name": "P21",
+    "hex": "#ECBEBF",
+    "rgb": [
+      236,
+      190,
+      191
+    ],
+    "lab": [
+      80.97,
+      16.59,
+      5.75
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P22",
+    "brand": "mard",
+    "code": "P22",
+    "name": "P22",
+    "hex": "#E4A89F",
+    "rgb": [
+      228,
+      168,
+      159
+    ],
+    "lab": [
+      74.19,
+      20.85,
+      13.33
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-P23",
+    "brand": "mard",
+    "code": "P23",
+    "name": "P23",
+    "hex": "#A56268",
+    "rgb": [
+      165,
+      98,
+      104
+    ],
+    "lab": [
+      49.17,
+      27.85,
+      8.3
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-Q01",
+    "brand": "mard",
+    "code": "Q01",
+    "name": "Q01",
+    "hex": "#F2A5E8",
+    "rgb": [
+      242,
+      165,
+      232
+    ],
+    "lab": [
+      77.05,
+      38.61,
+      -22.18
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-Q02",
+    "brand": "mard",
+    "code": "Q02",
+    "name": "Q02",
+    "hex": "#E9EC91",
+    "rgb": [
+      233,
+      236,
+      145
+    ],
+    "lab": [
+      91.4,
+      -14.17,
+      43.76
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-Q03",
+    "brand": "mard",
+    "code": "Q03",
+    "name": "Q03",
+    "hex": "#FFFF00",
+    "rgb": [
+      255,
+      255,
+      0
+    ],
+    "lab": [
+      97.14,
+      -21.55,
+      94.48
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-Q04",
+    "brand": "mard",
+    "code": "Q04",
+    "name": "Q04",
+    "hex": "#FFEBFA",
+    "rgb": [
+      255,
+      235,
+      250
+    ],
+    "lab": [
+      94.98,
+      9.32,
+      -4.78
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-Q05",
+    "brand": "mard",
+    "code": "Q05",
+    "name": "Q05",
+    "hex": "#76CEDE",
+    "rgb": [
+      118,
+      206,
+      222
+    ],
+    "lab": [
+      78.03,
+      -22.3,
+      -16.16
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R01",
+    "brand": "mard",
+    "code": "R01",
+    "name": "R01",
+    "hex": "#D50D21",
+    "rgb": [
+      213,
+      13,
+      33
+    ],
+    "lab": [
+      45.01,
+      69.18,
+      46.3
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R02",
+    "brand": "mard",
+    "code": "R02",
+    "name": "R02",
+    "hex": "#F92F83",
+    "rgb": [
+      249,
+      47,
+      131
+    ],
+    "lab": [
+      55.9,
+      77.39,
+      3.6
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R03",
+    "brand": "mard",
+    "code": "R03",
+    "name": "R03",
+    "hex": "#FD8324",
+    "rgb": [
+      253,
+      131,
+      36
+    ],
+    "lab": [
+      67.46,
+      41.02,
+      66.63
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R04",
+    "brand": "mard",
+    "code": "R04",
+    "name": "R04",
+    "hex": "#F8EC31",
+    "rgb": [
+      248,
+      236,
+      49
+    ],
+    "lab": [
+      91.76,
+      -14.55,
+      83.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R05",
+    "brand": "mard",
+    "code": "R05",
+    "name": "R05",
+    "hex": "#35C75B",
+    "rgb": [
+      53,
+      199,
+      91
+    ],
+    "lab": [
+      71.12,
+      -60.45,
+      42.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R06",
+    "brand": "mard",
+    "code": "R06",
+    "name": "R06",
+    "hex": "#238891",
+    "rgb": [
+      35,
+      136,
+      145
+    ],
+    "lab": [
+      51.85,
+      -24.63,
+      -12.98
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R07",
+    "brand": "mard",
+    "code": "R07",
+    "name": "R07",
+    "hex": "#19779D",
+    "rgb": [
+      25,
+      119,
+      157
+    ],
+    "lab": [
+      46.75,
+      -12.34,
+      -27.83
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R08",
+    "brand": "mard",
+    "code": "R08",
+    "name": "R08",
+    "hex": "#1A60C3",
+    "rgb": [
+      26,
+      96,
+      195
+    ],
+    "lab": [
+      42.04,
+      16.73,
+      -57.53
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R09",
+    "brand": "mard",
+    "code": "R09",
+    "name": "R09",
+    "hex": "#9A56B4",
+    "rgb": [
+      154,
+      86,
+      180
+    ],
+    "lab": [
+      48.03,
+      43.88,
+      -38.69
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R10",
+    "brand": "mard",
+    "code": "R10",
+    "name": "R10",
+    "hex": "#FFDB4C",
+    "rgb": [
+      255,
+      219,
+      76
+    ],
+    "lab": [
+      88.18,
+      -2.14,
+      71.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R11",
+    "brand": "mard",
+    "code": "R11",
+    "name": "R11",
+    "hex": "#FFEBFB",
+    "rgb": [
+      255,
+      235,
+      251
+    ],
+    "lab": [
+      95.01,
+      9.49,
+      -5.26
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R12",
+    "brand": "mard",
+    "code": "R12",
+    "name": "R12",
+    "hex": "#D8D5CE",
+    "rgb": [
+      216,
+      213,
+      206
+    ],
+    "lab": [
+      85.32,
+      -0.21,
+      3.82
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R13",
+    "brand": "mard",
+    "code": "R13",
+    "name": "R13",
+    "hex": "#55514C",
+    "rgb": [
+      85,
+      81,
+      76
+    ],
+    "lab": [
+      34.68,
+      0.62,
+      3.52
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R14",
+    "brand": "mard",
+    "code": "R14",
+    "name": "R14",
+    "hex": "#9FE4DF",
+    "rgb": [
+      159,
+      228,
+      223
+    ],
+    "lab": [
+      86.1,
+      -22.52,
+      -4.47
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R15",
+    "brand": "mard",
+    "code": "R15",
+    "name": "R15",
+    "hex": "#77CEE9",
+    "rgb": [
+      119,
+      206,
+      233
+    ],
+    "lab": [
+      78.43,
+      -19.12,
+      -21.45
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R16",
+    "brand": "mard",
+    "code": "R16",
+    "name": "R16",
+    "hex": "#3ECFCA",
+    "rgb": [
+      62,
+      207,
+      202
+    ],
+    "lab": [
+      76.01,
+      -38.38,
+      -8.59
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R17",
+    "brand": "mard",
+    "code": "R17",
+    "name": "R17",
+    "hex": "#4A867A",
+    "rgb": [
+      74,
+      134,
+      122
+    ],
+    "lab": [
+      51.74,
+      -22.6,
+      0.38
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R18",
+    "brand": "mard",
+    "code": "R18",
+    "name": "R18",
+    "hex": "#7FCD9D",
+    "rgb": [
+      127,
+      205,
+      157
+    ],
+    "lab": [
+      76.44,
+      -34.46,
+      16.47
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R19",
+    "brand": "mard",
+    "code": "R19",
+    "name": "R19",
+    "hex": "#CDE55D",
+    "rgb": [
+      205,
+      229,
+      93
+    ],
+    "lab": [
+      86.9,
+      -26.45,
+      62.01
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R20",
+    "brand": "mard",
+    "code": "R20",
+    "name": "R20",
+    "hex": "#E8C7B4",
+    "rgb": [
+      232,
+      199,
+      180
+    ],
+    "lab": [
+      82.54,
+      8.75,
+      13.83
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R21",
+    "brand": "mard",
+    "code": "R21",
+    "name": "R21",
+    "hex": "#AD6F3C",
+    "rgb": [
+      173,
+      111,
+      60
+    ],
+    "lab": [
+      52.49,
+      19.65,
+      37.98
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R22",
+    "brand": "mard",
+    "code": "R22",
+    "name": "R22",
+    "hex": "#6C372F",
+    "rgb": [
+      108,
+      55,
+      47
+    ],
+    "lab": [
+      29.73,
+      22.6,
+      15.58
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R23",
+    "brand": "mard",
+    "code": "R23",
+    "name": "R23",
+    "hex": "#FEB872",
+    "rgb": [
+      254,
+      184,
+      114
+    ],
+    "lab": [
+      79.94,
+      17.89,
+      45.24
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R24",
+    "brand": "mard",
+    "code": "R24",
+    "name": "R24",
+    "hex": "#F3C1C0",
+    "rgb": [
+      243,
+      193,
+      192
+    ],
+    "lab": [
+      82.38,
+      17.69,
+      7.33
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R25",
+    "brand": "mard",
+    "code": "R25",
+    "name": "R25",
+    "hex": "#C9675E",
+    "rgb": [
+      201,
+      103,
+      94
+    ],
+    "lab": [
+      55,
+      37.99,
+      22.97
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R26",
+    "brand": "mard",
+    "code": "R26",
+    "name": "R26",
+    "hex": "#D293BE",
+    "rgb": [
+      210,
+      147,
+      190
+    ],
+    "lab": [
+      68.23,
+      30.36,
+      -12.74
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R27",
+    "brand": "mard",
+    "code": "R27",
+    "name": "R27",
+    "hex": "#EA8CB1",
+    "rgb": [
+      234,
+      140,
+      177
+    ],
+    "lab": [
+      69.06,
+      40.32,
+      -3.96
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-R28",
+    "brand": "mard",
+    "code": "R28",
+    "name": "R28",
+    "hex": "#9C87D6",
+    "rgb": [
+      156,
+      135,
+      214
+    ],
+    "lab": [
+      61,
+      24.79,
+      -37.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-T01",
+    "brand": "mard",
+    "code": "T01",
+    "name": "T01",
+    "hex": "#FFFFFF",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "lab": [
+      100,
+      0,
+      0
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-Y01",
+    "brand": "mard",
+    "code": "Y01",
+    "name": "Y01",
+    "hex": "#FD6FB4",
+    "rgb": [
+      253,
+      111,
+      180
+    ],
+    "lab": [
+      66.18,
+      61.01,
+      -9.65
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-Y02",
+    "brand": "mard",
+    "code": "Y02",
+    "name": "Y02",
+    "hex": "#FEB481",
+    "rgb": [
+      254,
+      180,
+      129
+    ],
+    "lab": [
+      79.22,
+      21.25,
+      36.65
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-Y03",
+    "brand": "mard",
+    "code": "Y03",
+    "name": "Y03",
+    "hex": "#D7FAA0",
+    "rgb": [
+      215,
+      250,
+      160
+    ],
+    "lab": [
+      94.04,
+      -25.89,
+      39.52
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-Y04",
+    "brand": "mard",
+    "code": "Y04",
+    "name": "Y04",
+    "hex": "#8BDBFA",
+    "rgb": [
+      139,
+      219,
+      250
+    ],
+    "lab": [
+      83.47,
+      -16.61,
+      -22.77
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-Y05",
+    "brand": "mard",
+    "code": "Y05",
+    "name": "Y05",
+    "hex": "#E987EA",
+    "rgb": [
+      233,
+      135,
+      234
+    ],
+    "lab": [
+      69.89,
+      51.72,
+      -34.36
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-ZG1",
+    "brand": "mard",
+    "code": "ZG1",
+    "name": "ZG1",
+    "hex": "#DAABB3",
+    "rgb": [
+      218,
+      171,
+      179
+    ],
+    "lab": [
+      74.37,
+      18.38,
+      2.5
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-ZG2",
+    "brand": "mard",
+    "code": "ZG2",
+    "name": "ZG2",
+    "hex": "#D6AA87",
+    "rgb": [
+      214,
+      170,
+      135
+    ],
+    "lab": [
+      72.76,
+      11.35,
+      24.18
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-ZG3",
+    "brand": "mard",
+    "code": "ZG3",
+    "name": "ZG3",
+    "hex": "#C1BD8D",
+    "rgb": [
+      193,
+      189,
+      141
+    ],
+    "lab": [
+      75.86,
+      -6.25,
+      24.84
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-ZG4",
+    "brand": "mard",
+    "code": "ZG4",
+    "name": "ZG4",
+    "hex": "#96869F",
+    "rgb": [
+      150,
+      134,
+      159
+    ],
+    "lab": [
+      58.07,
+      10.86,
+      -11.07
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-ZG5",
+    "brand": "mard",
+    "code": "ZG5",
+    "name": "ZG5",
+    "hex": "#8490A6",
+    "rgb": [
+      132,
+      144,
+      166
+    ],
+    "lab": [
+      59.53,
+      0.55,
+      -13.03
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-ZG6",
+    "brand": "mard",
+    "code": "ZG6",
+    "name": "ZG6",
+    "hex": "#94BFE2",
+    "rgb": [
+      148,
+      191,
+      226
+    ],
+    "lab": [
+      75.48,
+      -5.87,
+      -22.03
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-ZG7",
+    "brand": "mard",
+    "code": "ZG7",
+    "name": "ZG7",
+    "hex": "#E2A9D2",
+    "rgb": [
+      226,
+      169,
+      210
+    ],
+    "lab": [
+      75.58,
+      27.38,
+      -12.6
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "mard-ZG8",
+    "brand": "mard",
+    "code": "ZG8",
+    "name": "ZG8",
+    "hex": "#AB91C0",
+    "rgb": [
+      171,
+      145,
+      192
+    ],
+    "lab": [
+      63.93,
+      18.68,
+      -20.75
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  }
+]

@@ -1,0 +1,1332 @@
+[
+  {
+    "id": "perler-P01",
+    "brand": "perler",
+    "code": "P01",
+    "name": "White",
+    "hex": "#FFFFFF",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "lab": [
+      100,
+      0,
+      0
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P02",
+    "brand": "perler",
+    "code": "P02",
+    "name": "Cream",
+    "hex": "#F5E6C8",
+    "rgb": [
+      245,
+      230,
+      200
+    ],
+    "lab": [
+      91.76,
+      0.35,
+      16.47
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P03",
+    "brand": "perler",
+    "code": "P03",
+    "name": "Yellow",
+    "hex": "#FFD800",
+    "rgb": [
+      255,
+      216,
+      0
+    ],
+    "lab": [
+      87.18,
+      -2.43,
+      87.31
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P04",
+    "brand": "perler",
+    "code": "P04",
+    "name": "Orange",
+    "hex": "#FF8000",
+    "rgb": [
+      255,
+      128,
+      0
+    ],
+    "lab": [
+      67.05,
+      42.83,
+      74.02
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P05",
+    "brand": "perler",
+    "code": "P05",
+    "name": "Red",
+    "hex": "#D40000",
+    "rgb": [
+      212,
+      0,
+      0
+    ],
+    "lab": [
+      44.24,
+      69.68,
+      58.46
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P06",
+    "brand": "perler",
+    "code": "P06",
+    "name": "Bubblegum",
+    "hex": "#FF7B9B",
+    "rgb": [
+      255,
+      123,
+      155
+    ],
+    "lab": [
+      67.87,
+      53.22,
+      7.03
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P07",
+    "brand": "perler",
+    "code": "P07",
+    "name": "Purple",
+    "hex": "#6B2FA0",
+    "rgb": [
+      107,
+      47,
+      160
+    ],
+    "lab": [
+      33.34,
+      47.7,
+      -50.65
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P08",
+    "brand": "perler",
+    "code": "P08",
+    "name": "Dark Blue",
+    "hex": "#003399",
+    "rgb": [
+      0,
+      51,
+      153
+    ],
+    "lab": [
+      25.76,
+      28.88,
+      -59.09
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P09",
+    "brand": "perler",
+    "code": "P09",
+    "name": "Light Blue",
+    "hex": "#5BC5F2",
+    "rgb": [
+      91,
+      197,
+      242
+    ],
+    "lab": [
+      75.18,
+      -17.38,
+      -31.35
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P10",
+    "brand": "perler",
+    "code": "P10",
+    "name": "Dark Green",
+    "hex": "#006633",
+    "rgb": [
+      0,
+      102,
+      51
+    ],
+    "lab": [
+      37.37,
+      -38.46,
+      21.72
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P11",
+    "brand": "perler",
+    "code": "P11",
+    "name": "Pearl Green",
+    "hex": "#3CB371",
+    "rgb": [
+      60,
+      179,
+      113
+    ],
+    "lab": [
+      65.27,
+      -48.22,
+      24.29
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P12",
+    "brand": "perler",
+    "code": "P12",
+    "name": "Light Green",
+    "hex": "#7EC850",
+    "rgb": [
+      126,
+      200,
+      80
+    ],
+    "lab": [
+      73.75,
+      -43.79,
+      51.66
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P13",
+    "brand": "perler",
+    "code": "P13",
+    "name": "Brown",
+    "hex": "#8B4513",
+    "rgb": [
+      139,
+      69,
+      19
+    ],
+    "lab": [
+      37.47,
+      26.44,
+      40.98
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P14",
+    "brand": "perler",
+    "code": "P14",
+    "name": "Tan",
+    "hex": "#D2B48C",
+    "rgb": [
+      210,
+      180,
+      140
+    ],
+    "lab": [
+      74.98,
+      5.02,
+      24.43
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P15",
+    "brand": "perler",
+    "code": "P15",
+    "name": "Black",
+    "hex": "#000000",
+    "rgb": [
+      0,
+      0,
+      0
+    ],
+    "lab": [
+      0,
+      0,
+      0
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P16",
+    "brand": "perler",
+    "code": "P16",
+    "name": "Grey",
+    "hex": "#808080",
+    "rgb": [
+      128,
+      128,
+      128
+    ],
+    "lab": [
+      53.59,
+      0,
+      0
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P17",
+    "brand": "perler",
+    "code": "P17",
+    "name": "Charcoal",
+    "hex": "#404040",
+    "rgb": [
+      64,
+      64,
+      64
+    ],
+    "lab": [
+      27.09,
+      0,
+      0
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P18",
+    "brand": "perler",
+    "code": "P18",
+    "name": "Magenta",
+    "hex": "#CC0066",
+    "rgb": [
+      204,
+      0,
+      102
+    ],
+    "lab": [
+      43.95,
+      71.52,
+      2.91
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P19",
+    "brand": "perler",
+    "code": "P19",
+    "name": "Peach",
+    "hex": "#FFCBA4",
+    "rgb": [
+      255,
+      203,
+      164
+    ],
+    "lab": [
+      85.33,
+      13.25,
+      26.47
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P20",
+    "brand": "perler",
+    "code": "P20",
+    "name": "Kiwi Lime",
+    "hex": "#C5E17A",
+    "rgb": [
+      197,
+      225,
+      122
+    ],
+    "lab": [
+      85.57,
+      -25.05,
+      47.11
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P21",
+    "brand": "perler",
+    "code": "P21",
+    "name": "Cyan",
+    "hex": "#00BFFF",
+    "rgb": [
+      0,
+      191,
+      255
+    ],
+    "lab": [
+      72.55,
+      -17.66,
+      -42.54
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P22",
+    "brand": "perler",
+    "code": "P22",
+    "name": "Lavender",
+    "hex": "#9370DB",
+    "rgb": [
+      147,
+      112,
+      219
+    ],
+    "lab": [
+      54.97,
+      36.8,
+      -50.09
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P23",
+    "brand": "perler",
+    "code": "P23",
+    "name": "Bright Green",
+    "hex": "#00CC00",
+    "rgb": [
+      0,
+      204,
+      0
+    ],
+    "lab": [
+      71.68,
+      -72.84,
+      70.31
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P24",
+    "brand": "perler",
+    "code": "P24",
+    "name": "Pastel Blue",
+    "hex": "#ADD8E6",
+    "rgb": [
+      173,
+      216,
+      230
+    ],
+    "lab": [
+      83.81,
+      -10.89,
+      -11.48
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P25",
+    "brand": "perler",
+    "code": "P25",
+    "name": "Pastel Green",
+    "hex": "#98FB98",
+    "rgb": [
+      152,
+      251,
+      152
+    ],
+    "lab": [
+      90.75,
+      -48.3,
+      38.53
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P26",
+    "brand": "perler",
+    "code": "P26",
+    "name": "Pastel Lavender",
+    "hex": "#D8BFD8",
+    "rgb": [
+      216,
+      191,
+      216
+    ],
+    "lab": [
+      80.08,
+      13.22,
+      -9.23
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P27",
+    "brand": "perler",
+    "code": "P27",
+    "name": "Pastel Yellow",
+    "hex": "#FFFACD",
+    "rgb": [
+      255,
+      250,
+      205
+    ],
+    "lab": [
+      97.65,
+      -5.43,
+      22.23
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P28",
+    "brand": "perler",
+    "code": "P28",
+    "name": "Robin Egg",
+    "hex": "#00CCCC",
+    "rgb": [
+      0,
+      204,
+      204
+    ],
+    "lab": [
+      74.53,
+      -40.64,
+      -11.94
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P29",
+    "brand": "perler",
+    "code": "P29",
+    "name": "Blush",
+    "hex": "#FFB6C1",
+    "rgb": [
+      255,
+      182,
+      193
+    ],
+    "lab": [
+      81.05,
+      27.96,
+      5.04
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P30",
+    "brand": "perler",
+    "code": "P30",
+    "name": "Toothpaste",
+    "hex": "#B0E0E6",
+    "rgb": [
+      176,
+      224,
+      230
+    ],
+    "lab": [
+      86.13,
+      -14.09,
+      -8.01
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P31",
+    "brand": "perler",
+    "code": "P31",
+    "name": "Hot Coral",
+    "hex": "#FF4040",
+    "rgb": [
+      255,
+      64,
+      64
+    ],
+    "lab": [
+      57.37,
+      70.55,
+      44.82
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P32",
+    "brand": "perler",
+    "code": "P32",
+    "name": "Plum",
+    "hex": "#993366",
+    "rgb": [
+      153,
+      51,
+      102
+    ],
+    "lab": [
+      38.02,
+      47.3,
+      -6.92
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P33",
+    "brand": "perler",
+    "code": "P33",
+    "name": "Slime",
+    "hex": "#CCFF00",
+    "rgb": [
+      204,
+      255,
+      0
+    ],
+    "lab": [
+      93.61,
+      -41.95,
+      90.27
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P34",
+    "brand": "perler",
+    "code": "P34",
+    "name": "Butterscotch",
+    "hex": "#E89050",
+    "rgb": [
+      232,
+      144,
+      80
+    ],
+    "lab": [
+      67.79,
+      27.68,
+      47.24
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P35",
+    "brand": "perler",
+    "code": "P35",
+    "name": "Rust",
+    "hex": "#B7410E",
+    "rgb": [
+      183,
+      65,
+      14
+    ],
+    "lab": [
+      44.06,
+      45.76,
+      51.12
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P36",
+    "brand": "perler",
+    "code": "P36",
+    "name": "Light Grey",
+    "hex": "#C0C0C0",
+    "rgb": [
+      192,
+      192,
+      192
+    ],
+    "lab": [
+      77.7,
+      0,
+      0
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P37",
+    "brand": "perler",
+    "code": "P37",
+    "name": "Pink",
+    "hex": "#FF69B4",
+    "rgb": [
+      255,
+      105,
+      180
+    ],
+    "lab": [
+      65.49,
+      64.24,
+      -10.65
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P38",
+    "brand": "perler",
+    "code": "P38",
+    "name": "Sand",
+    "hex": "#C2B280",
+    "rgb": [
+      194,
+      178,
+      128
+    ],
+    "lab": [
+      72.81,
+      -1.75,
+      27.68
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P39",
+    "brand": "perler",
+    "code": "P39",
+    "name": "Cranapple",
+    "hex": "#9B111E",
+    "rgb": [
+      155,
+      17,
+      30
+    ],
+    "lab": [
+      32.84,
+      53.23,
+      32.03
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P40",
+    "brand": "perler",
+    "code": "P40",
+    "name": "Cheddar",
+    "hex": "#FFB300",
+    "rgb": [
+      255,
+      179,
+      0
+    ],
+    "lab": [
+      78.17,
+      16.63,
+      81.09
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P41",
+    "brand": "perler",
+    "code": "P41",
+    "name": "Turquoise",
+    "hex": "#30D5C8",
+    "rgb": [
+      48,
+      213,
+      200
+    ],
+    "lab": [
+      77.51,
+      -43.2,
+      -5.32
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P42",
+    "brand": "perler",
+    "code": "P42",
+    "name": "Light Pink",
+    "hex": "#FFB6C1",
+    "rgb": [
+      255,
+      182,
+      193
+    ],
+    "lab": [
+      81.05,
+      27.96,
+      5.04
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P43",
+    "brand": "perler",
+    "code": "P43",
+    "name": "Fern",
+    "hex": "#4F7942",
+    "rgb": [
+      79,
+      121,
+      66
+    ],
+    "lab": [
+      46.62,
+      -25.91,
+      25.59
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P44",
+    "brand": "perler",
+    "code": "P44",
+    "name": "Raspberry",
+    "hex": "#E30B5C",
+    "rgb": [
+      227,
+      11,
+      92
+    ],
+    "lab": [
+      48.7,
+      75.15,
+      16.47
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P45",
+    "brand": "perler",
+    "code": "P45",
+    "name": "Cobalt",
+    "hex": "#0047AB",
+    "rgb": [
+      0,
+      71,
+      171
+    ],
+    "lab": [
+      32.8,
+      22.52,
+      -58.44
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P46",
+    "brand": "perler",
+    "code": "P46",
+    "name": "Evergreen",
+    "hex": "#115740",
+    "rgb": [
+      17,
+      87,
+      64
+    ],
+    "lab": [
+      32.49,
+      -27.28,
+      7.42
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P47",
+    "brand": "perler",
+    "code": "P47",
+    "name": "Prickly Pear",
+    "hex": "#DE4F3E",
+    "rgb": [
+      222,
+      79,
+      62
+    ],
+    "lab": [
+      53.46,
+      54.8,
+      39.95
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P48",
+    "brand": "perler",
+    "code": "P48",
+    "name": "Midnight",
+    "hex": "#191970",
+    "rgb": [
+      25,
+      25,
+      112
+    ],
+    "lab": [
+      15.86,
+      31.71,
+      -49.57
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P49",
+    "brand": "perler",
+    "code": "P49",
+    "name": "Periwinkle",
+    "hex": "#7A7FD4",
+    "rgb": [
+      122,
+      127,
+      212
+    ],
+    "lab": [
+      56.16,
+      19.66,
+      -44.4
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P50",
+    "brand": "perler",
+    "code": "P50",
+    "name": "Spice",
+    "hex": "#C45B28",
+    "rgb": [
+      196,
+      91,
+      40
+    ],
+    "lab": [
+      51.12,
+      38.92,
+      47.46
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P51",
+    "brand": "perler",
+    "code": "P51",
+    "name": "Creme",
+    "hex": "#FFF8DC",
+    "rgb": [
+      255,
+      248,
+      220
+    ],
+    "lab": [
+      97.46,
+      -2.22,
+      14.29
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P52",
+    "brand": "perler",
+    "code": "P52",
+    "name": "Light Brown",
+    "hex": "#C4A882",
+    "rgb": [
+      196,
+      168,
+      130
+    ],
+    "lab": [
+      70.42,
+      4.65,
+      23.44
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P53",
+    "brand": "perler",
+    "code": "P53",
+    "name": "Honey",
+    "hex": "#EB9605",
+    "rgb": [
+      235,
+      150,
+      5
+    ],
+    "lab": [
+      69.11,
+      23.44,
+      73.32
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P54",
+    "brand": "perler",
+    "code": "P54",
+    "name": "Pear",
+    "hex": "#D1E231",
+    "rgb": [
+      209,
+      226,
+      49
+    ],
+    "lab": [
+      86.09,
+      -25.82,
+      76.99
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P55",
+    "brand": "perler",
+    "code": "P55",
+    "name": "Olive",
+    "hex": "#808000",
+    "rgb": [
+      128,
+      128,
+      0
+    ],
+    "lab": [
+      51.87,
+      -12.93,
+      56.67
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P56",
+    "brand": "perler",
+    "code": "P56",
+    "name": "Shamrock",
+    "hex": "#009E60",
+    "rgb": [
+      0,
+      158,
+      96
+    ],
+    "lab": [
+      57.36,
+      -50.06,
+      22.76
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P57",
+    "brand": "perler",
+    "code": "P57",
+    "name": "Teal",
+    "hex": "#008080",
+    "rgb": [
+      0,
+      128,
+      128
+    ],
+    "lab": [
+      48.25,
+      -28.85,
+      -8.48
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P58",
+    "brand": "perler",
+    "code": "P58",
+    "name": "Blueberry",
+    "hex": "#4F86F7",
+    "rgb": [
+      79,
+      134,
+      247
+    ],
+    "lab": [
+      57.49,
+      18.03,
+      -61.95
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P59",
+    "brand": "perler",
+    "code": "P59",
+    "name": "Grape",
+    "hex": "#6F2DA8",
+    "rgb": [
+      111,
+      45,
+      168
+    ],
+    "lab": [
+      34.16,
+      51.34,
+      -54.13
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P60",
+    "brand": "perler",
+    "code": "P60",
+    "name": "Orchid",
+    "hex": "#DA70D6",
+    "rgb": [
+      218,
+      112,
+      214
+    ],
+    "lab": [
+      62.8,
+      55.28,
+      -34.4
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P61",
+    "brand": "perler",
+    "code": "P61",
+    "name": "Salmon",
+    "hex": "#FA8072",
+    "rgb": [
+      250,
+      128,
+      114
+    ],
+    "lab": [
+      67.26,
+      45.23,
+      29.09
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P62",
+    "brand": "perler",
+    "code": "P62",
+    "name": "Apricot",
+    "hex": "#FBCEB1",
+    "rgb": [
+      251,
+      206,
+      177
+    ],
+    "lab": [
+      85.92,
+      11.77,
+      20.4
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P63",
+    "brand": "perler",
+    "code": "P63",
+    "name": "Mist",
+    "hex": "#90AFC5",
+    "rgb": [
+      144,
+      175,
+      197
+    ],
+    "lab": [
+      69.91,
+      -5.52,
+      -14.67
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P64",
+    "brand": "perler",
+    "code": "P64",
+    "name": "Pewter",
+    "hex": "#96A8A1",
+    "rgb": [
+      150,
+      168,
+      161
+    ],
+    "lab": [
+      67.32,
+      -7.69,
+      1.47
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P65",
+    "brand": "perler",
+    "code": "P65",
+    "name": "Flamingo",
+    "hex": "#FC8EAC",
+    "rgb": [
+      252,
+      142,
+      172
+    ],
+    "lab": [
+      71.57,
+      44.84,
+      2.78
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P66",
+    "brand": "perler",
+    "code": "P66",
+    "name": "Tangerine",
+    "hex": "#FF9966",
+    "rgb": [
+      255,
+      153,
+      102
+    ],
+    "lab": [
+      72.9,
+      33.57,
+      42.78
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P67",
+    "brand": "perler",
+    "code": "P67",
+    "name": "Mulberry",
+    "hex": "#C54B8C",
+    "rgb": [
+      197,
+      75,
+      140
+    ],
+    "lab": [
+      50.45,
+      55.05,
+      -10.83
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P68",
+    "brand": "perler",
+    "code": "P68",
+    "name": "Lagoon",
+    "hex": "#4DC4C0",
+    "rgb": [
+      77,
+      196,
+      192
+    ],
+    "lab": [
+      72.8,
+      -33.8,
+      -7.91
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P69",
+    "brand": "perler",
+    "code": "P69",
+    "name": "Pumpkin",
+    "hex": "#FF7518",
+    "rgb": [
+      255,
+      117,
+      24
+    ],
+    "lab": [
+      65.01,
+      48.37,
+      68.42
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  },
+  {
+    "id": "perler-P70",
+    "brand": "perler",
+    "code": "P70",
+    "name": "Gingerbread",
+    "hex": "#B06500",
+    "rgb": [
+      176,
+      101,
+      0
+    ],
+    "lab": [
+      50.14,
+      24.47,
+      58.04
+    ],
+    "source": "community-sourced",
+    "license": "community"
+  }
+]

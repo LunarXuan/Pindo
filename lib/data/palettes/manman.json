@@ -1,0 +1,5512 @@
+[
+  {
+    "id": "manman-E2",
+    "brand": "manman",
+    "code": "E2",
+    "name": "E2",
+    "hex": "#FAF4C8",
+    "rgb": [
+      250,
+      244,
+      200
+    ],
+    "lab": [
+      95.66,
+      -4.93,
+      21.97
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-B1",
+    "brand": "manman",
+    "code": "B1",
+    "name": "B1",
+    "hex": "#FFFFD5",
+    "rgb": [
+      255,
+      255,
+      213
+    ],
+    "lab": [
+      99.06,
+      -6.76,
+      20.13
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-B2",
+    "brand": "manman",
+    "code": "B2",
+    "name": "B2",
+    "hex": "#FEFF8B",
+    "rgb": [
+      254,
+      255,
+      139
+    ],
+    "lab": [
+      97.82,
+      -15.97,
+      54.97
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-B3",
+    "brand": "manman",
+    "code": "B3",
+    "name": "B3",
+    "hex": "#FBED56",
+    "rgb": [
+      251,
+      237,
+      86
+    ],
+    "lab": [
+      92.47,
+      -12.26,
+      71.82
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-B4",
+    "brand": "manman",
+    "code": "B4",
+    "name": "B4",
+    "hex": "#F4D738",
+    "rgb": [
+      244,
+      215,
+      56
+    ],
+    "lab": [
+      86.07,
+      -5.56,
+      75.99
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-B5",
+    "brand": "manman",
+    "code": "B5",
+    "name": "B5",
+    "hex": "#FEAC4C",
+    "rgb": [
+      254,
+      172,
+      76
+    ],
+    "lab": [
+      76.74,
+      21.74,
+      59.68
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-B6",
+    "brand": "manman",
+    "code": "B6",
+    "name": "B6",
+    "hex": "#FE8B4C",
+    "rgb": [
+      254,
+      139,
+      76
+    ],
+    "lab": [
+      69.51,
+      38.8,
+      51.92
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-B10",
+    "brand": "manman",
+    "code": "B10",
+    "name": "B10",
+    "hex": "#FFDA45",
+    "rgb": [
+      255,
+      218,
+      69
+    ],
+    "lab": [
+      87.89,
+      -1.95,
+      73.7
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-B11",
+    "brand": "manman",
+    "code": "B11",
+    "name": "B11",
+    "hex": "#FF995B",
+    "rgb": [
+      255,
+      153,
+      91
+    ],
+    "lab": [
+      72.76,
+      32.85,
+      48.22
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-B12",
+    "brand": "manman",
+    "code": "B12",
+    "name": "B12",
+    "hex": "#F77C31",
+    "rgb": [
+      247,
+      124,
+      49
+    ],
+    "lab": [
+      65.29,
+      42.52,
+      59.59
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E11",
+    "brand": "manman",
+    "code": "E11",
+    "name": "E11",
+    "hex": "#FFDD99",
+    "rgb": [
+      255,
+      221,
+      153
+    ],
+    "lab": [
+      89.52,
+      2.74,
+      37.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A18",
+    "brand": "manman",
+    "code": "A18",
+    "name": "A18",
+    "hex": "#FE9F72",
+    "rgb": [
+      254,
+      159,
+      114
+    ],
+    "lab": [
+      74.25,
+      30.95,
+      38.17
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-B13",
+    "brand": "manman",
+    "code": "B13",
+    "name": "B13",
+    "hex": "#FFC365",
+    "rgb": [
+      255,
+      195,
+      101
+    ],
+    "lab": [
+      82.5,
+      11.61,
+      54.64
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-B14",
+    "brand": "manman",
+    "code": "B14",
+    "name": "B14",
+    "hex": "#FD543D",
+    "rgb": [
+      253,
+      84,
+      61
+    ],
+    "lab": [
+      59.5,
+      62.91,
+      48.58
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-B15",
+    "brand": "manman",
+    "code": "B15",
+    "name": "B15",
+    "hex": "#FFF365",
+    "rgb": [
+      255,
+      243,
+      101
+    ],
+    "lab": [
+      94.44,
+      -12.69,
+      67.98
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-IC04",
+    "brand": "manman",
+    "code": "IC04",
+    "name": "IC04",
+    "hex": "#FFFF9F",
+    "rgb": [
+      255,
+      255,
+      159
+    ],
+    "lab": [
+      98.15,
+      -13.6,
+      45.87
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-IC9",
+    "brand": "manman",
+    "code": "IC9",
+    "name": "IC9",
+    "hex": "#FFE36E",
+    "rgb": [
+      255,
+      227,
+      110
+    ],
+    "lab": [
+      90.47,
+      -4.14,
+      59.64
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-IC14",
+    "brand": "manman",
+    "code": "IC14",
+    "name": "IC14",
+    "hex": "#FEBE7D",
+    "rgb": [
+      254,
+      190,
+      125
+    ],
+    "lab": [
+      81.5,
+      15.67,
+      41.62
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-IC15",
+    "brand": "manman",
+    "code": "IC15",
+    "name": "IC15",
+    "hex": "#FD7C72",
+    "rgb": [
+      253,
+      124,
+      114
+    ],
+    "lab": [
+      66.91,
+      48.26,
+      28.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Q6",
+    "brand": "manman",
+    "code": "Q6",
+    "name": "Q6",
+    "hex": "#FFD568",
+    "rgb": [
+      255,
+      213,
+      104
+    ],
+    "lab": [
+      86.92,
+      2.53,
+      58.31
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-R07",
+    "brand": "manman",
+    "code": "R07",
+    "name": "R07",
+    "hex": "#FFE395",
+    "rgb": [
+      255,
+      227,
+      149
+    ],
+    "lab": [
+      90.95,
+      -0.73,
+      41.57
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-R06",
+    "brand": "manman",
+    "code": "R06",
+    "name": "R06",
+    "hex": "#F4F57D",
+    "rgb": [
+      244,
+      245,
+      125
+    ],
+    "lab": [
+      94.32,
+      -16.24,
+      57.07
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-R08",
+    "brand": "manman",
+    "code": "R08",
+    "name": "R08",
+    "hex": "#E6C9B7",
+    "rgb": [
+      230,
+      201,
+      183
+    ],
+    "lab": [
+      82.92,
+      7.4,
+      12.74
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-G3",
+    "brand": "manman",
+    "code": "G3",
+    "name": "G3",
+    "hex": "#F7F8A2",
+    "rgb": [
+      247,
+      248,
+      162
+    ],
+    "lab": [
+      95.8,
+      -12.87,
+      41.26
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-G4",
+    "brand": "manman",
+    "code": "G4",
+    "name": "G4",
+    "hex": "#FFD67D",
+    "rgb": [
+      255,
+      214,
+      125
+    ],
+    "lab": [
+      87.41,
+      3.64,
+      48.96
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-G5",
+    "brand": "manman",
+    "code": "G5",
+    "name": "G5",
+    "hex": "#FFC830",
+    "rgb": [
+      255,
+      200,
+      48
+    ],
+    "lab": [
+      83.33,
+      6.49,
+      76.37
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C1",
+    "brand": "manman",
+    "code": "C1",
+    "name": "C1",
+    "hex": "#E6EE31",
+    "rgb": [
+      230,
+      238,
+      49
+    ],
+    "lab": [
+      90.87,
+      -22.94,
+      81.8
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C2",
+    "brand": "manman",
+    "code": "C2",
+    "name": "C2",
+    "hex": "#63F347",
+    "rgb": [
+      99,
+      243,
+      71
+    ],
+    "lab": [
+      85.61,
+      -68.55,
+      67.68
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C7",
+    "brand": "manman",
+    "code": "C7",
+    "name": "C7",
+    "hex": "#9EF780",
+    "rgb": [
+      158,
+      247,
+      128
+    ],
+    "lab": [
+      89.56,
+      -48,
+      48.66
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C3",
+    "brand": "manman",
+    "code": "C3",
+    "name": "C3",
+    "hex": "#5DE035",
+    "rgb": [
+      93,
+      224,
+      53
+    ],
+    "lab": [
+      79.55,
+      -64.72,
+      67.6
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C4",
+    "brand": "manman",
+    "code": "C4",
+    "name": "C4",
+    "hex": "#35E352",
+    "rgb": [
+      53,
+      227,
+      82
+    ],
+    "lab": [
+      79.78,
+      -70.71,
+      56.94
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C9",
+    "brand": "manman",
+    "code": "C9",
+    "name": "C9",
+    "hex": "#65E2A6",
+    "rgb": [
+      101,
+      226,
+      166
+    ],
+    "lab": [
+      81.79,
+      -48.56,
+      19.02
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C10",
+    "brand": "manman",
+    "code": "C10",
+    "name": "C10",
+    "hex": "#3DAF80",
+    "rgb": [
+      61,
+      175,
+      128
+    ],
+    "lab": [
+      64.33,
+      -43.26,
+      14.88
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C5",
+    "brand": "manman",
+    "code": "C5",
+    "name": "C5",
+    "hex": "#1C9C4F",
+    "rgb": [
+      28,
+      156,
+      79
+    ],
+    "lab": [
+      56.67,
+      -50.58,
+      30.99
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C6",
+    "brand": "manman",
+    "code": "C6",
+    "name": "C6",
+    "hex": "#27523A",
+    "rgb": [
+      39,
+      82,
+      58
+    ],
+    "lab": [
+      31.28,
+      -21.35,
+      9.58
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C11",
+    "brand": "manman",
+    "code": "C11",
+    "name": "C11",
+    "hex": "#95D3C2",
+    "rgb": [
+      149,
+      211,
+      194
+    ],
+    "lab": [
+      80.11,
+      -23.34,
+      2.09
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C12",
+    "brand": "manman",
+    "code": "C12",
+    "name": "C12",
+    "hex": "#5D722A",
+    "rgb": [
+      93,
+      114,
+      42
+    ],
+    "lab": [
+      44.98,
+      -19.56,
+      36.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C13",
+    "brand": "manman",
+    "code": "C13",
+    "name": "C13",
+    "hex": "#166F41",
+    "rgb": [
+      22,
+      111,
+      65
+    ],
+    "lab": [
+      41.09,
+      -36.8,
+      18.56
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C14",
+    "brand": "manman",
+    "code": "C14",
+    "name": "C14",
+    "hex": "#CAEB7B",
+    "rgb": [
+      202,
+      235,
+      123
+    ],
+    "lab": [
+      88.64,
+      -27.81,
+      50.46
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C15",
+    "brand": "manman",
+    "code": "C15",
+    "name": "C15",
+    "hex": "#ADE946",
+    "rgb": [
+      173,
+      233,
+      70
+    ],
+    "lab": [
+      85.81,
+      -42.1,
+      69.25
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C16",
+    "brand": "manman",
+    "code": "C16",
+    "name": "C16",
+    "hex": "#2E5132",
+    "rgb": [
+      46,
+      81,
+      50
+    ],
+    "lab": [
+      31.1,
+      -20.24,
+      14.37
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C17",
+    "brand": "manman",
+    "code": "C17",
+    "name": "C17",
+    "hex": "#C5ED9C",
+    "rgb": [
+      197,
+      237,
+      156
+    ],
+    "lab": [
+      89.32,
+      -26.69,
+      35.11
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C18",
+    "brand": "manman",
+    "code": "C18",
+    "name": "C18",
+    "hex": "#9BB13A",
+    "rgb": [
+      155,
+      177,
+      58
+    ],
+    "lab": [
+      68.55,
+      -23.98,
+      55.85
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C19",
+    "brand": "manman",
+    "code": "C19",
+    "name": "C19",
+    "hex": "#E6EE49",
+    "rgb": [
+      230,
+      238,
+      73
+    ],
+    "lab": [
+      90.99,
+      -21.97,
+      74.59
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-DH15",
+    "brand": "manman",
+    "code": "DH15",
+    "name": "DH15",
+    "hex": "#24B88C",
+    "rgb": [
+      36,
+      184,
+      140
+    ],
+    "lab": [
+      66.94,
+      -47.72,
+      11.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-DH10",
+    "brand": "manman",
+    "code": "DH10",
+    "name": "DH10",
+    "hex": "#C2F0CC",
+    "rgb": [
+      194,
+      240,
+      204
+    ],
+    "lab": [
+      90.85,
+      -21.61,
+      12.59
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-DH2",
+    "brand": "manman",
+    "code": "DH2",
+    "name": "DH2",
+    "hex": "#156A6B",
+    "rgb": [
+      21,
+      106,
+      107
+    ],
+    "lab": [
+      40.46,
+      -23.17,
+      -7.55
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-DH7",
+    "brand": "manman",
+    "code": "DH7",
+    "name": "DH7",
+    "hex": "#0B3C43",
+    "rgb": [
+      11,
+      60,
+      67
+    ],
+    "lab": [
+      22.68,
+      -12.92,
+      -8.9
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-DH12",
+    "brand": "manman",
+    "code": "DH12",
+    "name": "DH12",
+    "hex": "#303A21",
+    "rgb": [
+      48,
+      58,
+      33
+    ],
+    "lab": [
+      22.88,
+      -9.44,
+      14.2
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-IC5",
+    "brand": "manman",
+    "code": "IC5",
+    "name": "IC5",
+    "hex": "#EEFCA5",
+    "rgb": [
+      238,
+      252,
+      165
+    ],
+    "lab": [
+      96.21,
+      -17.83,
+      40.19
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Q13",
+    "brand": "manman",
+    "code": "Q13",
+    "name": "Q13",
+    "hex": "#4E846D",
+    "rgb": [
+      78,
+      132,
+      109
+    ],
+    "lab": [
+      50.95,
+      -23.56,
+      6.84
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Q7",
+    "brand": "manman",
+    "code": "Q7",
+    "name": "Q7",
+    "hex": "#8D7A35",
+    "rgb": [
+      141,
+      122,
+      53
+    ],
+    "lab": [
+      51.66,
+      -1.4,
+      39.63
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-R10",
+    "brand": "manman",
+    "code": "R10",
+    "name": "R10",
+    "hex": "#CCE1AF",
+    "rgb": [
+      204,
+      225,
+      175
+    ],
+    "lab": [
+      86.89,
+      -15.62,
+      22.2
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-R11",
+    "brand": "manman",
+    "code": "R11",
+    "name": "R11",
+    "hex": "#9EE5B9",
+    "rgb": [
+      158,
+      229,
+      185
+    ],
+    "lab": [
+      85.41,
+      -31.13,
+      14.5
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-R09",
+    "brand": "manman",
+    "code": "R09",
+    "name": "R09",
+    "hex": "#C5E254",
+    "rgb": [
+      197,
+      226,
+      84
+    ],
+    "lab": [
+      85.46,
+      -28.83,
+      64.01
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-G6",
+    "brand": "manman",
+    "code": "G6",
+    "name": "G6",
+    "hex": "#E2FCB1",
+    "rgb": [
+      226,
+      252,
+      177
+    ],
+    "lab": [
+      95.57,
+      -20.68,
+      33.21
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-G7",
+    "brand": "manman",
+    "code": "G7",
+    "name": "G7",
+    "hex": "#B0E792",
+    "rgb": [
+      176,
+      231,
+      146
+    ],
+    "lab": [
+      86.23,
+      -32.6,
+      35.85
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-G12",
+    "brand": "manman",
+    "code": "G12",
+    "name": "G12",
+    "hex": "#9CAB5A",
+    "rgb": [
+      156,
+      171,
+      90
+    ],
+    "lab": [
+      67.23,
+      -17.85,
+      39.71
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-C8",
+    "brand": "manman",
+    "code": "C8",
+    "name": "C8",
+    "hex": "#E8FFE7",
+    "rgb": [
+      232,
+      255,
+      231
+    ],
+    "lab": [
+      97.81,
+      -11.77,
+      8.93
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D1",
+    "brand": "manman",
+    "code": "D1",
+    "name": "D1",
+    "hex": "#A9F9FC",
+    "rgb": [
+      169,
+      249,
+      252
+    ],
+    "lab": [
+      93.11,
+      -23.53,
+      -9.21
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D2",
+    "brand": "manman",
+    "code": "D2",
+    "name": "D2",
+    "hex": "#A0E2FB",
+    "rgb": [
+      160,
+      226,
+      251
+    ],
+    "lab": [
+      86.42,
+      -14.7,
+      -18.74
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D3",
+    "brand": "manman",
+    "code": "D3",
+    "name": "D3",
+    "hex": "#41CCFF",
+    "rgb": [
+      65,
+      204,
+      255
+    ],
+    "lab": [
+      77,
+      -20.56,
+      -35.57
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D7",
+    "brand": "manman",
+    "code": "D7",
+    "name": "D7",
+    "hex": "#01ACEB",
+    "rgb": [
+      1,
+      172,
+      235
+    ],
+    "lab": [
+      66.14,
+      -14.55,
+      -41.71
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D4",
+    "brand": "manman",
+    "code": "D4",
+    "name": "D4",
+    "hex": "#50AAF0",
+    "rgb": [
+      80,
+      170,
+      240
+    ],
+    "lab": [
+      67.08,
+      -5.26,
+      -42.87
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D8",
+    "brand": "manman",
+    "code": "D8",
+    "name": "D8",
+    "hex": "#3677D2",
+    "rgb": [
+      54,
+      119,
+      210
+    ],
+    "lab": [
+      50.25,
+      10.57,
+      -52.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D9",
+    "brand": "manman",
+    "code": "D9",
+    "name": "D9",
+    "hex": "#0F54C0",
+    "rgb": [
+      15,
+      84,
+      192
+    ],
+    "lab": [
+      38.28,
+      22.84,
+      -61.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-N5",
+    "brand": "manman",
+    "code": "N5",
+    "name": "N5",
+    "hex": "#324BCA",
+    "rgb": [
+      50,
+      75,
+      202
+    ],
+    "lab": [
+      37.79,
+      35.22,
+      -68.47
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D25",
+    "brand": "manman",
+    "code": "D25",
+    "name": "D25",
+    "hex": "#3EBCE2",
+    "rgb": [
+      62,
+      188,
+      226
+    ],
+    "lab": [
+      71.2,
+      -22,
+      -28.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D28",
+    "brand": "manman",
+    "code": "D28",
+    "name": "D28",
+    "hex": "#28DDDE",
+    "rgb": [
+      40,
+      221,
+      222
+    ],
+    "lab": [
+      80.42,
+      -41.2,
+      -12.77
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D26",
+    "brand": "manman",
+    "code": "D26",
+    "name": "D26",
+    "hex": "#1C334D",
+    "rgb": [
+      28,
+      51,
+      77
+    ],
+    "lab": [
+      20.64,
+      0.14,
+      -18.71
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D30",
+    "brand": "manman",
+    "code": "D30",
+    "name": "D30",
+    "hex": "#CDE8FF",
+    "rgb": [
+      205,
+      232,
+      255
+    ],
+    "lab": [
+      90.74,
+      -4.12,
+      -14.08
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D29",
+    "brand": "manman",
+    "code": "D29",
+    "name": "D29",
+    "hex": "#D5FDFF",
+    "rgb": [
+      213,
+      253,
+      255
+    ],
+    "lab": [
+      96.66,
+      -12.33,
+      -5.23
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D31",
+    "brand": "manman",
+    "code": "D31",
+    "name": "D31",
+    "hex": "#22C4C6",
+    "rgb": [
+      34,
+      196,
+      198
+    ],
+    "lab": [
+      72.16,
+      -37.35,
+      -12.22
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D32",
+    "brand": "manman",
+    "code": "D32",
+    "name": "D32",
+    "hex": "#1557A8",
+    "rgb": [
+      21,
+      87,
+      168
+    ],
+    "lab": [
+      37.48,
+      11.51,
+      -49.04
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D36",
+    "brand": "manman",
+    "code": "D36",
+    "name": "D36",
+    "hex": "#04D1F6",
+    "rgb": [
+      4,
+      209,
+      246
+    ],
+    "lab": [
+      77.45,
+      -29.72,
+      -30.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-DH6",
+    "brand": "manman",
+    "code": "DH6",
+    "name": "DH6",
+    "hex": "#1D3344",
+    "rgb": [
+      29,
+      51,
+      68
+    ],
+    "lab": [
+      20.23,
+      -2.96,
+      -13.27
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-DH9",
+    "brand": "manman",
+    "code": "DH9",
+    "name": "DH9",
+    "hex": "#1887A2",
+    "rgb": [
+      24,
+      135,
+      162
+    ],
+    "lab": [
+      51.98,
+      -19.51,
+      -22.66
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-DH14",
+    "brand": "manman",
+    "code": "DH14",
+    "name": "DH14",
+    "hex": "#176DAF",
+    "rgb": [
+      23,
+      109,
+      175
+    ],
+    "lab": [
+      44.54,
+      0.31,
+      -41.88
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-IC3",
+    "brand": "manman",
+    "code": "IC3",
+    "name": "IC3",
+    "hex": "#BEDDFF",
+    "rgb": [
+      190,
+      221,
+      255
+    ],
+    "lab": [
+      86.94,
+      -2.87,
+      -19.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Q11",
+    "brand": "manman",
+    "code": "Q11",
+    "name": "Q11",
+    "hex": "#67B4BE",
+    "rgb": [
+      103,
+      180,
+      190
+    ],
+    "lab": [
+      68.93,
+      -21.13,
+      -12.5
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-R13",
+    "brand": "manman",
+    "code": "R13",
+    "name": "R13",
+    "hex": "#C8E2FF",
+    "rgb": [
+      200,
+      226,
+      255
+    ],
+    "lab": [
+      88.87,
+      -2.52,
+      -16.92
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-R14",
+    "brand": "manman",
+    "code": "R14",
+    "name": "R14",
+    "hex": "#7CC4FF",
+    "rgb": [
+      124,
+      196,
+      255
+    ],
+    "lab": [
+      76.67,
+      -6.59,
+      -35.92
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-R12",
+    "brand": "manman",
+    "code": "R12",
+    "name": "R12",
+    "hex": "#A9E5E5",
+    "rgb": [
+      169,
+      229,
+      229
+    ],
+    "lab": [
+      87.06,
+      -18.86,
+      -6.15
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-R15",
+    "brand": "manman",
+    "code": "R15",
+    "name": "R15",
+    "hex": "#3CAED8",
+    "rgb": [
+      60,
+      174,
+      216
+    ],
+    "lab": [
+      66.66,
+      -18.2,
+      -30.41
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-G13",
+    "brand": "manman",
+    "code": "G13",
+    "name": "G13",
+    "hex": "#D3DFFA",
+    "rgb": [
+      211,
+      223,
+      250
+    ],
+    "lab": [
+      88.7,
+      1.33,
+      -14.48
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-G14",
+    "brand": "manman",
+    "code": "G14",
+    "name": "G14",
+    "hex": "#BBCFED",
+    "rgb": [
+      187,
+      207,
+      237
+    ],
+    "lab": [
+      82.54,
+      -0.43,
+      -17.01
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-G15",
+    "brand": "manman",
+    "code": "G15",
+    "name": "G15",
+    "hex": "#34488E",
+    "rgb": [
+      52,
+      72,
+      142
+    ],
+    "lab": [
+      32.52,
+      15.46,
+      -41.29
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D5",
+    "brand": "manman",
+    "code": "D5",
+    "name": "D5",
+    "hex": "#AEB4F2",
+    "rgb": [
+      174,
+      180,
+      242
+    ],
+    "lab": [
+      74.86,
+      11.46,
+      -31.49
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D6",
+    "brand": "manman",
+    "code": "D6",
+    "name": "D6",
+    "hex": "#858EDD",
+    "rgb": [
+      133,
+      142,
+      221
+    ],
+    "lab": [
+      61.27,
+      16.21,
+      -41.34
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D10",
+    "brand": "manman",
+    "code": "D10",
+    "name": "D10",
+    "hex": "#2F54AF",
+    "rgb": [
+      47,
+      84,
+      175
+    ],
+    "lab": [
+      37.91,
+      18.99,
+      -52.46
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D11",
+    "brand": "manman",
+    "code": "D11",
+    "name": "D11",
+    "hex": "#182A84",
+    "rgb": [
+      24,
+      42,
+      132
+    ],
+    "lab": [
+      22,
+      28.04,
+      -52.23
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D13",
+    "brand": "manman",
+    "code": "D13",
+    "name": "D13",
+    "hex": "#B843C5",
+    "rgb": [
+      184,
+      67,
+      197
+    ],
+    "lab": [
+      49.78,
+      63.75,
+      -45.53
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D14",
+    "brand": "manman",
+    "code": "D14",
+    "name": "D14",
+    "hex": "#AC7BDE",
+    "rgb": [
+      172,
+      123,
+      222
+    ],
+    "lab": [
+      60.08,
+      38.07,
+      -43.53
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D12",
+    "brand": "manman",
+    "code": "D12",
+    "name": "D12",
+    "hex": "#8854B3",
+    "rgb": [
+      136,
+      84,
+      179
+    ],
+    "lab": [
+      45.4,
+      39.8,
+      -42.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D16",
+    "brand": "manman",
+    "code": "D16",
+    "name": "D16",
+    "hex": "#E2D3FF",
+    "rgb": [
+      226,
+      211,
+      255
+    ],
+    "lab": [
+      86.99,
+      13.37,
+      -19.57
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D17",
+    "brand": "manman",
+    "code": "D17",
+    "name": "D17",
+    "hex": "#D5B9F8",
+    "rgb": [
+      213,
+      185,
+      248
+    ],
+    "lab": [
+      79.4,
+      21.8,
+      -27.48
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D15",
+    "brand": "manman",
+    "code": "D15",
+    "name": "D15",
+    "hex": "#361851",
+    "rgb": [
+      54,
+      24,
+      81
+    ],
+    "lab": [
+      15.65,
+      27.22,
+      -29.19
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D19",
+    "brand": "manman",
+    "code": "D19",
+    "name": "D19",
+    "hex": "#B9BAE1",
+    "rgb": [
+      185,
+      186,
+      225
+    ],
+    "lab": [
+      76.6,
+      7.58,
+      -19.56
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D20",
+    "brand": "manman",
+    "code": "D20",
+    "name": "D20",
+    "hex": "#DE9AD4",
+    "rgb": [
+      222,
+      154,
+      212
+    ],
+    "lab": [
+      71.82,
+      34.45,
+      -19.39
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D21",
+    "brand": "manman",
+    "code": "D21",
+    "name": "D21",
+    "hex": "#B90095",
+    "rgb": [
+      185,
+      0,
+      149
+    ],
+    "lab": [
+      41.98,
+      72.29,
+      -29.45
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D22",
+    "brand": "manman",
+    "code": "D22",
+    "name": "D22",
+    "hex": "#8B279B",
+    "rgb": [
+      139,
+      39,
+      155
+    ],
+    "lab": [
+      36.57,
+      56.71,
+      -42.18
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D18",
+    "brand": "manman",
+    "code": "D18",
+    "name": "D18",
+    "hex": "#2F1F90",
+    "rgb": [
+      47,
+      31,
+      144
+    ],
+    "lab": [
+      22.29,
+      41.43,
+      -59.19
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D23",
+    "brand": "manman",
+    "code": "D23",
+    "name": "D23",
+    "hex": "#E3E1EE",
+    "rgb": [
+      227,
+      225,
+      238
+    ],
+    "lab": [
+      90.02,
+      3.05,
+      -6.08
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D24",
+    "brand": "manman",
+    "code": "D24",
+    "name": "D24",
+    "hex": "#C4D4F6",
+    "rgb": [
+      196,
+      212,
+      246
+    ],
+    "lab": [
+      84.73,
+      1.64,
+      -18.44
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D27",
+    "brand": "manman",
+    "code": "D27",
+    "name": "D27",
+    "hex": "#A45EC7",
+    "rgb": [
+      164,
+      94,
+      199
+    ],
+    "lab": [
+      51.86,
+      46.48,
+      -43.55
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D33",
+    "brand": "manman",
+    "code": "D33",
+    "name": "D33",
+    "hex": "#D8C3D7",
+    "rgb": [
+      216,
+      195,
+      215
+    ],
+    "lab": [
+      81.04,
+      10.89,
+      -7.27
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D34",
+    "brand": "manman",
+    "code": "D34",
+    "name": "D34",
+    "hex": "#9C32B2",
+    "rgb": [
+      156,
+      50,
+      178
+    ],
+    "lab": [
+      42.1,
+      60.63,
+      -46.94
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-D35",
+    "brand": "manman",
+    "code": "D35",
+    "name": "D35",
+    "hex": "#9A009B",
+    "rgb": [
+      154,
+      0,
+      155
+    ],
+    "lab": [
+      36.44,
+      67.56,
+      -42.25
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-DH1",
+    "brand": "manman",
+    "code": "DH1",
+    "name": "DH1",
+    "hex": "#333A95",
+    "rgb": [
+      51,
+      58,
+      149
+    ],
+    "lab": [
+      29.16,
+      27.2,
+      -51.01
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-IC8",
+    "brand": "manman",
+    "code": "IC8",
+    "name": "IC8",
+    "hex": "#EBDAFC",
+    "rgb": [
+      235,
+      218,
+      252
+    ],
+    "lab": [
+      89.31,
+      11.96,
+      -14.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Q14",
+    "brand": "manman",
+    "code": "Q14",
+    "name": "Q14",
+    "hex": "#7786E5",
+    "rgb": [
+      119,
+      134,
+      229
+    ],
+    "lab": [
+      58.63,
+      19.78,
+      -50.02
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Q15",
+    "brand": "manman",
+    "code": "Q15",
+    "name": "Q15",
+    "hex": "#494FC7",
+    "rgb": [
+      73,
+      79,
+      199
+    ],
+    "lab": [
+      39.8,
+      34.69,
+      -63.4
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-R01",
+    "brand": "manman",
+    "code": "R01",
+    "name": "R01",
+    "hex": "#DFC2F8",
+    "rgb": [
+      223,
+      194,
+      248
+    ],
+    "lab": [
+      82.41,
+      20.08,
+      -22.82
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E1",
+    "brand": "manman",
+    "code": "E1",
+    "name": "E1",
+    "hex": "#FDD3CC",
+    "rgb": [
+      253,
+      211,
+      204
+    ],
+    "lab": [
+      87.89,
+      13.63,
+      8.97
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A7",
+    "brand": "manman",
+    "code": "A7",
+    "name": "A7",
+    "hex": "#FEC0DF",
+    "rgb": [
+      254,
+      192,
+      223
+    ],
+    "lab": [
+      84.02,
+      26.87,
+      -6.76
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A8",
+    "brand": "manman",
+    "code": "A8",
+    "name": "A8",
+    "hex": "#FFB7E7",
+    "rgb": [
+      255,
+      183,
+      231
+    ],
+    "lab": [
+      82.32,
+      33.24,
+      -13.55
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A9",
+    "brand": "manman",
+    "code": "A9",
+    "name": "A9",
+    "hex": "#E8649E",
+    "rgb": [
+      232,
+      100,
+      158
+    ],
+    "lab": [
+      60.55,
+      56.84,
+      -5.76
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A10",
+    "brand": "manman",
+    "code": "A10",
+    "name": "A10",
+    "hex": "#F551A2",
+    "rgb": [
+      245,
+      81,
+      162
+    ],
+    "lab": [
+      59.81,
+      68.97,
+      -8.96
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A11",
+    "brand": "manman",
+    "code": "A11",
+    "name": "A11",
+    "hex": "#F13D74",
+    "rgb": [
+      241,
+      61,
+      116
+    ],
+    "lab": [
+      55.39,
+      70.41,
+      11.6
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A12",
+    "brand": "manman",
+    "code": "A12",
+    "name": "A12",
+    "hex": "#C63478",
+    "rgb": [
+      198,
+      52,
+      120
+    ],
+    "lab": [
+      46.74,
+      61.9,
+      -4.27
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A13",
+    "brand": "manman",
+    "code": "A13",
+    "name": "A13",
+    "hex": "#FFDBE9",
+    "rgb": [
+      255,
+      219,
+      233
+    ],
+    "lab": [
+      90.69,
+      14.71,
+      -2.21
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A14",
+    "brand": "manman",
+    "code": "A14",
+    "name": "A14",
+    "hex": "#E970CC",
+    "rgb": [
+      233,
+      112,
+      204
+    ],
+    "lab": [
+      64.38,
+      57.95,
+      -26.18
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A16",
+    "brand": "manman",
+    "code": "A16",
+    "name": "A16",
+    "hex": "#D33793",
+    "rgb": [
+      211,
+      55,
+      147
+    ],
+    "lab": [
+      50.32,
+      67.3,
+      -14.98
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A19",
+    "brand": "manman",
+    "code": "A19",
+    "name": "A19",
+    "hex": "#FCDDD2",
+    "rgb": [
+      252,
+      221,
+      210
+    ],
+    "lab": [
+      90.35,
+      8.98,
+      9.33
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A20",
+    "brand": "manman",
+    "code": "A20",
+    "name": "A20",
+    "hex": "#F78FC3",
+    "rgb": [
+      247,
+      143,
+      195
+    ],
+    "lab": [
+      71.8,
+      45.72,
+      -9.74
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A21",
+    "brand": "manman",
+    "code": "A21",
+    "name": "A21",
+    "hex": "#B5006D",
+    "rgb": [
+      181,
+      0,
+      109
+    ],
+    "lab": [
+      39.46,
+      67.08,
+      -8.64
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E21",
+    "brand": "manman",
+    "code": "E21",
+    "name": "E21",
+    "hex": "#FFD1BA",
+    "rgb": [
+      255,
+      209,
+      186
+    ],
+    "lab": [
+      87.2,
+      12.88,
+      17.5
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A23",
+    "brand": "manman",
+    "code": "A23",
+    "name": "A23",
+    "hex": "#F8C7C9",
+    "rgb": [
+      248,
+      199,
+      201
+    ],
+    "lab": [
+      84.5,
+      17.67,
+      5.62
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-IC2",
+    "brand": "manman",
+    "code": "IC2",
+    "name": "IC2",
+    "hex": "#FFF3EB",
+    "rgb": [
+      255,
+      243,
+      235
+    ],
+    "lab": [
+      96.56,
+      2.68,
+      5.29
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-IC7",
+    "brand": "manman",
+    "code": "IC7",
+    "name": "IC7",
+    "hex": "#FFE2EA",
+    "rgb": [
+      255,
+      226,
+      234
+    ],
+    "lab": [
+      92.4,
+      11.24,
+      -0.24
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-IC13",
+    "brand": "manman",
+    "code": "IC13",
+    "name": "IC13",
+    "hex": "#FFC7DB",
+    "rgb": [
+      255,
+      199,
+      219
+    ],
+    "lab": [
+      85.62,
+      22.9,
+      -2.25
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-IC12",
+    "brand": "manman",
+    "code": "IC12",
+    "name": "IC12",
+    "hex": "#FEBAD5",
+    "rgb": [
+      254,
+      186,
+      213
+    ],
+    "lab": [
+      82.38,
+      28.45,
+      -3.82
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Q1",
+    "brand": "manman",
+    "code": "Q1",
+    "name": "Q1",
+    "hex": "#D8C7D1",
+    "rgb": [
+      216,
+      199,
+      209
+    ],
+    "lab": [
+      81.87,
+      7.68,
+      -2.83
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Q2",
+    "brand": "manman",
+    "code": "Q2",
+    "name": "Q2",
+    "hex": "#BD9DA1",
+    "rgb": [
+      189,
+      157,
+      161
+    ],
+    "lab": [
+      67.66,
+      12.47,
+      2.35
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Q4",
+    "brand": "manman",
+    "code": "Q4",
+    "name": "Q4",
+    "hex": "#B785A1",
+    "rgb": [
+      183,
+      133,
+      161
+    ],
+    "lab": [
+      61.15,
+      23.61,
+      -7.28
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Q3",
+    "brand": "manman",
+    "code": "Q3",
+    "name": "Q3",
+    "hex": "#937A8D",
+    "rgb": [
+      147,
+      122,
+      141
+    ],
+    "lab": [
+      54.08,
+      13.1,
+      -6.66
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-G8",
+    "brand": "manman",
+    "code": "G8",
+    "name": "G8",
+    "hex": "#E1BCE8",
+    "rgb": [
+      225,
+      188,
+      232
+    ],
+    "lab": [
+      80.63,
+      20.83,
+      -16.93
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A1",
+    "brand": "manman",
+    "code": "A1",
+    "name": "A1",
+    "hex": "#FD957B",
+    "rgb": [
+      253,
+      149,
+      123
+    ],
+    "lab": [
+      72.1,
+      36.48,
+      30.58
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A2",
+    "brand": "manman",
+    "code": "A2",
+    "name": "A2",
+    "hex": "#FC3D46",
+    "rgb": [
+      252,
+      61,
+      70
+    ],
+    "lab": [
+      56.57,
+      70.82,
+      40.46
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A3",
+    "brand": "manman",
+    "code": "A3",
+    "name": "A3",
+    "hex": "#F74941",
+    "rgb": [
+      247,
+      73,
+      65
+    ],
+    "lab": [
+      57,
+      65.25,
+      43.47
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A4",
+    "brand": "manman",
+    "code": "A4",
+    "name": "A4",
+    "hex": "#FC283C",
+    "rgb": [
+      252,
+      40,
+      60
+    ],
+    "lab": [
+      54.6,
+      75.69,
+      43.85
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A5",
+    "brand": "manman",
+    "code": "A5",
+    "name": "A5",
+    "hex": "#E7002F",
+    "rgb": [
+      231,
+      0,
+      47
+    ],
+    "lab": [
+      48.51,
+      75.03,
+      43.4
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E9",
+    "brand": "manman",
+    "code": "E9",
+    "name": "E9",
+    "hex": "#943630",
+    "rgb": [
+      148,
+      54,
+      48
+    ],
+    "lab": [
+      36.27,
+      39.17,
+      24.64
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A6",
+    "brand": "manman",
+    "code": "A6",
+    "name": "A6",
+    "hex": "#971937",
+    "rgb": [
+      151,
+      25,
+      55
+    ],
+    "lab": [
+      33.03,
+      51.45,
+      16.2
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A17",
+    "brand": "manman",
+    "code": "A17",
+    "name": "A17",
+    "hex": "#BC0028",
+    "rgb": [
+      188,
+      0,
+      40
+    ],
+    "lab": [
+      39.32,
+      64.4,
+      35.05
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A15",
+    "brand": "manman",
+    "code": "A15",
+    "name": "A15",
+    "hex": "#E2677A",
+    "rgb": [
+      226,
+      103,
+      122
+    ],
+    "lab": [
+      59.23,
+      49.58,
+      13.1
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E15",
+    "brand": "manman",
+    "code": "E15",
+    "name": "E15",
+    "hex": "#8A4526",
+    "rgb": [
+      138,
+      69,
+      38
+    ],
+    "lab": [
+      37.48,
+      26.82,
+      31.52
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E16",
+    "brand": "manman",
+    "code": "E16",
+    "name": "E16",
+    "hex": "#5A2121",
+    "rgb": [
+      90,
+      33,
+      33
+    ],
+    "lab": [
+      21.48,
+      26.25,
+      13.44
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A22",
+    "brand": "manman",
+    "code": "A22",
+    "name": "A22",
+    "hex": "#FD4E6A",
+    "rgb": [
+      253,
+      78,
+      106
+    ],
+    "lab": [
+      59.32,
+      67.43,
+      23.23
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A24",
+    "brand": "manman",
+    "code": "A24",
+    "name": "A24",
+    "hex": "#F35744",
+    "rgb": [
+      243,
+      87,
+      68
+    ],
+    "lab": [
+      58.32,
+      58.75,
+      43.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-A25",
+    "brand": "manman",
+    "code": "A25",
+    "name": "A25",
+    "hex": "#FFA9AD",
+    "rgb": [
+      255,
+      169,
+      173
+    ],
+    "lab": [
+      77.67,
+      32.13,
+      11.03
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-DH8",
+    "brand": "manman",
+    "code": "DH8",
+    "name": "DH8",
+    "hex": "#D30022",
+    "rgb": [
+      211,
+      0,
+      34
+    ],
+    "lab": [
+      44.19,
+      69.88,
+      44.88
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-IC10",
+    "brand": "manman",
+    "code": "IC10",
+    "name": "IC10",
+    "hex": "#FEC2A6",
+    "rgb": [
+      254,
+      194,
+      166
+    ],
+    "lab": [
+      83.13,
+      17.81,
+      22.4
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Q9",
+    "brand": "manman",
+    "code": "Q9",
+    "name": "Q9",
+    "hex": "#E69C79",
+    "rgb": [
+      230,
+      156,
+      121
+    ],
+    "lab": [
+      70.86,
+      23.71,
+      29.51
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Q10",
+    "brand": "manman",
+    "code": "Q10",
+    "name": "Q10",
+    "hex": "#D37C46",
+    "rgb": [
+      211,
+      124,
+      70
+    ],
+    "lab": [
+      60.52,
+      29.15,
+      43.29
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Q05",
+    "brand": "manman",
+    "code": "Q05",
+    "name": "Q05",
+    "hex": "#C1444A",
+    "rgb": [
+      193,
+      68,
+      74
+    ],
+    "lab": [
+      46.93,
+      50.36,
+      23.95
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-R04",
+    "brand": "manman",
+    "code": "R04",
+    "name": "R04",
+    "hex": "#CD9391",
+    "rgb": [
+      205,
+      147,
+      145
+    ],
+    "lab": [
+      66.44,
+      21.6,
+      9.77
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-R03",
+    "brand": "manman",
+    "code": "R03",
+    "name": "R03",
+    "hex": "#F7B4C6",
+    "rgb": [
+      247,
+      180,
+      198
+    ],
+    "lab": [
+      79.9,
+      26.88,
+      0.55
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-R02",
+    "brand": "manman",
+    "code": "R02",
+    "name": "R02",
+    "hex": "#FDC0D0",
+    "rgb": [
+      253,
+      192,
+      208
+    ],
+    "lab": [
+      83.52,
+      24.18,
+      0.52
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-R05",
+    "brand": "manman",
+    "code": "R05",
+    "name": "R05",
+    "hex": "#F67E66",
+    "rgb": [
+      246,
+      126,
+      102
+    ],
+    "lab": [
+      66.12,
+      43.84,
+      34.11
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-G9",
+    "brand": "manman",
+    "code": "G9",
+    "name": "G9",
+    "hex": "#E698AA",
+    "rgb": [
+      230,
+      152,
+      170
+    ],
+    "lab": [
+      71,
+      31.62,
+      2.73
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-G10",
+    "brand": "manman",
+    "code": "G10",
+    "name": "G10",
+    "hex": "#E54B4F",
+    "rgb": [
+      229,
+      75,
+      79
+    ],
+    "lab": [
+      54.3,
+      59.56,
+      31.63
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E3",
+    "brand": "manman",
+    "code": "E3",
+    "name": "E3",
+    "hex": "#FFE2CE",
+    "rgb": [
+      255,
+      226,
+      206
+    ],
+    "lab": [
+      91.73,
+      6.88,
+      13.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E4",
+    "brand": "manman",
+    "code": "E4",
+    "name": "E4",
+    "hex": "#FFC4AA",
+    "rgb": [
+      255,
+      196,
+      170
+    ],
+    "lab": [
+      83.78,
+      17.62,
+      21.19
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E5",
+    "brand": "manman",
+    "code": "E5",
+    "name": "E5",
+    "hex": "#F4C3A5",
+    "rgb": [
+      244,
+      195,
+      165
+    ],
+    "lab": [
+      82.37,
+      13.36,
+      21.73
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E6",
+    "brand": "manman",
+    "code": "E6",
+    "name": "E6",
+    "hex": "#E1B383",
+    "rgb": [
+      225,
+      179,
+      131
+    ],
+    "lab": [
+      76,
+      10.46,
+      30.84
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-B7",
+    "brand": "manman",
+    "code": "B7",
+    "name": "B7",
+    "hex": "#EDB045",
+    "rgb": [
+      237,
+      176,
+      69
+    ],
+    "lab": [
+      75.75,
+      12.2,
+      61.08
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-B8",
+    "brand": "manman",
+    "code": "B8",
+    "name": "B8",
+    "hex": "#E99C17",
+    "rgb": [
+      233,
+      156,
+      23
+    ],
+    "lab": [
+      70.29,
+      19.62,
+      71.21
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E7",
+    "brand": "manman",
+    "code": "E7",
+    "name": "E7",
+    "hex": "#9D5B3E",
+    "rgb": [
+      157,
+      91,
+      62
+    ],
+    "lab": [
+      45.63,
+      24.19,
+      28.19
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E8",
+    "brand": "manman",
+    "code": "E8",
+    "name": "E8",
+    "hex": "#753832",
+    "rgb": [
+      117,
+      56,
+      50
+    ],
+    "lab": [
+      31.44,
+      26.12,
+      16.18
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E10",
+    "brand": "manman",
+    "code": "E10",
+    "name": "E10",
+    "hex": "#E6B483",
+    "rgb": [
+      230,
+      180,
+      131
+    ],
+    "lab": [
+      76.74,
+      11.92,
+      31.91
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-B9",
+    "brand": "manman",
+    "code": "B9",
+    "name": "B9",
+    "hex": "#D98C39",
+    "rgb": [
+      217,
+      140,
+      57
+    ],
+    "lab": [
+      64.81,
+      22.39,
+      54.34
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E12",
+    "brand": "manman",
+    "code": "E12",
+    "name": "E12",
+    "hex": "#E0C593",
+    "rgb": [
+      224,
+      197,
+      147
+    ],
+    "lab": [
+      80.68,
+      2.39,
+      28.61
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E13",
+    "brand": "manman",
+    "code": "E13",
+    "name": "E13",
+    "hex": "#FFC890",
+    "rgb": [
+      255,
+      200,
+      144
+    ],
+    "lab": [
+      84.27,
+      12.64,
+      35.46
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E17",
+    "brand": "manman",
+    "code": "E17",
+    "name": "E17",
+    "hex": "#B7714A",
+    "rgb": [
+      183,
+      113,
+      74
+    ],
+    "lab": [
+      54.42,
+      23.8,
+      33.05
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E14",
+    "brand": "manman",
+    "code": "E14",
+    "name": "E14",
+    "hex": "#8D614C",
+    "rgb": [
+      141,
+      97,
+      76
+    ],
+    "lab": [
+      45.27,
+      15.19,
+      19.14
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E19",
+    "brand": "manman",
+    "code": "E19",
+    "name": "E19",
+    "hex": "#FCF9E0",
+    "rgb": [
+      252,
+      249,
+      224
+    ],
+    "lab": [
+      97.56,
+      -3.15,
+      12.36
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E20",
+    "brand": "manman",
+    "code": "E20",
+    "name": "E20",
+    "hex": "#F2D9BA",
+    "rgb": [
+      242,
+      217,
+      186
+    ],
+    "lab": [
+      87.99,
+      3.92,
+      18.44
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E22",
+    "brand": "manman",
+    "code": "E22",
+    "name": "E22",
+    "hex": "#78524B",
+    "rgb": [
+      120,
+      82,
+      75
+    ],
+    "lab": [
+      38.79,
+      14.91,
+      10.5
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-DH5",
+    "brand": "manman",
+    "code": "DH5",
+    "name": "DH5",
+    "hex": "#FFE4CC",
+    "rgb": [
+      255,
+      228,
+      204
+    ],
+    "lab": [
+      92.18,
+      5.56,
+      15.09
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-DH3",
+    "brand": "manman",
+    "code": "DH3",
+    "name": "DH3",
+    "hex": "#E07935",
+    "rgb": [
+      224,
+      121,
+      53
+    ],
+    "lab": [
+      61.47,
+      35.16,
+      53.05
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-DH13",
+    "brand": "manman",
+    "code": "DH13",
+    "name": "DH13",
+    "hex": "#A94023",
+    "rgb": [
+      169,
+      64,
+      35
+    ],
+    "lab": [
+      41.57,
+      41.61,
+      39.02
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Q8",
+    "brand": "manman",
+    "code": "Q8",
+    "name": "Q8",
+    "hex": "#B88558",
+    "rgb": [
+      184,
+      133,
+      88
+    ],
+    "lab": [
+      59.59,
+      14.3,
+      31.86
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-F1",
+    "brand": "manman",
+    "code": "F1",
+    "name": "F1",
+    "hex": "#FDFBFF",
+    "rgb": [
+      253,
+      251,
+      255
+    ],
+    "lab": [
+      98.87,
+      1.36,
+      -1.68
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-F2",
+    "brand": "manman",
+    "code": "F2",
+    "name": "F2",
+    "hex": "#FEFFFF",
+    "rgb": [
+      254,
+      255,
+      255
+    ],
+    "lab": [
+      99.93,
+      -0.33,
+      -0.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-F3",
+    "brand": "manman",
+    "code": "F3",
+    "name": "F3",
+    "hex": "#B6B1BA",
+    "rgb": [
+      182,
+      177,
+      186
+    ],
+    "lab": [
+      72.85,
+      3.45,
+      -3.95
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-F4",
+    "brand": "manman",
+    "code": "F4",
+    "name": "F4",
+    "hex": "#89858C",
+    "rgb": [
+      137,
+      133,
+      140
+    ],
+    "lab": [
+      56.07,
+      2.87,
+      -3.22
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-F5",
+    "brand": "manman",
+    "code": "F5",
+    "name": "F5",
+    "hex": "#48464E",
+    "rgb": [
+      72,
+      70,
+      78
+    ],
+    "lab": [
+      30.18,
+      2.64,
+      -4.48
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-F6",
+    "brand": "manman",
+    "code": "F6",
+    "name": "F6",
+    "hex": "#2F2B2F",
+    "rgb": [
+      47,
+      43,
+      47
+    ],
+    "lab": [
+      18.09,
+      2.74,
+      -1.93
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-F7",
+    "brand": "manman",
+    "code": "F7",
+    "name": "F7",
+    "hex": "#000000",
+    "rgb": [
+      0,
+      0,
+      0
+    ],
+    "lab": [
+      0,
+      0,
+      0
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-F8",
+    "brand": "manman",
+    "code": "F8",
+    "name": "F8",
+    "hex": "#E7D6DB",
+    "rgb": [
+      231,
+      214,
+      219
+    ],
+    "lab": [
+      87.09,
+      6.7,
+      -0.34
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-F10",
+    "brand": "manman",
+    "code": "F10",
+    "name": "F10",
+    "hex": "#EDEDED",
+    "rgb": [
+      237,
+      237,
+      237
+    ],
+    "lab": [
+      93.75,
+      0,
+      0
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-F9",
+    "brand": "manman",
+    "code": "F9",
+    "name": "F9",
+    "hex": "#EEE9EA",
+    "rgb": [
+      238,
+      233,
+      234
+    ],
+    "lab": [
+      92.75,
+      1.85,
+      0.11
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-F11",
+    "brand": "manman",
+    "code": "F11",
+    "name": "F11",
+    "hex": "#CECDD5",
+    "rgb": [
+      206,
+      205,
+      213
+    ],
+    "lab": [
+      82.69,
+      1.82,
+      -3.84
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E18",
+    "brand": "manman",
+    "code": "E18",
+    "name": "E18",
+    "hex": "#FFF5ED",
+    "rgb": [
+      255,
+      245,
+      237
+    ],
+    "lab": [
+      97.1,
+      2,
+      5.04
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-E23",
+    "brand": "manman",
+    "code": "E23",
+    "name": "E23",
+    "hex": "#F5ECD2",
+    "rgb": [
+      245,
+      236,
+      210
+    ],
+    "lab": [
+      93.48,
+      -1.21,
+      13.7
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-F12",
+    "brand": "manman",
+    "code": "F12",
+    "name": "F12",
+    "hex": "#CFD7D3",
+    "rgb": [
+      207,
+      215,
+      211
+    ],
+    "lab": [
+      85.29,
+      -3.44,
+      1.03
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-DH4",
+    "brand": "manman",
+    "code": "DH4",
+    "name": "DH4",
+    "hex": "#98A6A8",
+    "rgb": [
+      152,
+      166,
+      168
+    ],
+    "lab": [
+      67.11,
+      -4.5,
+      -2.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-DH11",
+    "brand": "manman",
+    "code": "DH11",
+    "name": "DH11",
+    "hex": "#1D1414",
+    "rgb": [
+      29,
+      20,
+      20
+    ],
+    "lab": [
+      7.34,
+      4.53,
+      1.61
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-IC6",
+    "brand": "manman",
+    "code": "IC6",
+    "name": "IC6",
+    "hex": "#F1EDED",
+    "rgb": [
+      241,
+      237,
+      237
+    ],
+    "lab": [
+      94.05,
+      1.34,
+      0.47
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-IC1",
+    "brand": "manman",
+    "code": "IC1",
+    "name": "IC1",
+    "hex": "#FFFDF0",
+    "rgb": [
+      255,
+      253,
+      240
+    ],
+    "lab": [
+      99.14,
+      -1.55,
+      6.45
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-IC11",
+    "brand": "manman",
+    "code": "IC11",
+    "name": "IC11",
+    "hex": "#F6EFE2",
+    "rgb": [
+      246,
+      239,
+      226
+    ],
+    "lab": [
+      94.66,
+      0.16,
+      7.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Q12",
+    "brand": "manman",
+    "code": "Q12",
+    "name": "Q12",
+    "hex": "#949FA3",
+    "rgb": [
+      148,
+      159,
+      163
+    ],
+    "lab": [
+      64.75,
+      -3.08,
+      -3.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-G1",
+    "brand": "manman",
+    "code": "G1",
+    "name": "G1",
+    "hex": "#FFFBE1",
+    "rgb": [
+      255,
+      251,
+      225
+    ],
+    "lab": [
+      98.31,
+      -2.95,
+      12.94
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-G2",
+    "brand": "manman",
+    "code": "G2",
+    "name": "G2",
+    "hex": "#CACAD4",
+    "rgb": [
+      202,
+      202,
+      212
+    ],
+    "lab": [
+      81.59,
+      1.87,
+      -4.96
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-G11",
+    "brand": "manman",
+    "code": "G11",
+    "name": "G11",
+    "hex": "#9A9D94",
+    "rgb": [
+      154,
+      157,
+      148
+    ],
+    "lab": [
+      64.26,
+      -2.78,
+      4.33
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-YX11",
+    "brand": "manman",
+    "code": "YX11",
+    "name": "YX11",
+    "hex": "#BCC6B8",
+    "rgb": [
+      188,
+      198,
+      184
+    ],
+    "lab": [
+      78.78,
+      -6.01,
+      5.83
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-YX12",
+    "brand": "manman",
+    "code": "YX12",
+    "name": "YX12",
+    "hex": "#8AA386",
+    "rgb": [
+      138,
+      163,
+      134
+    ],
+    "lab": [
+      64.42,
+      -14.41,
+      12.21
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-YX2",
+    "brand": "manman",
+    "code": "YX2",
+    "name": "YX2",
+    "hex": "#697D80",
+    "rgb": [
+      105,
+      125,
+      128
+    ],
+    "lab": [
+      50.95,
+      -6.58,
+      -4.07
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-YX15",
+    "brand": "manman",
+    "code": "YX15",
+    "name": "YX15",
+    "hex": "#E3D2BC",
+    "rgb": [
+      227,
+      210,
+      188
+    ],
+    "lab": [
+      85.03,
+      2.34,
+      13.03
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-YX6",
+    "brand": "manman",
+    "code": "YX6",
+    "name": "YX6",
+    "hex": "#D0CCAA",
+    "rgb": [
+      208,
+      204,
+      170
+    ],
+    "lab": [
+      81.56,
+      -4.23,
+      17.48
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-YX1",
+    "brand": "manman",
+    "code": "YX1",
+    "name": "YX1",
+    "hex": "#B0A782",
+    "rgb": [
+      176,
+      167,
+      130
+    ],
+    "lab": [
+      68.37,
+      -2.74,
+      20.35
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-YX13",
+    "brand": "manman",
+    "code": "YX13",
+    "name": "YX13",
+    "hex": "#B4A497",
+    "rgb": [
+      180,
+      164,
+      151
+    ],
+    "lab": [
+      68.38,
+      3.61,
+      8.85
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-YX14",
+    "brand": "manman",
+    "code": "YX14",
+    "name": "YX14",
+    "hex": "#B38281",
+    "rgb": [
+      179,
+      130,
+      129
+    ],
+    "lab": [
+      59.1,
+      18.74,
+      8.01
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-YX10",
+    "brand": "manman",
+    "code": "YX10",
+    "name": "YX10",
+    "hex": "#A58767",
+    "rgb": [
+      165,
+      135,
+      103
+    ],
+    "lab": [
+      58.33,
+      6.8,
+      21.51
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-YX9",
+    "brand": "manman",
+    "code": "YX9",
+    "name": "YX9",
+    "hex": "#C5B2BC",
+    "rgb": [
+      197,
+      178,
+      188
+    ],
+    "lab": [
+      74.41,
+      8.54,
+      -2.6
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-YX4",
+    "brand": "manman",
+    "code": "YX4",
+    "name": "YX4",
+    "hex": "#9F7594",
+    "rgb": [
+      159,
+      117,
+      148
+    ],
+    "lab": [
+      54.27,
+      21.69,
+      -10.32
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-YX5",
+    "brand": "manman",
+    "code": "YX5",
+    "name": "YX5",
+    "hex": "#644749",
+    "rgb": [
+      100,
+      71,
+      73
+    ],
+    "lab": [
+      33.34,
+      12.74,
+      3.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-YX8",
+    "brand": "manman",
+    "code": "YX8",
+    "name": "YX8",
+    "hex": "#D19066",
+    "rgb": [
+      209,
+      144,
+      102
+    ],
+    "lab": [
+      65.33,
+      19.93,
+      32.14
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-YX3",
+    "brand": "manman",
+    "code": "YX3",
+    "name": "YX3",
+    "hex": "#C77362",
+    "rgb": [
+      199,
+      115,
+      98
+    ],
+    "lab": [
+      57.36,
+      31.25,
+      23.75
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-YX7",
+    "brand": "manman",
+    "code": "YX7",
+    "name": "YX7",
+    "hex": "#757D78",
+    "rgb": [
+      117,
+      125,
+      120
+    ],
+    "lab": [
+      51.62,
+      -4,
+      1.7
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P1",
+    "brand": "manman",
+    "code": "P1",
+    "name": "P1",
+    "hex": "#FCF7F8",
+    "rgb": [
+      252,
+      247,
+      248
+    ],
+    "lab": [
+      97.63,
+      1.83,
+      0.11
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P2",
+    "brand": "manman",
+    "code": "P2",
+    "name": "P2",
+    "hex": "#B0A9AC",
+    "rgb": [
+      176,
+      169,
+      172
+    ],
+    "lab": [
+      69.88,
+      3.06,
+      -0.65
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P4",
+    "brand": "manman",
+    "code": "P4",
+    "name": "P4",
+    "hex": "#AFDCAB",
+    "rgb": [
+      175,
+      220,
+      171
+    ],
+    "lab": [
+      83.57,
+      -23.88,
+      19.39
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P5",
+    "brand": "manman",
+    "code": "P5",
+    "name": "P5",
+    "hex": "#FEA49F",
+    "rgb": [
+      254,
+      164,
+      159
+    ],
+    "lab": [
+      76.15,
+      32.7,
+      16.49
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P3",
+    "brand": "manman",
+    "code": "P3",
+    "name": "P3",
+    "hex": "#EE8C3E",
+    "rgb": [
+      238,
+      140,
+      62
+    ],
+    "lab": [
+      67.49,
+      31.29,
+      55.69
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P8",
+    "brand": "manman",
+    "code": "P8",
+    "name": "P8",
+    "hex": "#5FD0A7",
+    "rgb": [
+      95,
+      208,
+      167
+    ],
+    "lab": [
+      76.27,
+      -41.93,
+      10.71
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P6",
+    "brand": "manman",
+    "code": "P6",
+    "name": "P6",
+    "hex": "#EB9270",
+    "rgb": [
+      235,
+      146,
+      112
+    ],
+    "lab": [
+      69.04,
+      30.16,
+      32.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P7",
+    "brand": "manman",
+    "code": "P7",
+    "name": "P7",
+    "hex": "#F0D958",
+    "rgb": [
+      240,
+      217,
+      88
+    ],
+    "lab": [
+      86.43,
+      -6.7,
+      64.4
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P13",
+    "brand": "manman",
+    "code": "P13",
+    "name": "P13",
+    "hex": "#D9D9D9",
+    "rgb": [
+      217,
+      217,
+      217
+    ],
+    "lab": [
+      86.7,
+      0,
+      0
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P18",
+    "brand": "manman",
+    "code": "P18",
+    "name": "P18",
+    "hex": "#D9C7EA",
+    "rgb": [
+      217,
+      199,
+      234
+    ],
+    "lab": [
+      82.67,
+      12.7,
+      -15
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P9",
+    "brand": "manman",
+    "code": "P9",
+    "name": "P9",
+    "hex": "#F3ECC9",
+    "rgb": [
+      243,
+      236,
+      201
+    ],
+    "lab": [
+      93.13,
+      -3.27,
+      17.84
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P12",
+    "brand": "manman",
+    "code": "P12",
+    "name": "P12",
+    "hex": "#E6EEF2",
+    "rgb": [
+      230,
+      238,
+      242
+    ],
+    "lab": [
+      93.62,
+      -1.92,
+      -2.85
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P17",
+    "brand": "manman",
+    "code": "P17",
+    "name": "P17",
+    "hex": "#AACBEF",
+    "rgb": [
+      170,
+      203,
+      239
+    ],
+    "lab": [
+      80.45,
+      -2.89,
+      -21.34
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P22",
+    "brand": "manman",
+    "code": "P22",
+    "name": "P22",
+    "hex": "#337680",
+    "rgb": [
+      51,
+      118,
+      128
+    ],
+    "lab": [
+      45.93,
+      -17.95,
+      -11.88
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P23",
+    "brand": "manman",
+    "code": "P23",
+    "name": "P23",
+    "hex": "#668575",
+    "rgb": [
+      102,
+      133,
+      117
+    ],
+    "lab": [
+      52.82,
+      -14.51,
+      5.05
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P14",
+    "brand": "manman",
+    "code": "P14",
+    "name": "P14",
+    "hex": "#FEBF45",
+    "rgb": [
+      254,
+      191,
+      69
+    ],
+    "lab": [
+      81.16,
+      11.49,
+      67.11
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P19",
+    "brand": "manman",
+    "code": "P19",
+    "name": "P19",
+    "hex": "#FEA324",
+    "rgb": [
+      254,
+      163,
+      36
+    ],
+    "lab": [
+      74.44,
+      25.02,
+      72.32
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P11",
+    "brand": "manman",
+    "code": "P11",
+    "name": "P11",
+    "hex": "#FEB89F",
+    "rgb": [
+      254,
+      184,
+      159
+    ],
+    "lab": [
+      80.66,
+      22.23,
+      22.73
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P10",
+    "brand": "manman",
+    "code": "P10",
+    "name": "P10",
+    "hex": "#FFFEEC",
+    "rgb": [
+      255,
+      254,
+      236
+    ],
+    "lab": [
+      99.3,
+      -2.71,
+      8.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P15",
+    "brand": "manman",
+    "code": "P15",
+    "name": "P15",
+    "hex": "#FEBECF",
+    "rgb": [
+      254,
+      190,
+      207
+    ],
+    "lab": [
+      83.13,
+      25.43,
+      0.51
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P20",
+    "brand": "manman",
+    "code": "P20",
+    "name": "P20",
+    "hex": "#ECBEBF",
+    "rgb": [
+      236,
+      190,
+      191
+    ],
+    "lab": [
+      80.97,
+      16.59,
+      5.75
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P16",
+    "brand": "manman",
+    "code": "P16",
+    "name": "P16",
+    "hex": "#E4A89F",
+    "rgb": [
+      228,
+      168,
+      159
+    ],
+    "lab": [
+      74.19,
+      20.85,
+      13.33
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-P21",
+    "brand": "manman",
+    "code": "P21",
+    "name": "P21",
+    "hex": "#A56268",
+    "rgb": [
+      165,
+      98,
+      104
+    ],
+    "lab": [
+      49.17,
+      27.85,
+      8.3
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-W3",
+    "brand": "manman",
+    "code": "W3",
+    "name": "W3",
+    "hex": "#F2A5E8",
+    "rgb": [
+      242,
+      165,
+      232
+    ],
+    "lab": [
+      77.05,
+      38.61,
+      -22.18
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-W4",
+    "brand": "manman",
+    "code": "W4",
+    "name": "W4",
+    "hex": "#E9EC91",
+    "rgb": [
+      233,
+      236,
+      145
+    ],
+    "lab": [
+      91.4,
+      -14.17,
+      43.76
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-W1",
+    "brand": "manman",
+    "code": "W1",
+    "name": "W1",
+    "hex": "#FFFF00",
+    "rgb": [
+      255,
+      255,
+      0
+    ],
+    "lab": [
+      97.14,
+      -21.55,
+      94.48
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-W2",
+    "brand": "manman",
+    "code": "W2",
+    "name": "W2",
+    "hex": "#FFEBFA",
+    "rgb": [
+      255,
+      235,
+      250
+    ],
+    "lab": [
+      94.98,
+      9.32,
+      -4.78
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-W5",
+    "brand": "manman",
+    "code": "W5",
+    "name": "W5",
+    "hex": "#76CEDE",
+    "rgb": [
+      118,
+      206,
+      222
+    ],
+    "lab": [
+      78.03,
+      -22.3,
+      -16.16
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-T1",
+    "brand": "manman",
+    "code": "T1",
+    "name": "T1",
+    "hex": "#D50D21",
+    "rgb": [
+      213,
+      13,
+      33
+    ],
+    "lab": [
+      45.01,
+      69.18,
+      46.3
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-N1",
+    "brand": "manman",
+    "code": "N1",
+    "name": "N1",
+    "hex": "#F92F83",
+    "rgb": [
+      249,
+      47,
+      131
+    ],
+    "lab": [
+      55.9,
+      77.39,
+      3.6
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-N2",
+    "brand": "manman",
+    "code": "N2",
+    "name": "N2",
+    "hex": "#FD8324",
+    "rgb": [
+      253,
+      131,
+      36
+    ],
+    "lab": [
+      67.46,
+      41.02,
+      66.63
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-N3",
+    "brand": "manman",
+    "code": "N3",
+    "name": "N3",
+    "hex": "#F8EC31",
+    "rgb": [
+      248,
+      236,
+      49
+    ],
+    "lab": [
+      91.76,
+      -14.55,
+      83.12
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-N4",
+    "brand": "manman",
+    "code": "N4",
+    "name": "N4",
+    "hex": "#35C75B",
+    "rgb": [
+      53,
+      199,
+      91
+    ],
+    "lab": [
+      71.12,
+      -60.45,
+      42.89
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-T4",
+    "brand": "manman",
+    "code": "T4",
+    "name": "T4",
+    "hex": "#238891",
+    "rgb": [
+      35,
+      136,
+      145
+    ],
+    "lab": [
+      51.85,
+      -24.63,
+      -12.98
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-T5",
+    "brand": "manman",
+    "code": "T5",
+    "name": "T5",
+    "hex": "#19779D",
+    "rgb": [
+      25,
+      119,
+      157
+    ],
+    "lab": [
+      46.75,
+      -12.34,
+      -27.83
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-T3",
+    "brand": "manman",
+    "code": "T3",
+    "name": "T3",
+    "hex": "#1A60C3",
+    "rgb": [
+      26,
+      96,
+      195
+    ],
+    "lab": [
+      42.04,
+      16.73,
+      -57.53
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-T2",
+    "brand": "manman",
+    "code": "T2",
+    "name": "T2",
+    "hex": "#9A56B4",
+    "rgb": [
+      154,
+      86,
+      180
+    ],
+    "lab": [
+      48.03,
+      43.88,
+      -38.69
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-L2",
+    "brand": "manman",
+    "code": "L2",
+    "name": "L2",
+    "hex": "#FFDB4C",
+    "rgb": [
+      255,
+      219,
+      76
+    ],
+    "lab": [
+      88.18,
+      -2.14,
+      71.42
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-T6",
+    "brand": "manman",
+    "code": "T6",
+    "name": "T6",
+    "hex": "#FFEBFB",
+    "rgb": [
+      255,
+      235,
+      251
+    ],
+    "lab": [
+      95.01,
+      9.49,
+      -5.26
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-T7",
+    "brand": "manman",
+    "code": "T7",
+    "name": "T7",
+    "hex": "#D8D5CE",
+    "rgb": [
+      216,
+      213,
+      206
+    ],
+    "lab": [
+      85.32,
+      -0.21,
+      3.82
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman--",
+    "brand": "manman",
+    "code": "-",
+    "name": "-",
+    "hex": "#55514C",
+    "rgb": [
+      85,
+      81,
+      76
+    ],
+    "lab": [
+      34.68,
+      0.62,
+      3.52
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-S1",
+    "brand": "manman",
+    "code": "S1",
+    "name": "S1",
+    "hex": "#9FE4DF",
+    "rgb": [
+      159,
+      228,
+      223
+    ],
+    "lab": [
+      86.1,
+      -22.52,
+      -4.47
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-S2",
+    "brand": "manman",
+    "code": "S2",
+    "name": "S2",
+    "hex": "#77CEE9",
+    "rgb": [
+      119,
+      206,
+      233
+    ],
+    "lab": [
+      78.43,
+      -19.12,
+      -21.45
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-S3",
+    "brand": "manman",
+    "code": "S3",
+    "name": "S3",
+    "hex": "#3ECFCA",
+    "rgb": [
+      62,
+      207,
+      202
+    ],
+    "lab": [
+      76.01,
+      -38.38,
+      -8.59
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-S5",
+    "brand": "manman",
+    "code": "S5",
+    "name": "S5",
+    "hex": "#4A867A",
+    "rgb": [
+      74,
+      134,
+      122
+    ],
+    "lab": [
+      51.74,
+      -22.6,
+      0.38
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-S4",
+    "brand": "manman",
+    "code": "S4",
+    "name": "S4",
+    "hex": "#7FCD9D",
+    "rgb": [
+      127,
+      205,
+      157
+    ],
+    "lab": [
+      76.44,
+      -34.46,
+      16.47
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-S11",
+    "brand": "manman",
+    "code": "S11",
+    "name": "S11",
+    "hex": "#CDE55D",
+    "rgb": [
+      205,
+      229,
+      93
+    ],
+    "lab": [
+      86.9,
+      -26.45,
+      62.01
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-S6",
+    "brand": "manman",
+    "code": "S6",
+    "name": "S6",
+    "hex": "#E8C7B4",
+    "rgb": [
+      232,
+      199,
+      180
+    ],
+    "lab": [
+      82.54,
+      8.75,
+      13.83
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-S13",
+    "brand": "manman",
+    "code": "S13",
+    "name": "S13",
+    "hex": "#AD6F3C",
+    "rgb": [
+      173,
+      111,
+      60
+    ],
+    "lab": [
+      52.49,
+      19.65,
+      37.98
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-S15",
+    "brand": "manman",
+    "code": "S15",
+    "name": "S15",
+    "hex": "#6C372F",
+    "rgb": [
+      108,
+      55,
+      47
+    ],
+    "lab": [
+      29.73,
+      22.6,
+      15.58
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-S12",
+    "brand": "manman",
+    "code": "S12",
+    "name": "S12",
+    "hex": "#FEB872",
+    "rgb": [
+      254,
+      184,
+      114
+    ],
+    "lab": [
+      79.94,
+      17.89,
+      45.24
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-S14",
+    "brand": "manman",
+    "code": "S14",
+    "name": "S14",
+    "hex": "#C9675E",
+    "rgb": [
+      201,
+      103,
+      94
+    ],
+    "lab": [
+      55,
+      37.99,
+      22.97
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-S9",
+    "brand": "manman",
+    "code": "S9",
+    "name": "S9",
+    "hex": "#D293BE",
+    "rgb": [
+      210,
+      147,
+      190
+    ],
+    "lab": [
+      68.23,
+      30.36,
+      -12.74
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-S8",
+    "brand": "manman",
+    "code": "S8",
+    "name": "S8",
+    "hex": "#EA8CB1",
+    "rgb": [
+      234,
+      140,
+      177
+    ],
+    "lab": [
+      69.06,
+      40.32,
+      -3.96
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-S10",
+    "brand": "manman",
+    "code": "S10",
+    "name": "S10",
+    "hex": "#9C87D6",
+    "rgb": [
+      156,
+      135,
+      214
+    ],
+    "lab": [
+      61,
+      24.79,
+      -37.72
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-L6",
+    "brand": "manman",
+    "code": "L6",
+    "name": "L6",
+    "hex": "#FFFFFF",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "lab": [
+      100,
+      0,
+      0
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Y1",
+    "brand": "manman",
+    "code": "Y1",
+    "name": "Y1",
+    "hex": "#FD6FB4",
+    "rgb": [
+      253,
+      111,
+      180
+    ],
+    "lab": [
+      66.18,
+      61.01,
+      -9.65
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Y2",
+    "brand": "manman",
+    "code": "Y2",
+    "name": "Y2",
+    "hex": "#FEB481",
+    "rgb": [
+      254,
+      180,
+      129
+    ],
+    "lab": [
+      79.22,
+      21.25,
+      36.65
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Y3",
+    "brand": "manman",
+    "code": "Y3",
+    "name": "Y3",
+    "hex": "#D7FAA0",
+    "rgb": [
+      215,
+      250,
+      160
+    ],
+    "lab": [
+      94.04,
+      -25.89,
+      39.52
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Y4",
+    "brand": "manman",
+    "code": "Y4",
+    "name": "Y4",
+    "hex": "#8BDBFA",
+    "rgb": [
+      139,
+      219,
+      250
+    ],
+    "lab": [
+      83.47,
+      -16.61,
+      -22.77
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-Y5",
+    "brand": "manman",
+    "code": "Y5",
+    "name": "Y5",
+    "hex": "#E987EA",
+    "rgb": [
+      233,
+      135,
+      234
+    ],
+    "lab": [
+      69.89,
+      51.72,
+      -34.36
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-ZG1",
+    "brand": "manman",
+    "code": "ZG1",
+    "name": "ZG1",
+    "hex": "#DAABB3",
+    "rgb": [
+      218,
+      171,
+      179
+    ],
+    "lab": [
+      74.37,
+      18.38,
+      2.5
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-ZG2",
+    "brand": "manman",
+    "code": "ZG2",
+    "name": "ZG2",
+    "hex": "#D6AA87",
+    "rgb": [
+      214,
+      170,
+      135
+    ],
+    "lab": [
+      72.76,
+      11.35,
+      24.18
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-ZG3",
+    "brand": "manman",
+    "code": "ZG3",
+    "name": "ZG3",
+    "hex": "#C1BD8D",
+    "rgb": [
+      193,
+      189,
+      141
+    ],
+    "lab": [
+      75.86,
+      -6.25,
+      24.84
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-ZG4",
+    "brand": "manman",
+    "code": "ZG4",
+    "name": "ZG4",
+    "hex": "#96869F",
+    "rgb": [
+      150,
+      134,
+      159
+    ],
+    "lab": [
+      58.07,
+      10.86,
+      -11.07
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-ZG5",
+    "brand": "manman",
+    "code": "ZG5",
+    "name": "ZG5",
+    "hex": "#8490A6",
+    "rgb": [
+      132,
+      144,
+      166
+    ],
+    "lab": [
+      59.53,
+      0.55,
+      -13.03
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-ZG6",
+    "brand": "manman",
+    "code": "ZG6",
+    "name": "ZG6",
+    "hex": "#94BFE2",
+    "rgb": [
+      148,
+      191,
+      226
+    ],
+    "lab": [
+      75.48,
+      -5.87,
+      -22.03
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-ZG7",
+    "brand": "manman",
+    "code": "ZG7",
+    "name": "ZG7",
+    "hex": "#E2A9D2",
+    "rgb": [
+      226,
+      169,
+      210
+    ],
+    "lab": [
+      75.58,
+      27.38,
+      -12.6
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  },
+  {
+    "id": "manman-ZG8",
+    "brand": "manman",
+    "code": "ZG8",
+    "name": "ZG8",
+    "hex": "#AB91C0",
+    "rgb": [
+      171,
+      145,
+      192
+    ],
+    "lab": [
+      63.93,
+      18.68,
+      -20.75
+    ],
+    "source": "colorSystemMapping",
+    "license": "community"
+  }
+]
