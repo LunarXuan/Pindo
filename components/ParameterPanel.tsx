@@ -120,6 +120,8 @@ export default function ParameterPanel(props: Props) {
     }
   };
 
+  const clampSize = (value: number) => Math.max(1, Math.min(200, Math.round(value)));
+
   const toggleSeries = (series: string) => {
     const next = new Set(props.selectedSeries);
     if (next.has(series)) next.delete(series);
@@ -277,7 +279,10 @@ export default function ParameterPanel(props: Props) {
         <div className="grid gap-4 md:grid-cols-[9rem_1fr] md:items-center">
           <Label className="text-base">宽度</Label>
           <div className="space-y-2">
-            <Slider min={1} max={200} step={1} value={[props.width]} onValueChange={([v]) => handleWidthChange(v)} />
+            <div className="flex items-center gap-3">
+              <Slider className="flex-1" min={1} max={200} step={1} value={[props.width]} onValueChange={([v]) => handleWidthChange(v)} />
+              {!props.recognitionMode && <label className="flex shrink-0 items-center gap-1 text-sm text-gray-500"><input type="number" min={1} max={200} value={props.width} onChange={e => handleWidthChange(clampSize(Number(e.target.value) || 1))} className="h-9 w-16 rounded-lg border border-pink-200 bg-white px-2 text-center font-semibold text-gray-800 outline-none focus:border-pink-500" /><span>颗</span></label>}
+            </div>
             <div className="text-sm text-gray-700">宽度： <span className="font-semibold">{props.width}</span> 颗</div>
           </div>
         </div>
@@ -285,7 +290,10 @@ export default function ParameterPanel(props: Props) {
         <div className="grid gap-4 md:grid-cols-[9rem_1fr] md:items-center">
           <Label className="text-base">高度</Label>
           <div className="space-y-2">
-            <Slider min={1} max={200} step={1} value={[props.height]} onValueChange={([v]) => handleHeightChange(v)} />
+            <div className="flex items-center gap-3">
+              <Slider className="flex-1" min={1} max={200} step={1} value={[props.height]} onValueChange={([v]) => handleHeightChange(v)} />
+              {!props.recognitionMode && <label className="flex shrink-0 items-center gap-1 text-sm text-gray-500"><input type="number" min={1} max={200} value={props.height} onChange={e => handleHeightChange(clampSize(Number(e.target.value) || 1))} className="h-9 w-16 rounded-lg border border-pink-200 bg-white px-2 text-center font-semibold text-gray-800 outline-none focus:border-pink-500" /><span>颗</span></label>}
+            </div>
             <div className="text-sm text-gray-700">高度： <span className="font-semibold">{props.height}</span> 颗</div>
           </div>
         </div>

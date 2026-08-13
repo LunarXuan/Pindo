@@ -21,9 +21,42 @@ import PatternPreview from '@/components/PatternPreview';
 import BeadUsageList from '@/components/BeadUsageList';
 import ExportPanel from '@/components/ExportPanel';
 import StartupNotice from '@/components/StartupNotice';
+import ColorCodeHighlight from '@/components/ColorCodeHighlight';
 import { CREATIVE_MODE_SETTINGS, type CreativeMode } from '@/lib/engine/creative-mode';
 
-type WorkMode = 'generate' | 'recognize';
+type WorkMode = 'generate' | 'recognize' | 'highlight';
+
+function WorkModeSelector({ workMode, onChange }: { workMode: WorkMode; onChange: (mode: WorkMode) => void }) {
+  const offset = workMode === 'generate' ? 'translate-x-0' : workMode === 'recognize' ? 'translate-x-full' : 'translate-x-[200%]';
+
+  return (
+    <div className="rounded-xl border border-gray-200 bg-white p-4 shadow-sm">
+      <div className="mb-3 text-sm font-semibold text-gray-700">工作模式</div>
+      <div className="relative grid grid-cols-3 rounded-full bg-gray-100 p-1 text-sm font-medium">
+        <span className={`absolute bottom-1 left-1 top-1 w-[calc(33.333%-0.25rem)] rounded-full bg-emerald-500 shadow transition-transform ${offset}`} />
+        {([
+          ['generate', '图片生成图纸'],
+          ['recognize', '拼豆图纸识别'],
+          ['highlight', '图纸色号高亮'],
+        ] as const).map(([mode, label]) => (
+          <button
+            key={mode}
+            type="button"
+            onClick={() => onChange(mode)}
+            className={`relative z-10 rounded-full px-3 py-2 transition ${workMode === mode ? 'text-white' : 'text-gray-600'}`}
+          >
+            {label}
+          </button>
+        ))}
+      </div>
+      {workMode === 'recognize' && (
+        <p className="mt-3 text-xs leading-5 text-gray-500">
+          支持上传有网格无色号，或无网格无色号的图纸；无网格时会按下方宽高颗数切分识别。
+        </p>
+      )}
+    </div>
+  );
+}
 
 function codeSeries(code: string) {
   return (code.trim().match(/^[^\d]+/)?.[0] || code.trim().charAt(0) || '').toUpperCase();
@@ -362,7 +395,7 @@ export default function Home() {
   ]);
 
   useEffect(() => {
-    if (imageFile) runCurrentGenerate(imageFile);
+    if (imageFile && workMode !== 'highlight') runCurrentGenerate(imageFile);
   }, [imageFile, runCurrentGenerate]);
 
   const handleCreativeModeChange = useCallback((mode: CreativeMode) => {
@@ -397,37 +430,15 @@ export default function Home() {
           )}
         </header>
 
-        <div className="grid gap-5 xl:grid-cols-[520px_1fr]">
+        {workMode === 'highlight' ? (
+          <ColorCodeHighlight
+            currentPattern={pattern}
+            currentPalette={palette}
+            modeSelector={<WorkModeSelector workMode={workMode} onChange={setWorkMode} />}
+          />
+        ) : <div className="grid gap-5 xl:grid-cols-[520px_1fr]">
           <aside className="space-y-5">
-            <div className="rounded-xl border border-gray-200 bg-white p-4 shadow-sm">
-              <div className="mb-3 text-sm font-semibold text-gray-700">工作模式</div>
-              <div className="relative grid grid-cols-2 rounded-full bg-gray-100 p-1 text-sm font-medium">
-                <span
-                  className={`absolute bottom-1 left-1 top-1 w-[calc(50%-0.25rem)] rounded-full bg-emerald-500 shadow transition-transform ${
-                    workMode === 'recognize' ? 'translate-x-full' : 'translate-x-0'
-                  }`}
-                />
-                <button
-                  type="button"
-                  onClick={() => setWorkMode('generate')}
-                  className={`relative z-10 rounded-full px-3 py-2 transition ${workMode === 'generate' ? 'text-white' : 'text-gray-600'}`}
-                >
-                  图片生成图纸
-                </button>
-                <button
-                  type="button"
-                  onClick={() => setWorkMode('recognize')}
-                  className={`relative z-10 rounded-full px-3 py-2 transition ${workMode === 'recognize' ? 'text-white' : 'text-gray-600'}`}
-                >
-                  拼豆图纸识别
-                </button>
-              </div>
-              {workMode === 'recognize' && (
-                <p className="mt-3 text-xs leading-5 text-gray-500">
-                  支持上传有网格无色号，或无网格无色号的图纸；无网格时会按下方宽高颗数切分识别。
-                </p>
-              )}
-            </div>
+            <WorkModeSelector workMode={workMode} onChange={setWorkMode} />
             <ImageUploader onImageSelected={handleImageSelected} />
             <ParameterPanel
               brand={brand}
@@ -493,7 +504,7 @@ export default function Home() {
               </div>
             )}
           </section>
-        </div>
+        </div>}
       </div>
     </main>
   );

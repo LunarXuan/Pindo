@@ -6,9 +6,10 @@ interface Props {
   pattern: BeadPattern | null;
   palette: CompiledBeadColor[];
   onCellClick?: (row: number, col: number, shiftKey: boolean) => void;
+  highlightedColorIds?: Set<string>;
 }
 
-export default function PatternPreview({ pattern, palette, onCellClick }: Props) {
+export default function PatternPreview({ pattern, palette, onCellClick, highlightedColorIds }: Props) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const [zoom, setZoom] = useState(1);
   const [showGrid, setShowGrid] = useState(true);
@@ -183,8 +184,13 @@ export default function PatternPreview({ pattern, palette, onCellClick }: Props)
       for (let x = 0; x < width; x++) {
         const cell = pattern.cells[y][x];
         const color = colorMap.get(cell.colorId);
+        const isHighlighted = !highlightedColorIds || highlightedColorIds.size === 0 || highlightedColorIds.has(cell.colorId);
         ctx.fillStyle = color?.hex ?? '#FF00FF';
         ctx.fillRect(x * cellSize, y * cellSize, cellSize, cellSize);
+        if (!isHighlighted) {
+          ctx.fillStyle = 'rgba(10, 14, 22, 0.72)';
+          ctx.fillRect(x * cellSize, y * cellSize, cellSize, cellSize);
+        }
         if (showGrid) {
           ctx.strokeStyle = 'rgba(0,0,0,0.18)';
           ctx.lineWidth = 0.75;
@@ -192,7 +198,9 @@ export default function PatternPreview({ pattern, palette, onCellClick }: Props)
         }
         if (color) {
           const luma = 0.2126 * color.rgb[0] + 0.7152 * color.rgb[1] + 0.0722 * color.rgb[2];
-          ctx.fillStyle = luma < 145 ? '#fff' : '#111827';
+          ctx.fillStyle = isHighlighted
+            ? (luma < 145 ? '#fff' : '#111827')
+            : (luma < 145 ? 'rgba(255,255,255,0.5)' : 'rgba(10,15,24,0.62)');
           ctx.font = '10px Arial, sans-serif';
           ctx.textAlign = 'center';
           ctx.textBaseline = 'middle';
@@ -200,7 +208,7 @@ export default function PatternPreview({ pattern, palette, onCellClick }: Props)
         }
       }
     }
-  }, [pattern, palette, showGrid]);
+  }, [pattern, palette, showGrid, highlightedColorIds]);
 
   const handleClick = (e: React.MouseEvent<HTMLCanvasElement>) => {
     // Ignore click if user was dragging
