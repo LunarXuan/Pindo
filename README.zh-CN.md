@@ -6,7 +6,7 @@ Pindo 是一个本地优先的拼豆图纸工具，可将照片、插画和像�
 
 所有图片处理均在浏览器中完成。Pindo 不会将原始图片上传到应用服务器。
 
-[在线体验 Pindo](https://pindo.vercel.app)
+[在线体验 Pindo](https://pindo-eight.vercel.app)
 
 ## 功能特性
 

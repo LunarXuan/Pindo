@@ -6,7 +6,7 @@ Pindo is a local-first tool for turning photos, illustrations, and pixel art int
 
 All image processing runs in the browser. Pindo does not upload source images to an application server.
 
-[Try Pindo online](https://pindo.vercel.app)
+[Try Pindo online](https://pindo-eight.vercel.app)
 
 ## Features
 
