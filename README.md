@@ -1,76 +1,104 @@
-# Pindo 拼豆图纸生成器
+**English** | [简体中文](README.zh-CN.md)
 
-Pindo 是一个**本地运行**的拼豆图纸工具：把图片转换成带网格、色号和用量统计的拼豆图纸，也可以识别已有的无色号图纸并自动补全色号标注。所有图片处理都在浏览器本地完成，图片不会上传到任何服务器。
+# Pindo — Fuse Bead Pattern Generator
 
-## 功能特性
+Pindo is a local-first tool for turning photos, illustrations, and pixel art into numbered fuse-bead patterns. It can also recognize existing unlabeled bead charts and add grid, color-code, and usage information.
 
-- **图片生成图纸**：上传照片、插画或像素图，按品牌色板生成拼豆图纸
-- **拼豆图纸识别**：识别有网格或无网格的无色号图纸，自动补全网格、色号和用量
-- **品牌色板**：MARD、Hama、Perler、Artkal S、COCO、漫漫、盼盼、咪小窝 共 8 套
-- **创作模式**：写实、主色、清晰三种还原风格
-- **颜色筛选**：按色系或单色（已有/没有）控制生成范围
-- **尺寸设置**：按「颗」为单位设置宽高，支持锁定宽高比
-- **图纸预览**：每个颗粒显示对应品牌的色号
-- **导出**：导出 PNG（底部附带所需色号和数量统计），或导出 PDF
-- **拼图模式**：引导式拼图视图（`/focus`）
-- **多语言**：简体中文 / English 界面
-- **Android**：基于 Capacitor 打包为 Android 应用（见 [ANDROID.md](ANDROID.md)）
+All image processing runs in the browser. Pindo does not upload source images to an application server.
 
-## 快速开始
+[Try Pindo online](https://pindo.vercel.app)
 
-**Windows 用户**：双击 `打开 Pindo.lnk` 即可（首次启动会自动安装依赖并构建）。
+## Features
 
-手动启动：
+- **Image to pattern** — Convert photos, illustrations, or pixel art into bead charts.
+- **Pattern recognition** — Recognize unlabeled charts with or without a visible grid.
+- **Color-code highlighting** — Inspect and highlight individual bead colors in a chart.
+- **Eight brand palettes** — MARD, Hama, Perler, Artkal S, COCO, Manman, Panpan, and Mixiaowo.
+- **Flexible rendering** — Choose a creative mode, dithering strategy, palette limit, and image adjustments.
+- **Palette filters** — Include or exclude color series and individual color codes.
+- **Bead-based sizing** — Set width and height in beads and optionally lock the aspect ratio.
+- **Usage statistics** — View the required color codes and bead quantities.
+- **PNG export** — Save a chart with its grid, color codes, and usage legend.
+- **Bilingual UI** — Simplified Chinese and English.
+- **Local and portable** — Static web build, PWA assets, Windows launcher, and a Capacitor Android path.
+
+## Privacy model
+
+Uploaded images are decoded and processed with browser Canvas APIs and typed arrays. The application has no image-upload API or application backend. When self-hosting, the selected static host still serves the application assets as usual.
+
+## Quick start
+
+### Windows launcher
+
+Clone or download the repository, then double-click `启动 Pindo.cmd`. On the first launch, the script installs locked dependencies, builds the static application, and opens the local server.
+
+### Development server
 
 ```powershell
-npm install
+npm ci
+npm run dev
+```
+
+Open <http://localhost:3000>.
+
+### Production-like local build
+
+```powershell
+npm ci
 npm run build
 node server.mjs --open
 ```
 
-浏览器打开 <http://localhost:3000>。
+The static export is generated in `out/` and served only on `127.0.0.1` by default.
 
-## 开发命令
+## Development commands
+
+| Command | Purpose |
+| --- | --- |
+| `npm run dev` | Start the Next.js development server |
+| `npm run build` | Build the static export in `out/` |
+| `npm test` | Run the Vitest test suite |
+| `npm run lint` | Run ESLint |
+| `npm run android:sync` | Build and sync web assets to Capacitor Android |
+| `npm run android:open` | Open the Android project in Android Studio |
+
+## Android packaging
+
+Capacitor configuration is included with application ID `com.pindo.app` and web directory `out`. Generate the Android project locally on first use, then sync and open it:
 
 ```powershell
-npm run dev        # 开发模式（热更新）
-npm run build      # 构建静态导出到 out/
-npm test           # 运行 Vitest 测试
-npm run lint       # ESLint 检查
+npm run android:add
+npm run android:sync
+npm run android:open
 ```
 
-## Android 打包
+See [ANDROID.md](ANDROID.md) for details. Android signing keys such as `pindo-release.jks` are sensitive and must not be committed.
 
-```powershell
-npm run android:sync   # 构建并同步到 android/ 平台
-npx cap open android   # 用 Android Studio 打开
-```
+## Technology
 
-应用配置（`capacitor.config.ts`）：`appId: com.pindo.app`，`webDir: out`。详细说明见 [ANDROID.md](ANDROID.md)。
+- Next.js 16 static export, React 19, and TypeScript
+- Tailwind CSS 4 and shadcn/ui
+- Browser Canvas and typed arrays for image processing
+- Vitest for algorithm tests
+- Capacitor 8 for the Android packaging path
+- jsPDF and Canvas-based export modules
 
-> ⚠️ 签名密钥（`pindo-release.jks`）属于敏感文件，已被 `.gitignore` 排除，不要提交到仓库。
+## Project structure
 
-## 技术栈
-
-- **框架**：Next.js 16（静态导出）+ React 19 + TypeScript
-- **样式**：Tailwind CSS 4 + shadcn/ui
-- **图像处理**：Canvas + Typed Arrays（浏览器本地）
-- **测试**：Vitest
-- **移动端**：Capacitor 8（Android）
-- **导出**：jspdf、Canvas PNG
-
-## 项目结构
-
-```
-├── app/                  # 页面（主工作台、focus 拼图模式）
-├── components/           # UI 组件（上传、参数、预览、用量、导出等）
+```text
+├── app/                  # Main workspace and focus-mode pages
+├── components/           # Upload, parameters, preview, usage, and export UI
 ├── lib/
-│   ├── engine/           # 图像处理核心（缩放、配色、清洗、图纸识别）
-│   ├── export/           # PNG / PDF 导出
-│   ├── data/palettes/    # 品牌色板数据
-│   ├── i18n/             # 中英文界面
-│   └── native/           # 原生能力（保存到相册等）
-├── public/               # 静态资源、PWA 图标
-├── scripts/              # 色板编译、图标生成等脚本
-└── server.mjs            # 本地静态服务器（配合双击启动）
+│   ├── engine/           # Scaling, matching, cleanup, and chart recognition
+│   ├── export/           # PNG and PDF export modules
+│   ├── data/palettes/    # Compiled brand palette data
+│   ├── i18n/             # Chinese and English UI strings
+│   └── native/           # Native bridge definitions
+├── public/               # PWA manifest, service worker, icons, and static assets
+├── scripts/              # Palette and icon generation scripts
+└── server.mjs            # Dependency-free local static server
 ```
+
+## Contributing
+
+Issues and pull requests are welcome. For behavior changes, include or update relevant tests and verify the static build. Treat changes to dependencies, launch scripts, local file serving, and native bridges as security-sensitive.
