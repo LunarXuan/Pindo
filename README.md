@@ -102,3 +102,7 @@ See [ANDROID.md](ANDROID.md) for details. Android signing keys such as `pindo-re
 ## Contributing
 
 Issues and pull requests are welcome. For behavior changes, include or update relevant tests and verify the static build. Treat changes to dependencies, launch scripts, local file serving, and native bridges as security-sensitive.
+
+## Community
+
+Community link: [LINUX DO](https://linux.do/) — Join the community to discuss IT technologies and open-source projects.
