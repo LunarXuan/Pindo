@@ -10,9 +10,9 @@ function srgbToLinear(c: number): number {
 
 function rgbToLab(r: number, g: number, b: number): LabColor {
   const lr = srgbToLinear(r), lg = srgbToLinear(g), lb = srgbToLinear(b);
-  let x = lr * 0.4124564 + lg * 0.3575761 + lb * 0.1804375;
-  let y = lr * 0.2126729 + lg * 0.7151522 + lb * 0.0721750;
-  let z = lr * 0.0193339 + lg * 0.1191920 + lb * 0.9503041;
+  const x = lr * 0.4124564 + lg * 0.3575761 + lb * 0.1804375;
+  const y = lr * 0.2126729 + lg * 0.7151522 + lb * 0.0721750;
+  const z = lr * 0.0193339 + lg * 0.1191920 + lb * 0.9503041;
   const f = (t: number) => t > 0.008856 ? Math.cbrt(t) : 7.787 * t + 16 / 116;
   const fx = f(x / 0.95047), fy = f(y / 1.0), fz = f(z / 1.08883);
   return { L: 116 * fy - 16, a: 500 * (fx - fy), b: 200 * (fy - fz) };

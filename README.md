@@ -106,3 +106,9 @@ Issues and pull requests are welcome. For behavior changes, include or update re
 ## Community
 
 Community link: [LINUX DO](https://linux.do/) — Join the community to discuss IT technologies and open-source projects.
+
+## License
+
+Copyright © 2026 LunarXuan.
+
+Pindo is licensed under the [GNU General Public License v3.0 only](LICENSE).

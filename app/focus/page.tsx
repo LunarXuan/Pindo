@@ -1,5 +1,6 @@
 'use client';
 import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
+import Link from 'next/link';
 import type { BeadPattern, CompiledBeadColor } from '@/lib/types/bead';
 import { useI18n } from '@/lib/i18n/context';
 
@@ -31,6 +32,7 @@ export default function FocusPage() {
   const lastMouse = useRef({ x: 0, y: 0 });
 
   // Load data from localStorage
+  /* eslint-disable react-hooks/set-state-in-effect -- Client-only state is restored after hydration. */
   useEffect(() => {
     setDark(document.documentElement.classList.contains('dark'));
     try {
@@ -48,6 +50,7 @@ export default function FocusPage() {
       }
     } catch { /* ignore */ }
   }, []);
+  /* eslint-enable react-hooks/set-state-in-effect */
 
   // Timer
   useEffect(() => {
@@ -68,7 +71,6 @@ export default function FocusPage() {
     if (!pattern || !palette.length) return [];
     const counts = new Map<string, number>();
     const doneCounts = new Map<string, number>();
-    const { width: w } = pattern.metadata;
     for (let r = 0; r < pattern.cells.length; r++) {
       for (let c = 0; c < pattern.cells[r].length; c++) {
         const id = pattern.cells[r][c].colorId;
@@ -132,6 +134,7 @@ export default function FocusPage() {
   }, [pattern, currentColorId, completed, zoom, pan]);
 
   // Detect color completion via effect (avoids stale closure)
+  /* eslint-disable react-hooks/set-state-in-effect -- Completion state intentionally follows derived progress. */
   useEffect(() => {
     if (celebrating) return;
     const cur = colorProgress.find(c => c.color.id === currentColorId);
@@ -144,6 +147,7 @@ export default function FocusPage() {
       }, 1500);
     }
   }, [colorProgress, currentColorId, celebrating]);
+  /* eslint-enable react-hooks/set-state-in-effect */
 
   // Canvas rendering
   useEffect(() => {
@@ -221,7 +225,7 @@ export default function FocusPage() {
       <div className={`min-h-screen flex items-center justify-center ${dark ? 'bg-gray-950 text-gray-100' : 'bg-gray-50 text-gray-900'}`}>
         <div className="text-center space-y-4">
           <p className="text-lg">{t('focus.noData')}</p>
-          <a href="/" className="inline-block px-6 py-2 bg-pink-500 text-white rounded-full hover:bg-pink-600">{t('focus.back')}</a>
+          <Link href="/" className="inline-block px-6 py-2 bg-pink-500 text-white rounded-full hover:bg-pink-600">{t('focus.back')}</Link>
         </div>
       </div>
     );
@@ -231,7 +235,7 @@ export default function FocusPage() {
     <div className={`min-h-screen flex ${dark ? 'bg-gray-950 text-gray-100' : 'bg-gray-50 text-gray-900'}`}>
       {/* Sidebar */}
       <div className={`w-72 flex-shrink-0 border-r overflow-y-auto p-4 space-y-4 ${dark ? 'bg-gray-900 border-gray-800' : 'bg-white border-gray-200'}`}>
-        <a href="/" className="text-sm text-pink-500 dark:text-pink-400 hover:underline">{t('focus.back')}</a>
+        <Link href="/" className="text-sm text-pink-500 dark:text-pink-400 hover:underline">{t('focus.back')}</Link>
         <h1 className="text-lg font-bold">{t('focus.title')}</h1>
 
         {/* Timer */}
@@ -307,9 +311,9 @@ export default function FocusPage() {
               <h2 className="text-2xl font-bold mb-2">{t('focus.allDone')}</h2>
               <p className="text-gray-500 mb-2">{t('focus.allDoneDesc')}</p>
               <p className="text-lg font-mono font-bold mb-6">{t('focus.totalTime')}: {formatTime(elapsed)}</p>
-              <a href="/" className="inline-block px-8 py-3 bg-pink-500 text-white rounded-full hover:bg-pink-600 font-bold">
+              <Link href="/" className="inline-block px-8 py-3 bg-pink-500 text-white rounded-full hover:bg-pink-600 font-bold">
                 {t('focus.back')}
-              </a>
+              </Link>
             </div>
           </div>
         )}

@@ -106,3 +106,9 @@ npm run android:open
 ## 社区友链
 
 友链推广：[LINUX DO](https://linux.do/) — 欢迎大佬们加入社区，共同探讨 IT 技术与开源项目相关内容。
+
+## 许可证
+
+版权所有 © 2026 LunarXuan。
+
+Pindo 仅依据 [GNU 通用公共许可证第 3 版](LICENSE)授权。
